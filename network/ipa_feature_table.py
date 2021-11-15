@@ -6,7 +6,7 @@ class IPAFeatureTable:
                 for line in f:
                     fields = line.split(",")
                     ipa = fields[0]
-                    if ipa == "":
+                    if ipa == "" or ipa == "ipa":
                         continue
                     features = fields[1:]
                     num_features = []

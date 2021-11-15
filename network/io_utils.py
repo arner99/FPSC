@@ -1,5 +1,5 @@
 import numpy as np
-from ipa_feature_table import IPAFeatureTable
+from network.ipa_feature_table import IPAFeatureTable
 
 features = "syl,son,cons,cont,delrel,lat,nas,strid,voi,sg,cg,ant,cor,distr,lab,hi,lo,back,round,velaric,tense,long,hitone,hireg,backshift,frontshift,opening,centering,closing,longdistance,secondrounded,rising,falling,contour".split(
     ",")
