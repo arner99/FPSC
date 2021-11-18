@@ -275,10 +275,13 @@ def include_equivalent_symbols(df):
 if __name__ == "__main__":
     ipa_symbols = pd.read_csv("panphon_data/raw/ipa_symbols.csv", index_col="ipa")
 
+    # if you only wish to add parts of the added symbols, just comment out the undesired methods.
+    # diphthongs and triphthongs can also be added without distinctive lengths and nasalizations by
+    # setting include_length and include_nasal to False.
     ipa_symbols = add_diphthongs(ipa_symbols)
-    #ipa_symbols = add_triphthongs(ipa_symbols)
-    #ipa_symbols = remove_bow(ipa_symbols)
-    #ipa_symbols = add_new_symbols(ipa_symbols)
+    ipa_symbols = add_triphthongs(ipa_symbols)
+    ipa_symbols = remove_bow(ipa_symbols)
+    ipa_symbols = add_new_symbols(ipa_symbols)
     ipa_symbols = include_equivalent_symbols(ipa_symbols)
 
     ipa_symbols = ipa_symbols.fillna("0")

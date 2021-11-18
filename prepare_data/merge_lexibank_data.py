@@ -1,6 +1,6 @@
 from pycldf.dataset import Dataset
 from pycldf import Wordlist, StructureDataset
-from panphon import data as panphon_data
+#from panphon import data as panphon_data
 import pandas as pd
 import json
 import os
