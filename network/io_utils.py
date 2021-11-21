@@ -73,7 +73,7 @@ def get_features():
 
 
 def save_model_weights(model_fp, output_dir):
-    # some
+    # width and depth are hard-coded for our model architecture right now, please modify here when needed
     model = Sequential([
         Dense(128, input_dim=34, activation="gelu"),
         #Dropout(0.05),
