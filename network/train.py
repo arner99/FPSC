@@ -11,14 +11,26 @@ import matplotlib.pyplot as plt
 from itertools import product
 
 
-def train_model(X, y, save_dir, width, depth, activation, dropout,
-                early_stopping=None, plot=False, verbose=False):
+def train_model(X, y, **kwargs):
+    # unpack parameters. default values match our model architecture.
+    save_dir = kwargs["save_dir"] if "save_dir" in kwargs else "./models"
+    model_name = kwargs["model_name"] if "model_name" in kwargs else "model"
+    width = kwargs["width"] if "width" in kwargs else 128
+    depth = kwargs["depth"] if "depth" in kwargs else 3
+    input_dim = kwargs["input_dim"] if "input_dim" in kwargs else 34
+    activation = kwargs["activation"] if "activation" in kwargs else "gelu"
+    dropout = kwargs["dropout"] if "dropout" in kwargs else 0.05
+    early_stopping = kwargs["early_stopping"] if "early_stopping" in kwargs else None
+    train_epochs = kwargs["train_epochs"] if "train_epochs" in kwargs else 200
+    plot = kwargs["plot"] if "plot" in kwargs else False
+    verbose = kwargs["verbose"] if "verbose" in kwargs else False
+
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=42)
 
     if activation == "prelu":
         if depth == 3:
             model = Sequential([
-                Dense(width, input_dim=34),
+                Dense(width, input_dim=input_dim),
                 PReLU(),
                 Dropout(dropout),
                 Dense(width),
@@ -30,7 +42,7 @@ def train_model(X, y, save_dir, width, depth, activation, dropout,
             ])
         elif depth == 2:
             model = Sequential([
-                Dense(width, input_dim=34),
+                Dense(width, input_dim=input_dim),
                 PReLU(),
                 Dropout(dropout),
                 Dense(width),
@@ -42,7 +54,7 @@ def train_model(X, y, save_dir, width, depth, activation, dropout,
     elif activation == "leaky-relu":
         if depth == 3:
             model = Sequential([
-                Dense(width, input_dim=34),
+                Dense(width, input_dim=input_dim),
                 LeakyReLU(),
                 Dropout(dropout),
                 Dense(width),
@@ -54,7 +66,7 @@ def train_model(X, y, save_dir, width, depth, activation, dropout,
             ])
         elif depth == 2:
             model = Sequential([
-                Dense(width, input_dim=34),
+                Dense(width, input_dim=input_dim),
                 LeakyReLU(),
                 Dropout(dropout),
                 LeakyReLU(width),
@@ -66,7 +78,7 @@ def train_model(X, y, save_dir, width, depth, activation, dropout,
     else:
         if depth == 3:
             model = Sequential([
-                Dense(width, input_dim=34, activation=activation),
+                Dense(width, input_dim=input_dim, activation=activation),
                 Dropout(dropout),
                 Dense(width, activation=activation),
                 Dropout(dropout),
@@ -75,26 +87,26 @@ def train_model(X, y, save_dir, width, depth, activation, dropout,
             ])
         elif depth == 2:
             model = Sequential([
-                Dense(width, input_dim=34, activation=activation),
+                Dense(width, input_dim=input_dim, activation=activation),
                 Dropout(dropout),
                 Dense(width, activation=activation),
                 Dense(1)
             ])
         elif depth == 1:
             model = Sequential([
-                Dense(1, activation=activation, input_dim=34)
+                Dense(1, activation=activation, input_dim=input_dim)
             ])
         else:
             raise ValueError
 
-    model_fp = "%s/model.hdf5" % save_dir
+    model_fp = "%s/%s.hdf5" % (save_dir, model_name)
     checkpointer = ModelCheckpoint(model_fp, save_best_only=True)
     model.compile(loss="mean_squared_error", optimizer="adam", metrics=["mean_squared_error"])
     if early_stopping is None:
-        history = model.fit(X_train, y_train, epochs=200, validation_split=0.1, callbacks=[checkpointer])
+        history = model.fit(X_train, y_train, epochs=train_epochs, validation_split=0.1, callbacks=[checkpointer])
     else:
         es = EarlyStopping(patience=early_stopping)
-        history = model.fit(X_train, y_train, epochs=200, validation_split=0.1, callbacks=[checkpointer, es])
+        history = model.fit(X_train, y_train, epochs=train_epochs, validation_split=0.1, callbacks=[checkpointer, es])
 
     val_losses = history.history["val_loss"]
     best_epoch = val_losses.index(min(val_losses)) + 1
@@ -129,5 +141,5 @@ def train_model(X, y, save_dir, width, depth, activation, dropout,
 
 
 if __name__ == "__main__":
-    X, y, _ = load_train_data("neural_approaches/refined/blank-train-data.txt")
-    train_model(X, y, "models", 128, 3, "gelu", 0.05, verbose=True, plot=True)
+    X, y, _ = load_train_data("data/train-data.txt")
+    train_model(X, y, verbose=True, plot=True)
