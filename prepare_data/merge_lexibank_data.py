@@ -176,6 +176,11 @@ def read_data(data, input_dir, greedy_tokenization=False):
     params = list(dataset["ParameterTable"])
     langs = list(dataset["LanguageTable"])
 
+    try:
+        cognates = list(dataset["CognateTable"])
+    except KeyError:
+        cognates = []
+
     if greedy_tokenization:
         standardized_forms = []
         relevant_keys = ["ID", "Language_ID", "Parameter_ID", "Form", "Segments", "Source"]
@@ -186,10 +191,10 @@ def read_data(data, input_dir, greedy_tokenization=False):
             standardized_forms.append(standardized_dict)
         forms = standardized_forms
 
-    return forms, params, langs
+    return forms, params, langs, cognates
 
 
-def write_data(forms, params, langs, output_dir):
+def write_data(forms, params, langs, cognates, output_dir):
     """
     write data in a CLDF format
 
@@ -198,17 +203,15 @@ def write_data(forms, params, langs, output_dir):
     dataset = Wordlist.in_dir(output_dir + "/cldf")
     dataset.add_component("ParameterTable")
     dataset.add_component("LanguageTable")
-    #dataset.add_component("FormTable")
-    dataset.write(FormTable=forms, ParameterTable=params, LanguageTable=langs)
+    dataset.add_component("CognateTable")
+    dataset.write(FormTable=forms, ParameterTable=params, LanguageTable=langs, CognateTable=cognates)
 
 
 if __name__ == '__main__':
     all_forms = []
     all_params = []
     all_langs = []
-
-    #databases = ["bdpa", "bodtkhobwa", "castrosui", "chenhmongmien", "lundgrenomagoa", "naganorgyalrongic",
-    #            "northeuralex", "suntb", "yanglalo"]
+    all_cognates = []
 
     lexibank_source_dir = "./lexibank_data/source_databases"
     databases = [name for name in os.listdir(lexibank_source_dir)
@@ -216,11 +219,14 @@ if __name__ == '__main__':
     target_dir = "./lexibank_data/merged_dataset"
 
     for database in databases:
-        forms, params, langs = read_data(database, input_dir=lexibank_source_dir)
+        if database != "northeuralex-0.9":
+            continue
+        forms, params, langs, cognates = read_data(database, input_dir=lexibank_source_dir)
         all_forms += forms
         all_params += params
         all_langs += langs
+        all_cognates += cognates
 
     inventory, unknown_symbols = make_inventory(all_forms)
     forms_filtered = filter_forms(all_forms, inventory, unknown_symbols)
-    write_data(forms_filtered, all_params, all_langs, output_dir=target_dir)
+    write_data(forms_filtered, all_params, all_langs, all_cognates, output_dir=target_dir)

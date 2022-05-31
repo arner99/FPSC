@@ -12,7 +12,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 173,
+            "dc:extent": 125360,
             "tableSchema": {
                 "columns": [
                     {
@@ -101,7 +101,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 2399,
+            "dc:extent": 8810,
             "tableSchema": {
                 "columns": [
                     {
@@ -134,7 +134,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 19,
+            "dc:extent": 766,
             "tableSchema": {
                 "columns": [
                     {
@@ -203,6 +203,82 @@
                 ]
             },
             "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:extent": 191175,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "References the form which is judged to belong to a cognate set.",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
+                        "required": true,
+                        "name": "Form_ID"
+                    },
+                    {
+                        "dc:description": "References the cognate set a form is judged to belong to.",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
+                        "required": true,
+                        "name": "Cognateset_ID"
+                    },
+                    {
+                        "dc:description": "Specifies the slice of morphemes of the form in case of partial cognacy.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\d+(:\\d+)?"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segmentSlice",
+                        "required": false,
+                        "separator": " ",
+                        "name": "Segment_Slice"
+                    },
+                    {
+                        "dc:description": "The segments of the form aligned with respect to all other forms in the cognate set",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#alignment",
+                        "required": false,
+                        "separator": " ",
+                        "name": "Alignment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "cognates.csv"
         }
     ]
 }
