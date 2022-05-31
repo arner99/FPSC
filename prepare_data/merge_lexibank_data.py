@@ -219,8 +219,6 @@ if __name__ == '__main__':
     target_dir = "./lexibank_data/merged_dataset"
 
     for database in databases:
-        if database != "northeuralex-0.9":
-            continue
         forms, params, langs, cognates = read_data(database, input_dir=lexibank_source_dir)
         all_forms += forms
         all_params += params
