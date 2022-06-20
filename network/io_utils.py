@@ -1,5 +1,8 @@
 import numpy as np
 from network.ipa_feature_table import IPAFeatureTable
+from keras.models import Sequential
+from keras.layers import Dense, Dropout, LeakyReLU, PReLU
+import os
 
 features = "syl,son,cons,cont,delrel,lat,nas,strid,voi,sg,cg,ant,cor,distr,lab,hi,lo,back,round,velaric,tense,long,hitone,hireg,backshift,frontshift,opening,centering,closing,longdistance,secondrounded,rising,falling,contour".split(
     ",")
@@ -69,5 +72,35 @@ def get_features():
     return features
 
 
+def save_model_weights(model_fp, output_dir):
+    # width and depth are hard-coded for our model architecture right now, please modify here when needed
+    model = Sequential([
+        Dense(128, input_dim=34, activation="gelu"),
+        #Dropout(0.05),
+        Dense(128, activation="gelu"),
+        #Dropout(0.05),
+        Dense(128, activation="gelu"),
+        Dense(1)
+    ])
+
+    model.compile(loss="mean_squared_error", optimizer="adam", metrics=["mean_squared_error"])
+    model.load_weights(model_fp)
+
+    if not os.path.isdir(output_dir):
+        os.mkdir(output_dir)
+
+    if not os.path.isdir(output_dir + "/weights"):
+        os.mkdir(output_dir + "/weights")
+
+    for i, layer in enumerate(model.layers):
+        layer_weights = layer.get_weights()[0]
+        layer_biases = layer.get_weights()[1]
+        layer_dir = output_dir + "/weights/layer" + str(i+1)
+        os.mkdir(layer_dir)
+        np.savetxt("%s/weights.txt" % layer_dir, layer_weights)
+        np.savetxt("%s/biases.txt" % layer_dir, layer_biases)
+
+
 if __name__ == "__main__":
     generate_train_data(-7)
+    #save_model_weights("models/model.hdf5", "./models/general_model")
