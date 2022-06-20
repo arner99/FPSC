@@ -1,0 +1,117 @@
+# OLD WORLD
+
+## Eurasia
+northeuralex
+cals (?) # contains many loanwords
+
+### Sino-Tibetian
+bodtkhobwa
+yanglalo
+liusinitic
+luangthongkumkaren
+simsrma
+mannburmish
+sagartst
+wangbcd
+starostintujia
+peirosst
+zhangrgyalrong
+
+### Hmong-Mien
+starostinhmongmien
+hsiuhmongmien
+
+### Indo-European
+meloniromance (?)
+ielexfinal
+saenkoromance
+dyenindoeuropean
+
+### Japonic
+leejaponic
+
+### Koreanic
+leekoreanic
+
+### Ainu
+leeainu
+
+### Turkic
+savelyevturkic
+
+### Uralic
+syrjaenenuralic
+uralex
+
+### Afro-Asiatic
+ratcliffearabic
+felekesemitic
+kitchensemitic
+
+### Dravidian
+dravlex
+
+
+## Oceania
+### Austroasiatic
+sidwellvietic
+sidwellbahnaric
+nagarajakhasian
+peirosaustroasiatic
+dunnaslian
+
+### Austronesian
+acd
+abvdoceanic
+walworthpolynesian
+
+### Pama-Nyungan
+bowernpny
+
+### Timor-Alor-Pantar
+robinsonap
+
+### Nuclear Trans New Guinea
+mcelhanonhuon
+
+
+## Africa
+### Atlantic-Congo
+grollemundbantu
+
+
+
+# NEW WORLD
+crossandean
+chaconcolumbian # probably encorporates the three chacon datasets below
+
+### Uto-Aztecan
+lionnetyotonahua
+utoaztecan
+pharaocoracholaztecan
+davletshinaztecan (?)
+
+### Mixe-Zoque
+wichmannmixezoquean
+
+### Tupian
+gerarditupi
+lundgrenomagoa
+galuciotupi
+
+### Chapacuran
+birchallchapacuran
+
+### Chibchan
+constenlachibchan
+
+### Arawakan
+carvalhopurus
+chaconbaniwa
+chaconarawakan
+
+### Tucanoan
+chacontukanoan
+
+
+## GENERAL QUESTION: how do i deal with duplicates?
