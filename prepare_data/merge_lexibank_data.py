@@ -15,8 +15,69 @@ import os
 # print(derp_dict)
 
 # read in the IPA data from panphon
+# TODO obsolete
 ipa_all = pd.read_csv("panphon_data/expanded/all_ipa_symbols.csv", index_col="Unnamed: 0", dtype=str)
 all_ipa_symbols = list(ipa_all.index)
+
+# read supported base symbols
+base_symbols = []
+with open("etinen_symbol_data/base_ipa_symbols.csv") as f:
+    for line in f:
+        symbol = line.split(",")[0]
+        if symbol != "":
+            base_symbols.append(symbol)
+
+# read supported diacritics
+diacritics = []
+with open("etinen_symbol_data/diacritic_rules.csv") as f:
+    for line in f:
+        symbol = line.split("\t")[0]
+        if symbol != "":
+            diacritics.append(symbol)
+
+# read vowels (for polyphthong processing)
+vowels = []
+with open("etinen_symbol_data/vowel_dimensions.csv") as f:
+    for line in f:
+        symbol = line.split()[0]
+        if symbol != "":
+            vowels.append(symbol)
+
+
+def symbol_is_etinen_compatible(symbol):
+    if symbol in base_symbols:
+        return True
+    elif symbol == "":
+        return False
+    else:
+        if symbol[-1] in diacritics:
+            return symbol_is_etinen_compatible(symbol[:-1])
+        elif symbol[0] in diacritics:
+            return symbol_is_etinen_compatible(symbol[1:])
+        else:
+            return False
+
+
+def is_polyphthong(symbol):
+    vowel_count = 0
+    for c in symbol:
+        if c in vowels:
+            vowel_count += 1
+
+    return vowel_count == 2 or vowel_count == 3
+
+
+def reorder_polyphthong(symbol):
+    polyphthong = ""
+    other_symbols = ""
+    for c in symbol:
+        if c in vowels:
+            polyphthong += c
+        else:
+            other_symbols += c
+
+    base_symbols.append(polyphthong)
+    return polyphthong + other_symbols
 
 
 def lookahead(word, start_index, end_index_from_behind, pattern):
@@ -134,6 +195,69 @@ def filter_forms(forms, inventory, undesired_symbols=None, threshold_one_lang=10
     return filtered_forms
 
 
+def filter_forms_for_etinen(forms):
+    occurrences_per_unknown_symbol = {}
+    filtered_forms = []
+
+    for form in forms:
+        processable = True
+        segments = form["Segments"]
+        for i, seg in enumerate(segments):
+            # remove arrow symbols and stress markers that EtInEn can't process
+            seg = seg.replace("→", "").replace("←", "").replace("ˈ", "").replace(":", "ː")
+            # handle slash notations. right hand side usually corresponds to canonical IPA notation.
+
+            if "/" in seg:
+                try:
+                    left, right = seg.split("/")
+
+                    # polypthong handling
+                    if is_polyphthong(left):
+                        left = reorder_polyphthong(left)
+                    if is_polyphthong(right):
+                        right = reorder_polyphthong(right)
+
+                    if symbol_is_etinen_compatible(right):
+                        seg = right
+                    elif symbol_is_etinen_compatible(left):
+                        seg = left
+                    else:
+                        processable = False
+                        if seg in occurrences_per_unknown_symbol:
+                            occurrences_per_unknown_symbol[seg] += 1
+                        else:
+                            occurrences_per_unknown_symbol[seg] = 1
+                except:
+                    print("More than one '/' in symbol " + seg)
+                    processable = False
+                    if seg in occurrences_per_unknown_symbol:
+                        occurrences_per_unknown_symbol[seg] += 1
+                    else:
+                        occurrences_per_unknown_symbol[seg] = 1
+            else:
+                # polyphthong handling
+                if is_polyphthong(seg):
+                    seg = reorder_polyphthong(seg)
+
+                if not symbol_is_etinen_compatible(seg):
+                    processable = False
+                    if seg in occurrences_per_unknown_symbol:
+                        occurrences_per_unknown_symbol[seg] += 1
+                    else:
+                        occurrences_per_unknown_symbol[seg] = 1
+
+            segments[i] = seg
+
+        while "" in segments:
+            segments.remove("")
+
+        if processable:
+            form["Segments"] = segments
+            filtered_forms.append(form)
+
+    return filtered_forms, occurrences_per_unknown_symbol
+
+
 def dump_inventory_to_json(inventory, filepath):
     """
     dumps a collected phoneme inventory in a json file.
@@ -213,18 +337,68 @@ if __name__ == '__main__':
     all_langs = []
     all_cognates = []
 
-    lexibank_source_dir = "./lexibank_data/source_databases"
+    # store how many concepts each database contains, and which languages (by glottocode) are contained in which dataset.
+    # if glottocodes overlap, remove forms of the database that contains i. less varities under that glottocode and
+    # ii. less concepts.
+    num_params_per_database = {}
+    glottocode_coverage_by_database = {}
+
+    lexibank_source_dir = "./lexibank_data/source_databases_cog"
     databases = [name for name in os.listdir(lexibank_source_dir)
                  if os.path.isdir(os.path.join(lexibank_source_dir, name))]
-    target_dir = "./lexibank_data/merged_dataset"
+    target_dir = "./lexibank_data/merged_dataset_cog"
 
     for database in databases:
         forms, params, langs, cognates = read_data(database, input_dir=lexibank_source_dir)
+
+        num_params_per_database[database] = len(params)
+        for lang in langs:
+            glottocode = lang["Glottocode"]
+            if glottocode in glottocode_coverage_by_database:
+                glotto_dict = glottocode_coverage_by_database[glottocode]
+                if database in glotto_dict:
+                    glotto_dict[database].append(lang["ID"])
+                else:
+                    glotto_dict[database] = [lang["ID"]]
+            else:
+                glottocode_coverage_by_database[glottocode] = {database: [lang["ID"]]}
+
         all_forms += forms
         all_params += params
         all_langs += langs
         all_cognates += cognates
 
-    inventory, unknown_symbols = make_inventory(all_forms)
-    forms_filtered = filter_forms(all_forms, inventory, unknown_symbols)
+    lang_ids_to_remove = [lang["ID"] for lang in all_langs if lang["Glottocode"] == ""]
+
+    for glottocode, sources in glottocode_coverage_by_database.items():
+        if len(sources) > 1:
+            most_varieties = 1
+            databases_with_most_varieties = []
+            for source_database, varieties in sources.items():
+                if len(varieties) > most_varieties:
+                    most_varieties = len(varieties)
+                    databases_with_most_varieties = [source_database]
+                elif len(varieties) == most_varieties:
+                    databases_with_most_varieties.append(source_database)
+
+            if len(databases_with_most_varieties) > 1:
+                database_to_keep = max(databases_with_most_varieties, key=num_params_per_database.get)
+            else:
+                database_to_keep = databases_with_most_varieties[0]
+
+            for source_database, varieties in sources.items():
+                if source_database != database_to_keep:
+                    lang_ids_to_remove += [varieties]
+
+    all_forms = [form for form in all_forms if form["Language_ID"] not in lang_ids_to_remove]
+    all_langs = [lang for lang in all_langs if lang["ID"] not in lang_ids_to_remove]
+
+    forms_filtered, unknown_sybols = filter_forms_for_etinen(all_forms)
+
+    #inventory, unknown_symbols = make_inventory(all_forms)
+    #forms_filtered = filter_forms(all_forms, inventory, unknown_symbols)
     write_data(forms_filtered, all_params, all_langs, all_cognates, output_dir=target_dir)
+
+    with open(f"{target_dir}/unknown_sybols.tsv", "w") as f:
+        for symbol, count in unknown_sybols.items():
+            f.write(f"{symbol}\t{count}\n")

@@ -1,0 +1,126 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_i,I,1209,I
+2_yousg,You sg.,1215,THOU
+3_he,He,1211,HE
+4_we,We,1212,WE
+5_youpl,You pl.,1213,YOU
+6_they,They,817,THEY
+7_whowhat,Who/What,2147,WHO OR WHAT
+8_many,Many,1198,MANY
+9_few,Few,1242,FEW
+10_one,One,1493,ONE
+11_two,Two,1498,TWO
+12_big,Big,1202,BIG
+13_small,Small,1246,SMALL
+14_woman,Woman,962,WOMAN
+15_man,Man,1554,MAN
+16_human,Human,683,PERSON
+17_child,Child,2099,CHILD
+18_mother,Mother,1216,MOTHER
+19_father,Father,1217,FATHER
+20_animal,Animal,619,ANIMAL
+21_fish,Fish,227,FISH
+22_bird,Bird,937,BIRD
+23_peccary,Peccary,2390,PECCARY
+24_deer,Deer,1936,DEER
+25_louse,Louse,1392,LOUSE
+26_snake,Snake,730,SNAKE
+27_worm,Worm,1219,WORM
+28_forest,Forest,420,FOREST
+29_stick,Stick,1295,STICK
+30_fruit,Fruit,1507,FRUIT
+31_leaf,Leaf,628,LEAF
+32_root,Root,670,ROOT
+33_flower,Flower,239,FLOWER
+34_grass,Grass,606,GRASS
+35_rope,Rope,1218,ROPE
+36_skin,Skin,763,SKIN
+37_meat,Meat,634,MEAT
+38_blood,Blood,946,BLOOD
+39_bone,Bone,1394,BONE
+40_fat,Fat,323,FAT (ORGANIC SUBSTANCE)
+41_egg,Egg,744,EGG
+42_horn,Horn,939,HORN (INSTRUMENT)
+43_tail,Tail,1220,TAIL
+44_hair,Hair,1040,HAIR
+45_head,Head,1256,HEAD
+46_ear,Ear,1247,EAR
+47_eye,Eye,1248,EYE
+48_nose,Nose,1221,NOSE
+49_mouth,Mouth,674,MOUTH
+50_tooth,Tooth,1380,TOOTH
+51_tongue,Tongue,1205,TONGUE
+52_fingernail,Fingernail,1258,FINGERNAIL
+53_foot,Foot,1301,FOOT
+54_leg,Leg,1297,LEG
+55_knee,Knee,1371,KNEE
+56_hand,Hand,1277,HAND
+57_wing,Wing,1257,WING
+58_belly,Belly,1251,BELLY
+59_guts,Guts,1334,GUTS
+60_neck,Neck,1333,NECK
+61_back,Back,1291,BACK
+62_breast,Breast,1402,BREAST
+63_heart,Heart,1223,HEART
+64_liver,Liver,1224,LIVER
+65_drink,Drink,1401,DRINK
+66_eat,Eat,1336,EAT
+67_bite,Bite,1403,BITE
+68_suck,Suck,1421,SUCK
+69_vomit,Vomit,1278,VOMIT
+70_breathe,Breathe,1407,BREATHE
+71_laugh,Laugh,1355,LAUGH
+72_see,See,1409,SEE
+73_hear,Hear,1408,HEAR
+74_fear,Fear,1419,FEAR (BE AFRAID)
+75_sleep,Sleep,1585,SLEEP
+76_die,Die,1494,DIE
+77_kill,Kill,1417,KILL
+78_fight,Fight,1423,FIGHT
+79_shoot,Shoot,1172,SHOOT
+80_hit,Hit,1433,HIT
+81_cut,Cut,1432,CUT
+82_dig,Dig,1418,DIG
+83_swim,Swim,1439,SWIM
+84_fly,Fly,1441,FLY (MOVE THROUGH AIR)
+85_walk,Walk,1443,WALK
+86_come,Come,1446,COME
+87_lie,Lie,1411,LIE (REST)
+88_sit,Sit,1416,SIT
+89_stand,Stand,1442,STAND
+90_fall,Fall,1280,FALL
+91_give,Give,1447,GIVE
+92_wash,Wash,1453,WASH
+93_pull,Pull,1455,PULL
+94_push,Push,1452,PUSH
+95_throw,Throw,1456,THROW
+96_tie,Tie,1917,TIE
+97_say,Say,1458,SAY
+98_sing,Sing,1261,SING
+99_sun,Sun,1343,SUN
+100_moon,Moon,1313,MOON
+101_star,Star,1430,STAR
+102_water,Water,948,WATER
+103_rain,Rain,2108,RAINING OR RAIN
+104_stone,Stone,857,STONE
+105_sand,Sand,671,SAND
+106_earth,Earth,1228,EARTH (SOIL)
+107_sky,Sky,1732,SKY
+108_wind,Wind,960,WIND
+109_smoke,Smoke,778,SMOKE (EXHAUST)
+110_fire,Fire,221,FIRE
+111_ashes,Ashes,646,ASH
+112_road,Road,667,ROAD
+113_red,Red,156,RED
+114_yellow,Yellow,1424,YELLOW
+115_white,White,1335,WHITE
+116_black,Black,163,BLACK
+117_night,Night,1233,NIGHT
+118_day,Day,1225,DAY (NOT NIGHT)
+119_summer,Summer,1342,SUMMER
+120_cold,Cold,1287,COLD
+121_new,New,1231,NEW
+122_old,Old,1229,OLD
+123_good,Good,1035,GOOD
+124_name,Name,1405,NAME
+125_afternoon,Afternoon,1807,AFTERNOON
