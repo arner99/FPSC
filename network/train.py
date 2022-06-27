@@ -141,5 +141,5 @@ def train_model(X, y, **kwargs):
 
 
 if __name__ == "__main__":
-    X, y, _ = load_train_data("data/train-data.txt")
-    train_model(X, y, verbose=True, plot=True)
+    X, y, _ = load_train_data("data/cog/train-data.txt")
+    train_model(X, y, verbose=True, plot=True, model_name="alpha_model", input_dim=68)
