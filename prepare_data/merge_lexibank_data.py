@@ -368,7 +368,7 @@ if __name__ == '__main__':
         all_langs += langs
         all_cognates += cognates
 
-    lang_ids_to_remove = [lang["ID"] for lang in all_langs if lang["Glottocode"] == ""]
+    lang_ids_to_remove = [lang["ID"] for lang in all_langs if not lang["Glottocode"]]
 
     for glottocode, sources in glottocode_coverage_by_database.items():
         if len(sources) > 1:
@@ -388,7 +388,7 @@ if __name__ == '__main__':
 
             for source_database, varieties in sources.items():
                 if source_database != database_to_keep:
-                    lang_ids_to_remove += [varieties]
+                    lang_ids_to_remove += varieties
 
     all_forms = [form for form in all_forms if form["Language_ID"] not in lang_ids_to_remove]
     all_langs = [lang for lang in all_langs if lang["ID"] not in lang_ids_to_remove]
