@@ -17,7 +17,7 @@ def train_model(X, y, **kwargs):
     model_name = kwargs["model_name"] if "model_name" in kwargs else "model"
     width = kwargs["width"] if "width" in kwargs else 128
     depth = kwargs["depth"] if "depth" in kwargs else 3
-    input_dim = kwargs["input_dim"] if "input_dim" in kwargs else 34
+    input_dim = kwargs["input_dim"] if "input_dim" in kwargs else X.shape[1]  # num of features
     activation = kwargs["activation"] if "activation" in kwargs else "gelu"
     dropout = kwargs["dropout"] if "dropout" in kwargs else 0.05
     early_stopping = kwargs["early_stopping"] if "early_stopping" in kwargs else None
@@ -126,20 +126,39 @@ def train_model(X, y, **kwargs):
 
     if plot:
         plt.scatter(y_pred_train, y_train)
-        plt.title("Train")
+        plt.title(f"Train - {model_name}")
         plt.show()
 
         plt.scatter(y_pred_test, y_test)
-        plt.title("Test")
+        plt.title(f"Test - {model_name}")
         plt.show()
 
         plt.scatter(y_pred, y)
-        plt.title("All")
+        plt.title(f"All - {model_name}")
         plt.show()
 
     return best_epoch, train_mse, test_mse
 
 
 if __name__ == "__main__":
-    X, y, _ = load_train_data("data/cog/train-data.txt")
-    train_model(X, y, verbose=True, plot=True, model_name="alpha_model", input_dim=68)
+    #X, y, _ = load_train_data("data/cog/train-data.txt")
+    #train_model(X, y, verbose=True, plot=True, model_name="alpha_model_freq", train_epochs=50)
+    #X = np.delete(X, (0, 1), 1)  # delete frequency information from input vectors
+    #train_model(X, y, verbose=True, plot=True, model_name="alpha_model", train_epochs=50)
+
+    # same procedure for log-alphas...
+    X, y, _ = load_train_data("data/cog/train-data-log.txt")
+    train_model(X, y, verbose=True, plot=True, model_name="alpha_model_log_freq", train_epochs=50)
+    X = np.delete(X, (0, 1), 1)  # delete frequency information from input vectors
+    train_model(X, y, verbose=True, plot=True, model_name="alpha_model_log", train_epochs=50)
+
+    # ... double-log-alphas ...
+    X, y, _ = load_train_data("data/cog/train-data-double-log.txt")
+    train_model(X, y, verbose=True, plot=True, model_name="alpha_model_double_log_freq", train_epochs=50)
+    X = np.delete(X, (0, 1), 1)  # delete frequency information from input vectors
+    train_model(X, y, verbose=True, plot=True, model_name="alpha_model_double_log", train_epochs=50)
+
+    # ... and normalized alphas.
+    X, y, _ = load_train_data("data/cog/train-data-normalized.txt")
+    X = np.delete(X, (0, 1), 1)  # delete frequency information from input vectors
+    train_model(X, y, verbose=True, plot=True, model_name="alpha_model_normalized", train_epochs=50)
