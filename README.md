@@ -13,7 +13,7 @@ For the sound change model, every relevant step is documented in detail in my Ma
 
 This repository features 5 executable Python scripts that are all located on the top level directory:
 
-- <eval_sound_transitions.py> -- a throwaway script that calculates sound transition probabilities from the logits, as done in the current EtInEn implementation.
+- [eval_sound_transitions.py](eval_sound_transitions.py) -- a throwaway script that calculates sound transition probabilities from the logits, as done in the current EtInEn implementation.
 - <generate_extended_params.py> -- a throwaway script for generating a parameter CLDF file for the merged dataset that includes Concepticon IDs.
 - <merge_lexibank_data.py> -- entry script for generating the dataset for the sound change model.
 - <train_change_model.py> -- script for training the sound change model from transition counts (included in the directory).
