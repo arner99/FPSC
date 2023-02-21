@@ -1,0 +1,1943 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
+a11londo,A11_Londo,Africa,4.89504,9.15209,orok1266,bdu
+a121mbonge,A121_Mbonge,Africa,4.89504,9.15209,orok1266,bdu
+a122bakundu,A122_Bakundu,Africa,4.89504,9.15209,orok1266,bdu
+a141lefo,A141_Lefo,Africa,4.53307,9.522,bafa1247,bwt
+a151nkongho,A151_Nkongho,Africa,5.33848,9.80096,nkon1247,nkc
+a15ambuu,A15A_Mbuu,Africa,5.13981,9.92766,mboc1235,mbo
+a15bmiengenwmanenguba,A15B_Mienge_NW_Manenguba,Africa,5.23655,9.52275,bass1260,bsi
+a15cakossi,A15C_Akossi,Africa,4.9243,9.65522,akoo1248,bss
+a15celungcentralmanenguba,A15C_Elung_Central_Manenguba,Africa,4.9243,9.65522,akoo1248,bss
+a15cmkaa,A15C_Mkaa,Africa,4.79991,9.80402,baka1273,bqz
+a15manenguba,A15_Manenguba,Africa,4.79991,9.80402,baka1273,bsi
+a22bakweri,A22_Bakweri,Africa,4.24178,9.23887,mokp1239,bri
+a24duala,A24_Duala,Africa,4.10208,9.61877,dual1243,dua
+a27malimba,A27_Malimba,Africa,3.67696,9.67186,mali1280,mzd
+a31bubi,A31_Bubi,Africa,3.53638,8.68929,bube1242,bvb
+a32cbatanga,A32C_Batanga,Africa,1.397041,9.51011,bata1285,bnm
+a33ayasa,A33a_Yasa,Africa,2.06043,10.678,yasa1242,yko
+a34benga,A34_Benga,Africa,1.075766,9.600739,beng1282,bng
+a41barombikang,A41_Barombi-Kang,Africa,4.64584,9.25261,baro1252,bbi
+a42abo,A42_Abo,Africa,4.3702,9.6403,bank1256,abb
+a43abasaa,A43a_Basaa,Africa,3.80765,10.4213,basa1284,bas
+a44tunen,A44_Tunen,Africa,4.75,10.67,tune1261,tvu
+a45nyokon,A45_Nyokon,Africa,4.75,10.5,nyok1243,nvo
+a462yambeta,A462_Yambeta,Africa,4.83615,10.9369,yamb1252,yat
+a46nomaande,A46_Nomaande,Africa,4.5893,10.9157,noma1260,lem
+a51bafiamaja,A51_Bafia_maja,Africa,4.72603,11.0982,bafi1243,ksf
+a53bafiarikpa,A53_Bafia_rikpa,Africa,4.72603,11.0982,bafi1243,ksf
+a54tibea,A54_Tibea,Africa,5.30535,11.3103,tibe1274,ngy
+a601tuki,A601_Tuki,Africa,4.64348,11.5353,tuki1240,bag
+a61ngoroasom,A61_Ngoro-Asom,Africa,4.78874,12.824,bebe1248,bag
+a61ngorobisoo,A61_Ngoro-Bisoo,Africa,4.21045,11.3935,eton1253,bag
+a61ngorolunda,A61_Ngoro-lunda,Africa,4.21045,11.3935,eton1253,bag
+a621nubaca,A621_Nubaca,Africa,4.35696,11.029,nuba1241,baf
+a622nugunu,A622_Nugunu,Africa,4.63103,11.1837,nugu1242,yas
+a62anuasue,A62A_Nuasue,Africa,4.41971,11.0277,yang1293,yav
+a62anukalonge,A62A_Nukalonge,Africa,4.41971,11.0277,yang1293,yav
+a62bmmala,A62B_Mmala,Africa,4.52188,11.0599,mmaa1238,mmu
+a62clibie,A62C_Libie,Africa,4.45694,11.193,elip1238,ekm
+a63mangisa,A63_Mangisa,Africa,4.21045,11.3935,eton1253,eto
+a71eton,A71_Eton,Africa,4.21045,11.3935,eton1253,eto
+a72aewondo,A72a_Ewondo,Africa,4.21141,11.93646,ewon1239,ewo
+a74abulu,A74a_Bulu,Africa,3.16141,11.6365,bulu1251,bum
+a75afangbitam,A75a_Fang_Bitam,Africa,1.723965,11.61454,fang1246,fan
+a75afangmedouneu,A75a_Fang_Medouneu,Africa,1.723965,11.61454,fang1246,fan
+a75afangminvoul,A75a_Fang_Minvoul,Africa,1.723965,11.61454,fang1246,fan
+a803shiwa,A803_Shiwa,Africa,-0.091645,11.947061,shiw1234,
+a81kwasio,A81_Kwasio,Africa,2.39354,10.0812,kwas1243,nmg
+a832bekol,A832_Bekol,Africa,3.65994,12.8574,kolc1235,biw
+a83mekaa,A83_Mekaa,Africa,4.15471,13.0789,maka1304,mcp
+a841badwe,A841_Badwe,Africa,3.25933,13.54152,koon1245,ozm
+a84njem,A84_Njem,Africa,2.30483,14.1175,njye1238,njy
+a85bbekwilmakokou,A85b_Bekwil_Makokou,Africa,1.71801,14.6527,bekw1242,bkw
+a85bbekwilmv,A85b_Bekwil_Mv,Africa,1.71801,14.6527,bekw1242,bkw
+a86cmpiemo,A86c_Mpiemo,Africa,3.45776,15.5246,mpie1238,mcx
+a87bomwali,A87_Bomwali,Africa,1.71005,15.9546,bomw1238,pmm
+a91kwakum,A91_Kwakum,Africa,4.34393,13.6446,kwak1266,kwu
+a93kako,A93_Kako,Africa,3.79989,15.6282,kako1242,kkj
+aghemgrassfields,Aghem_Grassfields,Africa,6.38956,10.0807,aghe1239,agq
+b11ampongwe,B11a_Mpongwe,Africa,-1.48741,9.50247,myen1241,mye
+b11borungu,B11b_Orungu,Africa,-1.48741,9.50247,myen1241,mye
+b11cgalwa,B11c_Galwa,Africa,-1.48741,9.50247,myen1241,mye
+b11ddyumba,B11d_Dyumba,Africa,-1.48741,9.50247,myen1241,mye
+b11fenenga,B11F_Enenga,Africa,-1.48741,9.50247,myen1241,mye
+b201ndasa,B201_Ndasa,Africa,-2.449015,13.369465,ndas1238,nda
+b202sigu,B202_Sigu,Africa,-0.95605,13.1214,sigh1238,sxe
+b203samaye,B203_Samaye,Africa,-0.012,13.61,osam1235,syx
+b204ndambomoli,B204_Ndambomo_Li,Africa,-0.82,12.77,ndam1254,nxo
+b204ndambomomassoukou,B204_Ndambomo_Massoukou,Africa,-0.82,12.77,ndam1254,nxo
+b204ndambomombadi,B204_Ndambomo_Mbadi,Africa,-0.82,12.77,ndam1254,nxo
+b21seki,B21_Seki,Africa,1.52302,9.79206,seki1238,syi
+b22akele,B22a_Kele,Africa,-0.78854,10.3836,kele1257,keb
+b22bkoya,B22b_Koya,Africa,0.882925,14.1345,ngom1270,nra
+b22bngom,B22b_Ngom,Africa,0.882925,14.1345,ngom1270,nra
+b22emwesa,B22E_Mwesa,Africa,0.086134,13.30037,mwes1234,
+b23mbangwe,B23_Mbangwe,Africa,-2.28729,13.5956,mban1268,zmn
+b24wumbvu,B24_Wumbvu,Africa,-2.39234,12.264,wumb1242,wum
+b251shake,B251_Shake,Africa,0.25188,11.787,sake1247,sak
+b252mahongwe,B252_Mahongwe,Africa,0.64356,14.0472,maho1248,mhb
+b25kota,B25_Kota,Africa,1.016,13.97,kota1274,koq
+b301viya,B301_Viya,Africa,-1.22,10.58,eviy1235,gev
+b302himba,B302_Himba,Africa,-1.28107,11.1783,simb1254,sbw
+b304pinzi,B304_Pinzi,Africa,-1.90305,11.223,pinj1243,pic
+b305vove,B305_Vove,Africa,-1.16762,12.32251,bubi1250,buw
+b31tsogo,B31_Tsogo,Africa,-1.55469,11.1359,tsog1243,tsv
+b32kande,B32_Kande,Africa,-0.00776,11.7076,kand1300,kbs
+b404ngubi,B404_Ngubi,Africa,-3.433411,10.768112,ngub1239,
+b41shira,B41_Shira,Africa,-1.78084,10.4635,sira1266,swj
+b42sangumb,B42_Sangu_Mb,Africa,-1.52694,11.9098,sang1333,snq
+b42sangumi,B42_Sangu_Mi,Africa,-1.52694,11.9098,sang1333,snq
+b43punu,B43_Punu,Africa,-2.67362,11.6714,punu1239,puu
+b44lumbu,B44_Lumbu,Africa,-3.37917,11.124,lumb1249,lup
+b501wanzie,B501_Wanzi_E,Africa,-1.51945,12.8951,wand1266,wdd
+b501wanzimo,B501_Wanzi_Mo,Africa,-1.51945,12.8951,wand1266,wdd
+b503vili,B503_Vili,Africa,-2.752859,10.305563,vili1239,
+b51duma,B51_Duma,Africa,-0.91927,13.0046,duma1253,dma
+b51dumala,B51_Duma_La,Africa,-0.91927,13.0046,duma1253,dma
+b52nzebi,B52_Nzebi,Africa,-2.18115,12.7063,njeb1242,nzb
+b53tsaangipoungi,B53_Tsaangi_Poungi,Africa,-2.29245,12.7581,tsaa1242,tsa
+b601lempini,B601_Lempini,Africa,-0.477445,14.2877,mber1257,mbm
+b602kaninginord,B602_Kaningi_Nord,Africa,-1.71316,13.6111,kani1279,kzo
+b602kaningisud,B602_Kaningi_Sud,Africa,-1.71316,13.6111,kani1279,kzo
+b62mbaama,B62_Mbaama,Africa,-0.477445,14.2877,mber1257,mbm
+b63ndumu,B63_Ndumu,Africa,-1.67033,13.7279,ndum1239,nmd
+b701atsitsege,B701_Atsitsege,Africa,-2.03393,13.6001,tchi1245,tck
+b71aibtekeibalicongo,B71aIb_Teke_Ibali_Congo,Africa,-4.20697,15.3893,ibal1241,tek
+b71aletekeleconi,B71aLe_Teke_Leconi,Africa,-1.61688,14.8664,teke1275,teg
+b71atekedj,B71a_Teke_Dj,Africa,-1.61688,14.8664,teke1275,teg
+b71atekeos,B71a_Teke_Os,Africa,-1.61688,14.8664,teke1275,teg
+b77bfumu,B77b_Fumu,Africa,-3.59003,15.5061,teke1274,ifm
+b78wuumu,B78_Wuumu,Africa,-4.27,15.72,wuum1239,ifm
+b81tiene,B81_Tiene,Africa,-2.84694,16.4765,tien1242,tii
+b82buma,B82_Buma,Africa,-3.01,16.92,boma1251,boh
+b84mbunda,B84_Mbunda,Africa,-5.21134,19.4269,mpuo1241,zmp
+b85dnsongo,B85d_Nsongo,Africa,-4.55057,18.4978,song1299,soo
+b85emput,B85e_Mput,Africa,-4.44304,19.3881,ding1239,yns
+b85yanzi,B85_Yanzi,Africa,-3.8231,18.2341,yans1239,yns
+b861ngul,B861_Ngul,Africa,-4.09816,19.5129,ngul1247,nlo
+b862lwel,B862_Lwel,Africa,-4.38475,20.6314,lwel1234,
+b863pindi,B863_Pindi,Africa,-4.55057,18.4978,song1299,soo
+b864ngong,B864_Ngong,Africa,-5.5,18.2,ngon1267,noq
+b865nzadi,B865_Nzadi,Africa,-4.102208,20.194462,nzad1234,
+b86dinga,B86_Dinga,Africa,-4.44304,19.3881,ding1239,diz
+b86dzing,B86_Dzing,Africa,-4.44304,19.3881,ding1239,diz
+bamungrassfields,Bamun_Grassfields,Africa,5.49017,10.8477,bamu1253,bax
+bilejarawan,Bile_Jarawan,Africa,8.90052,11.1907,bile1244,bil
+bwazzajarawan,Bwazza_Jarawan,Africa,9.60769,12.2439,mbul1260,mbu
+c101baboledz,C101_Babole_Dz,Africa,1.07773,17.2305,dibo1245,bvx
+c101baboleep,C101_Babole_Ep,Africa,1.70044,17.3733,bomi1238,bvx
+c101babolema,C101_Babole_Ma,Africa,1.07773,17.2305,dibo1245,bvx
+c104aka,C104_Aka,Africa,3.6515,17.2713,yaka1272,axk
+c105mbenga,C105_Mbenga,Africa,2.11942,20.8759,maba1270,axk
+c141bonyala,C141_Bonyala,Africa,-1.23019,15.5322,mbos1242,bui
+c142mondongo,C142_Mondongo,Africa,2.16773,19.1644,bamw1238,bmg
+c15bongili,C15_Bongili,Africa,0.37063,16.6079,bong1284,bui
+c21ngare,C21_Ngare,Africa,0.43541,14.7935,mbok1243,mdu
+c22akwa,C22_Akwa,Africa,-0.39897,15.4623,akwa1248,akw
+c24koyo,C24_Koyo,Africa,-0.69688,15.7508,koyo1242,koh
+c25abunji,C25A_Bunji,Africa,-1.23019,15.5322,mbos1242,mdw
+c25bolee,C25B_Olee,Africa,-1.23019,15.5322,mbos1242,mdw
+c25condinga,C25C_Ondinga,Africa,-1.23019,15.5322,mbos1242,mdw
+c25eeboyi,C25E_Eboyi,Africa,-0.69688,15.7508,koyo1242,mdw
+c25mboshi,C25_Mboshi,Africa,-1.23019,15.5322,mbos1242,mdw
+c302bolondo,C302_Bolondo,Africa,2.46327,19.6181,bolo1263,bzm
+c322zamba,C322_Zamba,Africa,1.25,18.3,zamb1245,
+c323mpama,C323_Mpama,Africa,-0.739203,17.685662,mpam1239,
+c32bobangi,C32_Bobangi,Africa,-0.87437,17.227,bang1354,bni
+c34sakata,C34_Sakata,Africa,-2.85653,17.9669,saka1287,skt
+c36dlingala,C36d_Lingala,Africa,-4.409174,15.28532,ling1263,lin
+c36gmonyongo,C36g_Monyongo,Africa,2.16773,19.1644,bamw1238,bmg
+c36gmosange,C36g_Mosange,Africa,2.15101,19.4087,ndol1238,ndl
+c37ebudza,C37_Ebudza,Africa,2.19951,22.6107,budz1238,bja
+c401babati1919,C401_Babati_1919,Africa,2.5957,25.2514,bwaa1238,bww
+c401pakabete,C401_Pakabete,Africa,3.15636,22.1212,pagi1243,pae
+c412libobi,C412_Libobi,Africa,2.16773,19.1644,bamw1238,bmg
+c41ngombe,C41_Ngombe,Africa,1.45357,20.14148,ngom1268,ngc
+c42ebwela,C42_Ebwela,Africa,3.22,19.28,bwel1238,bwl
+c43abaati,C43A_Baati,Africa,2.5957,25.2514,bwaa1238,bww
+c44bwa,C44_Bwa,Africa,2.5957,25.2514,bwaa1238,bww
+c52soko1919,C52_Soko_1919,Africa,1.25037,23.6907,sode1235,soc
+c52soko,C52_Soko,Africa,1.25037,23.6907,sode1235,soc
+c54turumba1919,C54_Turumba_1919,Africa,0.88267,24.6862,lomb1260,loo
+c55lokele,C55_Lokele,Africa,0.36906,24.3098,kele1255,khy
+c61ekonda,C61E_Konda,Africa,-1.54228,20.4259,mong1338,lol
+c61mongo,C61_Mongo,Africa,-1.54228,20.4259,mong1338,lol
+c71tetela,C71_Tetela,Africa,-4.29314,24.546,tete1250,tll
+c76ombo,C76_Ombo,Africa,-2.32162,25.1748,ombo1238,oml
+c81dengese,C81_Dengese,Africa,-3.26337,21.4194,deng1250,dez
+c83bushong,C83_Bushong,Africa,-4.69463,21.4556,bush1247,buf
+c85wongo,C85_Wongo,Africa,-5.73837,20.5054,wong1247,won
+d11mbole,D11_Mbole,Africa,-0.57181,24.0443,mbol1247,mdq
+d12lengola,D12_Lengola,Africa,-1.95874,25.3343,leng1258,lej
+d13metoko,D13_Metoko,Africa,-1.57031,25.104,mitu1240,zmq
+d14enya,D14_Enya,Africa,0.56,25.15,enya1247,gey
+d201liko,D201_Liko,Africa,2.13777,27.6088,lika1243,lik
+d20bvamba1919,*D20B_Vamba_1919,Africa,0.81206,30.0014,amba1263,rwm
+d211kango,D211_Kango,Africa,1.59855,27.0186,kang1285,kzy
+d21baali,D21_Baali,Africa,1.1807,26.5941,bali1274,bcp
+d23kibirakumu1919,D23_Kibira-Kumu_1919,Africa,-0.76333,26.7144,komo1260,kmw
+d24songola,D24_Songola,Africa,-2.21871,26.3477,song1300,sod
+d25lega,D25_Lega,Africa,-3.83196,27.1424,lega1249,lea
+d28holoholo,D28_Holoholo,Africa,-5.37545,28.3274,holo1240,hoo
+d304homa1919,*D304_Homa_1919,Africa,4.97912,28.0039,homa1239,hom
+d305nyangali,*D305_Nyanga-li,Africa,-1.29357,28.31546,nyan1304,nyc
+d308bodo2,*D308_Bodo2,Africa,2.00501,27.951,budu1250,buu
+d308ebodo,*D308_Ebodo,Africa,2.00501,27.951,budu1250,buu
+d311bila,D311_Bila,Africa,1.16839,28.7626,bila1255,bip
+d313mbuttu1919,D313_Mbuttu_1919,Africa,2.00501,27.951,budu1250,buu
+d32bira,D32_Bira,Africa,1.16839,28.7626,bila1255,brf
+d32birabunia,D32_Bira_Bunia,Africa,1.50054,30.0293,bera1259,brf
+d331bvanuma,D331_Bvanuma,Africa,0.93847,29.81348,vanu1242,vau
+d333ndaaka,D333_Ndaaka,Africa,1.53341,27.9693,ndak1241,ndk
+d334mbo,D334_Mbo,Africa,1.11602,28.018,mbod1238,zmw
+d33nyali,D33_Nyali,Africa,1.92098,30.0201,nyal1250,nlj
+d43nyanga,D43_Nyanga,Africa,-1.29357,28.31546,nyan1304,nyj
+d55buyu,D55_Buyu,Africa,-5.41806,28.5545,buyu1239,byi
+dugurijarawan,Duguri_Jarawan,Africa,10.05,10.21,dugu1249,dbm
+e46sonjo,E46_Sonjo,Africa,-2.19303,35.8035,temi1247,soz
+e51kikuyu,E51_Kikuyu,Africa,-0.29005,36.719,kiku1240,kik
+e52embu,E52_Embu,Africa,-0.62822,37.5933,embu1241,ebu
+e52mbeere,E52_Mbeere,Africa,-0.62822,37.5933,embu1241,ebu
+e531muthambi,E531_Muthambi,Africa,-0.11968,37.5939,mwim1241,mws
+e531mwimbi,E531_Mwimbi,Africa,-0.11968,37.5939,mwim1241,mws
+e53igoji,E53_Igoji,Africa,0.26484,37.7396,meru1245,mer
+e53imenti,E53_Imenti,Africa,0.26484,37.7396,meru1245,mer
+e53meruimenti,E53_Meruimenti,Africa,0.26484,37.7396,meru1245,mer
+e53meru,E53_Meru,Africa,0.26484,37.7396,meru1245,mer
+e53merutig,E53_Merutig,Africa,0.26484,37.7396,meru1245,mer
+e53miutini,E53_Miutini,Africa,0.26484,37.7396,meru1245,mer
+e53tigania,E53_Tigania,Africa,0.26484,37.7396,meru1245,mer
+e541chuka,E541_Chuka,Africa,-0.27405,37.6116,chuk1274,cuh
+e54tharaka,E54_Tharaka,Africa,-0.13221,38.073,thar1283,thk
+e55kamba,E55_Kamba,Africa,-1.60827,37.9532,kamb1297,kam
+e55kambakitu,E55_Kamba_Kitu,Africa,-1.60827,37.9532,kamb1297,kam
+e55kambamach,E55_Kamba_Mach,Africa,-1.60827,37.9532,kamb1297,kam
+e56daiso,E56_Daiso,Africa,-4.81209,38.818,dhai1238,dhs
+e621bmachame,E621B_Machame,Africa,-3.29385,37.0703,mach1266,jmc
+e621csiha,E621C_Siha,Africa,-3.29385,37.0703,mach1266,jmc
+e621dkibosho,E621D_Kibosho,Africa,-3.29385,37.0703,mach1266,jmc
+e622akimochi,E622A_Kimochi,Africa,-3.33743,37.3357,moch1256,old
+e622clema,E622C_Lema,Africa,-3.42531,37.5847,vunj1238,vun
+e622cmamba,E622C_Mamba,Africa,-3.42531,37.5847,vunj1238,vun
+e622cvunjo,E622C_Vunjo,Africa,-3.42531,37.5847,vunj1238,vun
+e623akiseri,E623A_Kiseri,Africa,-3.07772,37.5382,romb1244,rof
+e623dkeni,E623D_Keni,Africa,-3.07772,37.5382,romb1244,rof
+e623mkuu,E623_Mkuu,Africa,-3.07772,37.5382,romb1244,rof
+e64kahe,E64_Kahe,Africa,-3.51412,37.5759,kahe1238,hka
+e65gweno,E65_Gweno,Africa,-3.68407,37.6827,gwen1239,gwe
+e701elwana,E701_Elwana,Africa,-0.66322,39.793,ilwa1237,mlk
+e71aupperpokomo,E71A_Upper_Pokomo,Africa,-2.31587,40.2897,poko1261,pkb
+e72agiryama,E72a_Giryama,Africa,-3.30638,39.6648,giry1241,nyf
+e73digo,E73_Digo,Africa,-4.62101,39.1752,digo1243,dig
+e74adawida,E74a_Dawida,Africa,-3.79347,38.57254,tait1250,dav
+e74atuveta,E74a_Tuveta,Africa,-3.41822,37.7061,tave1240,tvs
+f12bende,F12_Bende,Africa,-6.22082,30.5926,bend1258,bdp
+f21ntuzu,F21_Ntuzu,Africa,-3.16082,32.8765,suku1261,suk
+f21sukuma,F21_Sukuma,Africa,-3.16082,32.8765,suku1261,suk
+f22nyamwezi,F22_Nyamwezi,Africa,-5.08559,32.94452,nyam1276,nym
+f23sumbwa,F23_Sumbwa,Africa,-3.47335,31.9457,sumb1240,suw
+f24kimbu,F24_Kimbu,Africa,-7.23023,33.6445,kimb1242,kiv
+f25bungu,F25_Bungu,Africa,-8.32587,32.8801,bung1265,wun
+f31nyiramba,F31_Nyiramba,Africa,-4.50002,34.3068,nila1242,nim
+f32nyaturucha,F32_Nyaturucha,Africa,-5.12263,34.6657,nyat1246,rim
+f32nyaturuwil,F32_Nyaturuwil,Africa,-5.12263,34.6657,nyat1246,rim
+f33langi,F33_Langi,Africa,-4.71413,35.9517,lang1320,lag
+fefegrassfields,Fefe_Grassfields,Africa,5.18158,10.1442,fefe1239,fmp
+g11gogo,G11_Gogo,Africa,-6.35951,35.4807,gogo1263,gog
+g12kagulu,G12_Kagulu,Africa,-6.38204,37.0534,kagu1239,kki
+g22anorthpare,G22A_North_Pare,Africa,-4.17978,37.8323,asut1235,asa
+g22asu,G22_Asu,Africa,-4.17978,37.8323,asut1235,asa
+g22bsouthpare,G22B_South_Pare,Africa,-4.17978,37.8323,asut1235,asa
+g23sambaa,G23_Sambaa,Africa,-4.8,38.29,sham1280,ksb
+g24bondei,G24_Bondei,Africa,-5.10749,38.5079,bond1247,bou
+g31zigua,G31_Zigua,Africa,-5.61864,38.41138,zigu1244,ziw
+g32doe,G32_Doe,Africa,-6.25844,38.4902,doee1238,doe
+g32kwere,G32_Kwere,Africa,-6.50666,38.4449,kwer1261,cwe
+g33zaramo,G33_Zaramo,Africa,-6.87705,38.9258,zara1247,zaj
+g34nguungulu,G34_Nguungulu,Africa,-5.79734,37.6823,ngul1246,ngp
+g35luguru,G35_Luguru,Africa,-6.86828,37.5557,lugu1238,ruf
+g36kami,G36_Kami,Africa,-6.71075,37.98,kami1256,kcu
+g37kutu,G37_Kutu,Africa,-7.23789,37.8623,kutu1263,kdc
+g39saghala,G39_Saghala,Africa,-6.98537,36.9153,saga1256,sbm
+g401mwani,G401_Mwani,Africa,-12.5821,40.4601,mwan1247,wmw
+g412mwiini,G412_Mwiini,Africa,1.111787,44.026991,chim1312,swh
+g41bajuni,G41_Bajuni,Africa,-8.25605,37.624,swah1253,swh
+g42aamu,G42a_Amu,Africa,-8.25605,37.624,swah1253,swh
+g42dunguja,G42d_Unguja,Africa,-8.25605,37.624,swah1253,swh
+g42swahili,G42_Swahili,Africa,-8.25605,37.624,swah1253,swh
+g43kae,G43_Kae,Africa,-8.25605,37.624,swah1253,swh
+g44angazija,G44a_Ngazija,Africa,-11.6129,43.36,ngaz1238,zdj
+g44bndzwani,G44b_Ndzwani,Africa,-12.2123,44.3709,ndzw1235,wni
+g44dmaore,G44D_Maore,Africa,-12.830306,45.154942,maor1244,swb
+g51pogoro,G51_Pogoro,Africa,-8.72283,36.4148,pogo1243,poy
+g52ndamba,G52_Ndamba,Africa,-8.40485,36.0271,ndam1239,ndj
+g61sangu,G61_Sangu,Africa,-8.4,33.9,sang1330,sbp
+g62hehe,G62_Hehe,Africa,-7.71572,35.7255,hehe1240,heh
+g63bena,G63_Bena,Africa,-9.26671,35.0364,bena1262,bez
+g64pangwa,G64_Pangwa,Africa,-9.96782,34.8039,pang1287,pbr
+g65kinga,G65_Kinga,Africa,-9.35868,34.2321,nucl1379,zga
+g66wanji,G66_Wanji,Africa,-9.00683,34.0757,vwan1235,wbi
+h111hangala,H111_Hangala,Africa,-4.25,14.9,laar1238,ldi
+h11beembe,H11_Beembe,Africa,-3.95895,14.1,beem1239,beq
+h12civilicongo,H12_Civili_Congo,Africa,-4.06716,11.3804,vili1238,vif
+h131kisundicongokimongo1988,H131_Kisundi_Congo_Kimongo_1988,Africa,-4.58488,13.3212,suun1239,sdj
+h13kikunyi1989,H13_Kikunyi_1989,Africa,-3.69702,12.5197,kuny1238,njx
+h16akisikongo2013,H16a_Kisikongo_2013,Africa,-5.57722,14.4771,koon1244,kwy
+h16akisolongodrc2012,H16a_Kisolongo_DRC_2012,Africa,-5.57722,14.4771,koon1244,kng
+h16bkindibu2013,H16b_Kindibu_2013,Africa,-5.57722,14.4771,koon1244,kng
+h16cilinji,H16_Cilinji,Africa,-5.1263,12.9657,yomb1244,yom
+h16cimbala,H16_Cimbala,Africa,-5.1263,12.9657,yomb1244,yom
+h16cizobe,H16_Cizobe,Africa,-5.1263,12.9657,yomb1244,yom
+h16ckiyombedrc1982,H16c_Kiyombe_DRC_1982,Africa,-5.1263,12.9657,yomb1244,yom
+h16cyombe,H16c_Yombe,Africa,-4.06716,11.3804,vili1238,yom
+h16dciwoyodrc2012,H16d_Ciwoyo_DRC_2012,Africa,-5.7114,12.5372,sans1272,yom
+h16flaadi,H16f_Laadi,Africa,-4.25,14.9,laar1238,ldi
+h16gkimpangu2012,H16g_Kimpangu_2012,Africa,-5.25,15.5,east2782,kng
+h16gntandu,H16g_Ntandu,Africa,-5.25,15.5,east2782,kng
+h16hkinkanu2012,H16h_Kinkanu_2012,Africa,-5.25,15.5,east2782,kng
+h16kikongo,H16_Kikongo,Africa,-5.57722,14.4771,koon1244,kng
+h16kimbatangidinga,H16_Kimbata_Ngidinga,Africa,-5.25,15.5,east2782,kng
+h16kimbeko,H16_Kimbeko,Africa,-5.25,15.5,east2782,kng
+h21akimbundu,H21a_Kimbundu,Africa,-8.97835,14.8893,kimb1241,kmb
+h31yaka,H31_Yaka,Africa,-5.984,16.775,yaka1269,yaf
+h321soonde,H321_Soonde,Africa,-6.32223,18.3555,sond1250,shc
+h32suku,H32_Suku,Africa,-5.76495,17.7736,suku1259,sub
+h41mbala,H41_Mbala,Africa,-5.11888,18.041,mbal1257,mdp
+h42hunganna,H42_Hunganna,Africa,-3.69695,18.4312,hung1278,hum
+jd53shi,JD53_Shi,Africa,-2.55777,28.6122,shii1238,shr
+jd62rundi,JD62_Rundi,Africa,-2.94,29.97,rund1242,run
+jd64shubi,JD64_Shubi,Africa,-2.97663,31.0681,shub1238,suj
+jd65hangaza,JD65_Hangaza,Africa,-2.52347,30.7074,hang1260,han
+jd66kiha,JD66_Kiha,Africa,-3.77873,30.4894,haaa1252,haq
+jd67kivinza,JD67_Kivinza,Africa,-4.99312,30.5699,vinz1238,vin
+je11runyoro,JE11_Runyoro,Africa,0.95294,31.3493,nyor1246,nyo
+je12rutooro,JE12_Rutooro,Africa,0.57291,30.6389,toor1238,ttj
+je13runyankore,JE13_Runyankore,Africa,-0.46364,30.548,nyan1307,nyn
+je14rukiga,JE14_Rukiga,Africa,-1.04387,29.9122,chig1238,cgg
+je15luganda,JE15_Luganda,Africa,0.66884,32.15153,gand1255,lug
+je16lusoga,JE16_Lusoga,Africa,0.40456,33.3942,soga1242,xog
+je17gwere,JE17_Gwere,Africa,1.11392,33.8227,gwer1238,gwr
+je21runyambo,JE21_Runyambo,Africa,-1.6096,30.9156,nyam1277,now
+je22haya,JE22_Haya,Africa,-1.70878,31.4846,haya1250,hay
+je23zinza,JE23_Zinza,Africa,-2.64132,32.1755,zinz1238,zin
+je24kerebe,JE24_Kerebe,Africa,-2.09315,33.5326,kere1283,ked
+je25jita,JE25_Jita,Africa,-1.62681,33.9141,jita1239,jit
+je25kilegi,JE25_Kilegi,Africa,-1.83511,33.0488,kara1481,reg
+je25mkwaya,JE25_Mkwaya,Africa,-1.80737,33.71,kway1241,kya
+je31cbukusu,JE31c_Bukusu,Africa,0.68043,34.7719,buku1249,bxk
+je31lumasaaba,JE31_Lumasaaba,Africa,1.05906,34.2829,masa1299,myx
+je32luyia,JE32_Luyia,Africa,0.3652,34.0335,saam1283,lsm
+je34samialugwe,JE34_Samialugwe,Africa,0.3652,34.0335,saam1283,lsm
+je401ngoreme,JE401_Ngoreme,Africa,-1.8485,34.6173,ngur1263,ngq
+je402ikizu,JE402_Ikizu,Africa,-1.9915,34.3589,ikiz1238,ikz
+je403suba,JE403_Suba,Africa,-0.95719,34.1033,suba1238,sxb
+je404shasi,JE404_Shasi,Africa,-1.9915,34.3589,ikiz1238,ikz
+je41maragoli,JE41_Maragoli,Africa,0.09487,34.729,logo1258,rag
+je42gusii,JE42_Gusii,Africa,-0.78872,34.76751,gusi1247,guz
+je43kuria,JE43_Kuria,Africa,-1.50636,34.5049,kuri1259,kuj
+je43kuriamago,JE43_Kuria_Mago,Africa,-1.50636,34.5049,kuri1259,kuj
+je43kuriatari,JE43_Kuria_Tari,Africa,-1.50636,34.5049,kuri1259,kuj
+je44zanaki,JE44_Zanaki,Africa,-2.26367,34.0542,zana1238,zak
+je45nata,JE45_Nata,Africa,-1.94989,34.5361,ikom1245,ntk
+k11ciokwe,K11_Ciokwe,Africa,-9.66082,21.3992,chok1245,cjk
+k14lwena,K14_Lwena,Africa,-13.5382,22.2924,luva1239,lue
+k15mbunda,K15_Mbunda,Africa,-14.603,21.9768,mbun1249,mck
+k21lozi,K21_Lozi,Africa,-17.7052,24.7398,lozi1239,loz
+k31luyana,K31_Luyana,Africa,-15.01,22.67,luya1241,lyn
+k332rumanyo,K332_Rumanyo,Africa,-18.1681,20.6678,diri1252,diu
+k33kwangali,K33_Kwangali,Africa,-17.9026,19.256,kwan1273,kwn
+komgrassfields,Kom_Grassfields,Africa,6.2596,10.3348,komc1235,bkm
+kulungjarawan,Kulung_Jarawan,Africa,9.20815,11.04651,kulu1255,bbu
+l11pende,L11_Pende,Africa,-5.64735,19.8275,phen1239,pem
+l12bholu,L12b_Holu,Africa,-8.14754,17.572,holu1245,hol
+l13kwese,L13_Kwese,Africa,-5.60445,18.5759,kwes1244,kws
+l221lwalwa,L221_Lwalwa,Africa,-7.16388,22.1097,lwal1238,lwa
+l23songe,L23_Songe,Africa,-5.71993,25.2765,song1303,sop
+l31alubakasai,L31a_Luba-Kasai,Africa,-5.72717,22.4422,luba1249,lua
+l32kanyok,L32_Kanyok,Africa,-7.31878,23.613,kany1247,kny
+l33lubashaba,L33_Luba-Shaba,Africa,-8.2816,25.8918,luba1250,lub
+l34hemba,L34_Hemba,Africa,-7.77459,27.5913,hemb1242,hem
+l35sanga,L35_Sanga,Africa,-10.0236,26.8462,sang1331,sng
+l41kaonde,L41_Kaonde,Africa,-12.4129,25.7646,kaon1241,kqn
+l51salampasu,L51_Salampasu,Africa,-5.44937,23.1502,sala1268,slx
+l52lunda,L52_Lunda,Africa,-11.1793,23.8662,lund1266,lun
+l53runda,L53_Runda,Africa,-8.86971,21.4164,ruun1238,rnd
+l62nkoya,L62_Nkoya,Africa,-14.8513,24.7649,nkoy1244,nka
+m11pimbwe,M11_Pimbwe,Africa,-6.81358,31.4289,pimb1238,piw
+m12lungwa,M12_Lungwa,Africa,-7.24959,31.7614,rung1255,rnw
+m13fipa,M13_Fipa,Africa,-7.88963,31.3442,fipa1238,fip
+m14rungu,M14_Rungu,Africa,-8.86817,31.2269,mamb1296,mgr
+m15mambwe,M15_Mambwe,Africa,-8.86817,31.2269,mamb1296,mgr
+m21ndali,M21_Ndali,Africa,-9.88948,33.6118,ndal1241,ndh
+m21wanda,M21_Wanda,Africa,-8.34522,32.4375,wand1264,wbh
+m22namwanga,M22_Namwanga,Africa,-9.11261,32.3163,nyam1275,mwn
+m23nyiha,M23_Nyiha,Africa,-9.4472,32.9057,nyih1240,nih
+m24malila,M24_Malila,Africa,-9.16619,33.339,mali1279,mgq
+m25safwa,M25_Safwa,Africa,-8.54936,33.4766,safw1238,sbk
+m28lambya,M28_Lambya,Africa,-9.49372,33.15852,lamb1272,lai
+m31nyakyusa,M31_Nyakyusa,Africa,-9.71018,33.7763,nyak1260,nyy
+m41taabwa,M41_Taabwa,Africa,-7.91416,29.5238,taab1238,tap
+m42bemba,M42_Bemba,Africa,-10.6122,29.2993,bemb1257,bem
+m52lala,M52_Lala,Africa,-12.945,30.2297,lala1264,leb
+m54lamba,M54_Lamba,Africa,-12.3366,27.9026,lamb1271,lam
+m61lenje,M61_Lenje,Africa,-14.7192,28.2581,lenj1248,leh
+m62soli,M62_Soli,Africa,-15.5213,28.7934,soli1239,sby
+m64tonga,M64_Tonga,Africa,-17.422325,27.103495,tong1318,toi
+mbulajarawan,Mbula_Jarawan,Africa,9.60769,12.2439,mbul1260,mbu
+moghamograssfields,Moghamo_Grassfields,Africa,5.88942,9.87416,meta1238,mgo
+mungakagrassfields,Mungaka_Grassfields,Africa,5.89752,10.0294,mung1266,mhk
+n11manda,N11_Manda,Africa,-10.3991,34.7424,mand1423,mgs
+n12ngoni,N12_Ngoni,Africa,-11.779,35.459,tanz1241,ngo
+n13matengo,N13_Matengo,Africa,-11.554,35.0056,mate1258,mgv
+n14mpoto,N14_Mpoto,Africa,-11.13767,34.71269,mpot1240,mpa
+n21tumbukamalawi,N21_Tumbuka_Malawi,Africa,-11.3297,33.3738,tumb1250,tum
+n31chewa,N31_Chewa,Africa,-14.8047,32.8108,nyan1308,nya
+n42kunda,N42_Kunda,Africa,-15.7337,30.2804,kund1255,kdn
+njengrassfields,Njen_Grassfields,Africa,5.75169,9.90439,njen1238,njj
+okugrassfields,Oku_Grassfields,Africa,6.23712,10.5096,okuu1243,oku
+p11ndengeleko,P11_Ndengeleko,Africa,-7.54628,38.958,nden1248,ndg
+p12rufiji,P12_Rufiji,Africa,-7.54628,38.958,nden1248,ndg
+p13matumbi,P13_Matumbi,Africa,-8.53734,39.0409,matu1259,mgw
+p14ngindo,P14_Ngindo,Africa,-9.78145,37.9832,ngin1244,nnq
+p15mbunga,P15_Mbunga,Africa,-8.19661,36.5362,mbun1248,mgy
+p21yao,P21_Yao,Africa,-13.6119,35.2387,yaoo1241,yao
+p22mwera,P22_Mwera,Africa,-9.75639,38.8762,mwer1248,mwe
+p23simakonde,P23_Simakonde,Africa,-10.9906,39.5133,mako1251,kde
+p25mabia,P25_Mabia,Africa,-10.9906,39.5133,mako1251,kde
+p31emakhua,P31_Emakhua,Africa,-14.8509,38.8052,makh1264,vmw
+p31gikorovere,P31G_Ikorovere,Africa,-11.9553,38.6874,makh1261,mgh
+r11umbundu,R11_Umbundu,Africa,-12.4763,14.4148,umbu1257,umb
+r21kwanyama,R21_Kwanyama,Africa,-17.7176,16.58,kuan1247,kua
+r22ndonga,R22_Ndonga,Africa,-17.22,17.35,ndon1254,ndo
+r31herero,R31_Herero,Africa,-21.0231,20.5655,here1253,her
+s11shona,S11_Shona,Africa,-17.20849,29.75725,shon1251,sna
+s16kalanga,S16_Kalanga,Africa,-21.2887,27.401,kala1384,kck
+s21venda,S21_Venda,Africa,-22.188,29.9523,vend1245,ven
+s311shekgalagari,S311_Shekgalagari,Africa,-24.9208,22.72016,kgal1244,xkv
+s31tswana,S31_Tswana,Africa,-24.368,24.7587,tswa1253,tsn
+s41xhosa,S41_Xhosa,Africa,-31.0389,28.0769,xhos1239,xho
+s42zulu,S42_Zulu,Africa,-28.9,30.2,zulu1248,zul
+s44ndebele,S44_Ndebele,Africa,-28.9,30.2,zulu1248,nde
+s51tshwa,S51_Tshwa,Africa,-22.9891,32.4287,tswa1255,tsc
+s53tsonga,S53_Tsonga,Africa,-23.5754,31.8105,tson1249,tso
+tivtivoid,Tiv_Tivoid,Africa,6.88039,9.26287,tivv1240,tiv
+zaambojarawan,Zaambo_Jarawan,Africa,9.60769,12.2439,mbul1260,mbu
+Mono,Mono,North America,37.1935,-119.347,mono1275,mnr
+NorthernPaiute,Northern Paiute,North America,40.0799,-119.536,nort2954,pao
+Pannamint,Timbisha (Panamint),North America,36.0007,-117.901,pana1305,par
+ShoshoniGosiute,Gosiute Shoshone,North America,,,gosi1242,shh
+Comanche,Comanche,North America,34.0,-101.0,coma1245,com
+Kawaiisu,Kawaiisu,North America,36.0538,-118.679,kawa1283,xaw
+Chemehuevi,Chemehuevi,North America,35.356093,-116.438436,chem1251,ute
+SouthernPaiute,Southern Paiute,North America,37.0,-114.0,sout2969,ute
+SouthernUte,Southern Ute,North America,38.0,-109.0,utee1244,ute
+Tubatulabel,Tübatulabal,North America,35.327,-117.163,tuba1278,tub
+Serrano,Serrano,North America,33.9479,-116.772,serr1255,ser
+Cahuilla,Cahuilla,North America,33.5324,-116.691,cahu1264,chl
+Cupeno,Cupeño,North America,33.3148,-116.515,cupe1243,cup
+Luiseno,Luiseño,North America,33.3184,-116.939,luis1253,lui
+Gabrielino,Tongva,North America,34.1,-118.11,tong1329,ser
+Hopi,Hopi,North America,35.7653,-110.535,hopi1249,hop
+Papago,O'odham,North America,31.7973,-111.995,toho1245,ood
+PimaDeOnavas,Pima de Onavas,North America,28.654,-108.326,pima1248,ood
+Guarijio,Guarijío,North America,27.8685,-108.437,huar1255,var
+Cora,Cora,North America,22.4099,-104.467,elna1235,crn
+ClassicalAztec,Classical Nahuatl,North America,19.72,-96.97,clas1250,nci
+AztecTetelcingo,Tetelcingo Nahuatl,North America,18.8854,-98.893,tete1251,nhg
+AztecZacapoaxtla,Zacapoaxtla Nahuatl,North America,20.1554,-97.5556,high1278,azz
+Kitanemuk,Kitanemuk,North America,,,kita1252,ser
+Kiowa,Kiowa,North America,34.9403,-98.9042,kiow1266,kio
+SanJuanPuebloTewa,San Juan Pueblo Tewa,North America,,,sanj1276,tew
+AztecPochutla,Pochutec,North America,15.735073,-96.468076,poch1244,xpo
+Coahuilteco,Coahuilteco,North America,28.2589,-97.89,coah1252,xcw
+Comecrudo,Comecrudo,North America,,,come1253,
+Cotaname,Cotaname,North America,25.9116,-97.3956,coto1248,xcn
+Karankawa,Karankawa,North America,28.9082,-96.4856,kara1289,zkk
+ProtoKeresan,Proto-Keresan,,,,kere1287,
+Acoma,Acoma,North America,,,acom1246,kjq
+SantaAna,Santa Ana,North America,,,sant1426,
+SantaDomingo,Santa Domingo,North America,,,sant1425,
+Zuni,Zuni,North America,35.0056,-108.782,zuni1245,zun
+Kawki,Kawki,South America,-12.72,-75.91,cauq1239,
+Jaqaru,Jaqaru,South America,-12.74,-75.81,jaqa1244,jqr
+Atalla,Huancavelica,South America,-12.76,-74.87,huan1249,
+Azuay,Azuay,South America,-2.48,-78.97,azua1234,
+Curva,Apolobamba,South America,-14.4,-68.79,apol1241,
+Apuri,Apurí-Madean-Viñac,South America,-12.89,-75.81,apur1253,
+Ayacucho,Ayacucho,South America,-13.85,-74.32,ayac1239,quy
+Huangascar,Chocos-Huangáscar,South America,-12.9,-75.83,azan1238,
+Cacra-Hongos,Cacra-Hongos,South America,-12.81,-75.78,cacr1238,
+Chetilla,Cajamarca,South America,-7.09,-78.32,caja1238,qvc
+Chachapoyas,Chachapoyas,South America,-6.27,-77.66,chac1250,quk
+Yanac,Corongo,South America,-8.58,-77.99,coro1247,qwa
+Cuzco,Cuzco,South America,-14.09,-71.77,cusc1236,quz
+Apurimac,Eastern-Apurímac,South America,-13.89,-73.14,east2551,qve
+HuarazHuailas,Huaraz-Huailas,South America,-9.52,-77.52,huai1241,
+Huallaga,Huallaga-Huánuco,South America,-9.57,-75.59,hual1241,qub
+Imbabura,Imbabura,South America,-0.23,-78.26,imba1240,qvi
+Putumayo,Colombian Inga,South America,1.17,-76.96,inga1252,inb
+Jauja,Jauja-Huanca,South America,-11.67,-75.28,jauj1238,qxw
+Huanca,Huaylla-Huanca,South America,-11.77,-75.49,huay1241,qvw
+Inkawasi,Lambayeque,South America,-6.17,-79.47,lamb1276,quf
+Maragua,Chuquisaca,South America,-18.96,-65.78,sout2991,quh
+Napo,Napo ,South America,-0.04,-76.23,napo1242,qvo
+Troje,Chimborazo,South America,-1.37,-78.85,nort3351,
+Pacaraos,Pacaraos,South America,-11.14,-76.73,paca1245,qvp
+Puno,Puno,South America,-14.61,-70.21,puno1238,qxp
+Lamas,San Martín,South America,-6.42,-76.52,sanm1289,qvs
+SanPedro,Liscay-San Pedro,South America,-13.09,-75.74,sanp1258,
+Santiagueno,Santiago del Estero,South America,-27.79,-64.25,sant1432,qus
+Pastaza,Pastaza,South America,-4.79,-76.53,sout2990,qup
+Pocona,Cochabamba,South America,-17.67,-65.42,coch1274,
+Lincha-Tana,Lincha-Tana,South America,-12.8,-75.66,tana1291,
+Serena,Tena,South America,-0.76,-77.54,tena1240,quw
+Tarma,Yaru,,-11.42,-75.68,yaru1256,
+Laraos,Laraos,South America,-13.11,-75.77,yauy1235,qux
+Chipaya,Chipaya,South America,-18.74,-67.9,chip1262,cap
+Iruhito,Iruhito,South America,-16.74,-68.8,uruu1244,ure
+Badga,Badga,Eurasia,11.3094,76.5974,bada1257,bfq
+Betta_Kurumba,Betta_Kurumba,Eurasia,11.6385,76.6064,bett1235,xub
+Brahui,Brahui,Eurasia,29.04,66.56,brah1256,brh
+Gondi,Gondi,Eurasia,18.1632,81.3842,nort2702,gno
+Kodava,Kodava,Eurasia,12.2443,75.9161,koda1255,kfa
+Kolami,Kolami,Eurasia,20.1022,78.4934,nort2699,kfb
+Kota,Kota,Eurasia,11.4978,76.9387,kota1263,kfe
+Koya,Koya,Eurasia,17.6772,81.2096,koya1251,kff
+Kurukh,Kurukh,Eurasia,24.4644,86.4657,kuru1302,kru
+Kuwi,Kuwi,Eurasia,18.8832,83.7552,kuvi1243,kxv
+Malto,Malto,Eurasia,24.8124,87.6432,saur1249,mjt
+Ollari_Gadba,Ollari_Gadba,Eurasia,18.5968,82.7586,pott1240,gdb
+Parji,Parji,Eurasia,19.0534,82.4881,duru1236,pci
+Toda,Toda,Eurasia,11.4184,77.0168,toda1252,tcx
+Tulu,Tulu,Eurasia,12.8114,75.2651,tulu1258,tcy
+Yeruva,Yeruva,Eurasia,12.3231,75.6265,ravu1237,yea
+Tupinamba,Tupinambá,South America,-22.807778,-42.106389,tupi1273,tpn
+Kokama,Kokama,South America,,,coca1260,
+Baraba,Baraba Tatar,Eurasia,,,bara1273,
+CrimeanTatar,Crimean Tatar,Eurasia,45.0,34.08,crim1257,crh
+Dolgan,Dolgan,Eurasia,71.1083,94.2936,dolg1241,dlg
+Gagauz,Gagauz,Eurasia,44.5988,28.0277,gaga1249,gag
+KarachayBalkar,Karachay Balkar,Eurasia,43.565,42.2606,kara1465,krc
+Karaim,Karaim,Eurasia,54.5534,25.1054,kara1464,kdr
+KaraKalpak,Karakalpak,Eurasia,39.98,63.3223,kara1467,kaa
+Khakas,Khakas,Eurasia,50.7393,107.169,khak1248,kjh
+Khalaj,Khalaj,Eurasia,34.4224,50.3222,turk1303,klj
+Kirghiz,Kirghiz,Eurasia,42.0,74.0,kirg1245,kir
+Kumyk,Kumyk,Eurasia,43.0,47.0,kumy1244,kum
+MiddleChulym,Middle Chulym,Eurasia,,,midd1324,
+Nogai,Nogai,Eurasia,43.5917,46.6618,noga1249,nog
+NorthAltai,North Altay,Eurasia,50.8998,88.0672,nort2686,atv
+OldUyghur,Old Turkic,Eurasia,,,oldu1238,oui
+Salar,Salar,Eurasia,35.5457,102.819,sala1264,slr
+SarygYugur,Saryg Yugur,Eurasia,39.0548,99.3112,west2402,ybe
+Shor,Shor,Eurasia,52.3261,88.4344,shor1247,cjs
+SouthAltai,South Altay,Eurasia,50.1347,86.8705,sout2694,alt
+Tatar,Kazan Tatar,Eurasia,,,midd1325,
+Tofa,Tofa,,,,tofa1248,
+Turkish,Turkish,,,,anat1259,
+Turkmen,Turkmen,Eurasia,37.0872,59.1757,turk1304,tuk
+Tuvan,Tuvan,Eurasia,51.7,94.36667,tuvi1240,tyv
+Uighur,Uyghur,Eurasia,43.67,79.75,uigh1240,uig
+Uzbek,Uzbek,,,,uzbe1247,uzb
+Lyngngam,Lyngngam,Eurasia,25.35,91.05,lyng1241,lyg
+Palaung,Palaung,Eurasia,23.6729,97.7972,shwe1236,pll
+PnarJaintia,PnarJaintia,Eurasia,,,jain1238,
+WarLamin,WarLamin,Eurasia,25.1154,91.6266,warj1242,aml
+OldJapanese,Old Japanese,Eurasia,34.68333,135.8,oldj1239,ojp
+Aichi,Aichi,Eurasia,,,gifu1238,
+Akita,Akita,Eurasia,,,akit1240,
+Aomori,Aomori,Eurasia,,,tsug1237,
+Chiba,Chiba,Eurasia,,,chib1248,
+Fukushima,Fukushima,Eurasia,,,fuku1243,
+Gifu,Gifu,Eurasia,,,gifu1238,
+Gunma,Gunma,Eurasia,,,gunm1237,
+Hokkaido,Hokkaido,Eurasia,,,hokk1243,
+Ibaraki,Ibaraki,Eurasia,,,ibar1242,
+Iwate,Iwate,Eurasia,,,kese1237,
+Kanagawa,Kanagawa,Eurasia,,,kana1290,
+Miyagi,Miyagi,Eurasia,,,send1240,
+Nagano,Nagano,Eurasia,,,naga1408,
+Niigata,Niigata,Eurasia,,,niig1237,
+Saitama,Saitama,Eurasia,,,chic1269,
+Shizuoka,Shizuoka,Eurasia,,,shiz1237,
+Tochigi,Tochigi,Eurasia,,,toch1258,
+Tokyo,Tokyo,Eurasia,,,toky1238,
+Yamagata,Yamagata,Eurasia,,,yama1262,
+Yamanashi,Yamanashi,Eurasia,,,yama1263,
+Hachijyo,Hachijyo,Eurasia,33.109444,139.791389,hach1239,
+Fukuoka,Fukuoka,Eurasia,,,chik1251,
+Kagoshima,Kagoshima,Eurasia,28.20991,129.45346,nort2935,ryn
+Kumamoto,Kumamoto,Eurasia,,,kuma1281,
+Miyazaki,Miyazaki,Eurasia,,,miya1258,
+Nagasaki,Nagasaki,Eurasia,,,naga1405,
+Oita,Oita,Eurasia,,,oita1237,
+Saga,Saga,Eurasia,,,saga1265,
+Naze,Naze,Eurasia,,,naze1238,
+Okinawa,Okinawa,,,,okin1244,
+Hateruma,Hateruma,Eurasia,24.059,123.78,hate1238,
+Hirara,Hirara,Eurasia,,,miya1260,
+Ikema,Ikema,Eurasia,24.93149,125.245,ikem1235,
+Irafu,Irafu,Eurasia,24.831088,125.18956,irab1238,
+Ishigaki,Ishigaki,Eurasia,,,ishi1240,
+Taketomi,Taketomi,Eurasia,,,take1256,
+Tarama,Tarama,Eurasia,24.6584,124.6998,tara1319,
+Yonaguni,Yonaguni,Eurasia,24.44997,122.99075,yona1241,yoi
+Ehime,Ehime,Eurasia,,,iyob1237,
+Fukui,Fukui,Eurasia,,,fuku1241,
+Hiroshima,Hiroshima,Eurasia,,,hiro1237,
+Hyogo,Hyogo,Eurasia,,,kobe1244,
+Ishikawa,Ishikawa,Eurasia,,,kana1289,
+Kagawa,Kagawa,Eurasia,,,kaga1258,
+Kochi,Kochi,Eurasia,,,hata1244,
+Kyoto,Kyoto,Eurasia,,,kyot1238,
+Mie,Mie,Eurasia,,,miee1237,
+Okayama,Okayama,Eurasia,,,okay1237,
+Osaka,Osaka,Eurasia,,,osak1237,
+Shiga,Shiga,Eurasia,,,shig1237,
+Shimane,Shimane,Eurasia,,,izum1237,
+Tokushima,Tokushima,Eurasia,,,toku1245,
+Tottori,Tottori,Eurasia,,,tott1237,
+Toyama,Toyama,Eurasia,,,toya1237,
+Wakayama,Wakayama,Eurasia,,,waka1279,
+Yamaguchi,Yamaguchi,Eurasia,,,yama1261,
+Bela,Bela,Eurasia,24.45,98.6,pela1242,bxd
+Phon,Phon,Eurasia,25.3248194,97.3544031,hpon1238,hpo
+WrittenBurmese,Written_Burmese,Eurasia,21.16,94.90,oldb1235,obr
+Zaiwa,Zaiwa,Eurasia,24.45,98.6,zaiw1241,atb
+MiddleChinese,Middle Chinese,,34.27,108.9,midd1344,
+CogtseSitu,Cogtse (Situ),,31.67,102.29,maer1238,
+BragbarSitu,Brag-bar (Situ),,31.82,101.91,maer1238,
+Japhug,Japhug,,32.21,101.96,dgon1234,
+Zbu,Zbu,,32.22,101.61,zbua1234,
+teiwa,Teiwa,Papunesia,-8.37662,124.174,teiw1235,twe
+abui,Abui,Papunesia,-8.31058,124.588,abui1241,abz
+protoalorpantar,Alor-Pantar,,,,alor1249,
+blagar,Blagar,Papunesia,-8.31787,124.251,blag1240,beu
+kamang,Kamang,Papunesia,-8.26897,124.792,kama1365,woi
+wersing,Wersing,Papunesia,-8.33936,124.932,wers1238,kvw
+kaera,Kaera,Papunesia,-8.3287,124.0177,kaer1234,jka
+westernpantar,Western Pantar,Papunesia,-8.52787,124.057,lamm1241,lev
+kui,Kui,Papunesia,,,kuii1254,kvd
+adang,Adang,Papunesia,-8.18958,124.448,adan1251,adn
+sawila,Sawila,Papunesia,-8.29105,125.078,sawi1256,swt
+nedebang,Nedebang,Papunesia,-8.28776,124.192,nede1245,nec
+klon,Klon,Papunesia,-8.40688,124.429,kelo1247,kyo
+Ak,Akuntsú,South America,-12.8322,-60.9716,akun1241,aqz
+Ar,Aruá,South America,-12.1186,-62.4357,arua1261,arx
+Gv,Gavião,South America,-10.7235,-61.6752,gavi1246,gvo
+Ju,Jurúna,South America,-10.9354,-53.3472,juru1256,jur
+Ka,Káro,South America,-10.3342,-61.5691,karo1305,arr
+Kt,Karitiána,South America,-9.37937,-64.1522,kari1311,ktn
+Ku,Kuruáya,South America,-3.09561,-52.2303,kuru1309,kyr
+Ma,Makuráp,South America,-11.8701,-64.3201,maku1278,mpu
+Me,Mekéns,South America,-13.054,-62.0927,saki1248,skf
+Mu,Mundurukú,South America,-8.41095,-57.691,mund1330,myu
+Pt,Parintintín,South America,,,pari1258,
+Pu,Puruborá,South America,-11.4226,-62.4358,puru1264,pur
+Sa,Salamãy,South America,-12.0499,-61.25,sala1273,mnd
+Tu,Tuparí,South America,-11.8884,-62.2544,tupa1250,tpr
+Xi,Xipáya,South America,-4.133,-49.948,xipa1240,xiy
+Zo,Zoró,South America,,,zoro1244,
+Didra,Didra,Eurasia,14.57,108.11,todr1244,tdr
+KahoChil,KahoChil,Eurasia,,,chil1279,
+MBunong,M.Bunong,Eurasia,11.52,107.34,maaa1253,cma
+MDip,M.Dip,Eurasia,11.52,107.34,maaa1253,cma
+Oy,Oy,Eurasia,15.42,106.66,oyyy1238,oyb
+Sre,Sre,Eurasia,11.64436,108.05721,sree1244,kpm
+Tariang,Tariang,Eurasia,16.53,106.10,tali1257,tdf
+Katu,Katu,,,,katu1272,
+Kui,Kui,Eurasia,,,kuyy1240,kdt
+LaoKatu,Lao-Katu,Eurasia,15.79,107.17,west2398,kuf
+Nge,Nge,Eurasia,15.62109,106.8773,ngeq1245,ngt
+Pakoh,Pakoh,Eurasia,16.44399,107.12868,paco1243,pac
+So,So,Eurasia,,,sooo1254,sss
+Taoi,Taoi,Eurasia,15.9083,106.87347,lowe1395,tto
+Tri,Tri,Eurasia,,,trii1240,
+KSurin,K.Surin,Eurasia,14.46743,103.86313,nort2684,kxm
+Bit,Bit,Eurasia,21.44574,102.03513,bitt1240,bgk
+Khang,Khang,Eurasia,21.66243,103.73637,khan1274,kjm
+Ksinmul,Ksinmul,Eurasia,21.02809,104.0259,puoc1238,puo
+Mlabri,Mlabri,Eurasia,18.46712,101.03731,mlab1235,mra
+Phong,Phong,Eurasia,19.96217,104.08797,phon1246,pnx
+Bugan,Bugan,Eurasia,23.61242,104.96286,buga1247,bbh
+Mang,Mang,Eurasia,22.37722,103.14238,mang1378,zng
+Mon,Mon,Eurasia,15.81271,97.89369,monn1252,mnw
+Nyakur,Nyakur,Eurasia,15.89091,101.51465,nyah1250,
+Bonda,Bonda,Eurasia,19.15124,83.81415,bond1245,bfw
+Juang,Juang,Eurasia,21.26064,85.58452,juan1238,jun
+Kharia,Kharia,Eurasia,22.35712,84.39219,khar1287,khr
+Korku,Korku,Eurasia,21.83579,77.55409,kork1243,kfq
+Mundari,Mundari,Eurasia,22.5517,85.09258,mund1320,unr
+Parengi,Parengi,Eurasia,19.07501,83.97234,pare1266,pcj
+Santali,Santali,Eurasia,23.9076,87.11775,sant1410,sat
+Sora,Sora,Eurasia,19.12127,84.19005,sora1254,srb
+Car,Car,Eurasia,9.18853,92.76706,carn1240,caq
+Nancawri,Nancawri,Eurasia,7.94812,93.39208,nanc1247,ncb
+Deang,De'ang,Eurasia,,,ruch1235,
+Hu,Hu,Eurasia,23.37,101.75,huuu1240,huo
+Rumai,Rumai,Eurasia,23.13363,96.67992,ruma1248,rbb
+Chong,Chong,Eurasia,12.7267,102.232,chon1284,cog
+ChongH,Chong-H,Eurasia,12.7267,102.232,chon1284,cog
+Kasong,Kasong,Eurasia,12.87518,102.16769,cent2314,cog
+Samre,Samre,Eurasia,13.47899,103.978,somr1240,sxm
+finnish,Finnish,,62,25,finn1318,fin
+northkarelian,North Karelian,,64,32,kare1335,krl
+olonetskarelian,Olonets Karelian,,61,33,livv1243,olo
+veps,Veps,,60,35,veps1250,vep
+estonian,Estonian,,59,26,esto1258,ekk
+livonian,Livonian,,57.4,21.5,livv1244,liv
+southernsami,Southern Sami,,64.67,16.75,sout2674,sma
+lulesami,Lule Sami,,68,16.5,lule1254,smj
+northernsami,Northern Sami,,69,24,nort2671,sme
+inarisami,Inari Sami,,68.5,27,inar1241,smn
+skoltsami,Skolt Sami,,69.5,28.67,skol1241,sms
+kildinsami,Kildin Sami,,68,35,kild1236,sjd
+hillmari,Hill Mari,,56.33,46.33,west2392,mrj
+meadowmari,Meadow Mari,,57,49.5,east2328,mhr
+moksha,Moksha,,54,44,moks1248,mdf
+hungarian,Hungarian,,47,20,hung1274,hun
+northernkhanty,Northern Khanty,,65,65,khan1273,kca
+northernmansi,Northern Mansi,,62,62,mans1258,mns
+northernselkup,Northern Selkup,,65,82,selk1253,sel
+tundranenets,Tundra Nenets,,70,76,nene1249,yrk
+forestenets,Forest Enets,,70,88.2,fore1265,enf
+bengali,Bengali,,24,90,beng1280,ben
+hindi,Hindi,,25,77,hind1269,hin
+northernpashto,Northern Pashto,,34,71.33,nort2646,pbu
+westernfarsi,Western Farsi,,28.66,55.16,west2369,pes
+northernkurdish,Northern Kurdish,,37,43,nort2641,kmr
+ossetian,Ossetian,,43,44,osse1243,oss
+armenian,Armenian,,40,45,nucl1235,hye
+moderngreek,Modern Greek,,39,22,mode1248,ell
+standardalbanian,Standard Albanian,,41,20,alba1267,sqi
+bulgarian,Bulgarian,,42.5,25,bulg1262,bul
+croatian,Croatian,,45.5,16.5,croa1245,hrv
+slovene,Slovene,,46,14.5,slov1268,slv
+slovak,Slovak,,49,20,slov1269,slk
+czech,Czech,,49.87,15.1,czec1258,ces
+polish,Polish,,52,20,poli1260,pol
+ukrainian,Ukrainian,,49,33,ukra1253,ukr
+belarusian,Belarusian,,54,28,bela1254,bel
+russian,Russian,,56,38,russ1263,rus
+lithuanian,Lithuanian,,55,24,lith1251,lit
+latvian,Latvian,,57,24,latv1249,lav
+icelandic,Icelandic,,65,-17,icel1247,isl
+norwegianbokmal,Norwegian (Bokmål),,61,8,norw1258,nor
+swedish,Swedish,,60,15,swed1254,swe
+danish,Danish,,56,10,dani1285,dan
+german,German,,52,10,stan1295,deu
+dutch,Dutch,,52.5,6,dutc1256,nld
+english,English,,52,0,stan1293,eng
+irish,Irish,,53,-8,iris1253,gle
+welsh,Welsh,,52,-3,wels1247,cym
+breton,Breton,,48,-3,bret1244,bre
+latin,Latin,,41.90,12.45,lati1261,lat
+french,French,,48,2,stan1290,fra
+spanish,Spanish,,40,-4,stan1288,spa
+portuguese,Portuguese,,39,-8,port1283,por
+turkish,Turkish,,39,35,nucl1301,tur
+northazerbaijani,North Azerbaijani,,40.98,46.47,nort2697,azj
+northernuzbek,Northern Uzbek,,43.75,59.23,nort2690,uzn
+kazakh,Kazakh,,41.87,65.77,kaza1248,kaz
+bashkir,Bashkir,,53,58,bash1264,bak
+tatar,Tatar,,56,49.5,tata1255,tat
+sakha,Sakha,,62,130,yaku1245,sah
+chuvash,Chuvash,,55.5,47.5,chuv1255,chv
+khalkhamongolian,Khalkha Mongolian,,48.32,106.29,halh1238,khk
+buryat,Buryat,,51.83,107.6,buri1258,bua
+kalmyk,Kalmyk,,46.33,44.25,kalm1243,xal
+evenki,Evenki,,56,125,even1259,evn
+manchu,Manchu,,49.5,127.5,manc1252,mnc
+nanai,Nanai,,49.5,137,nana1257,gld
+ket,Ket,,64,87,kett1243,ket
+northernyukaghir,Northern Yukaghir,,69,155,nort2745,ykg
+southernyukaghir,Southern Yukaghir,,65.75,150.83,sout2750,yux
+itelmen,Itelmen,,57,157.5,itel1242,itl
+chukchi,Chukchi,,67,-173,chuk1273,ckt
+nivkh,Nivkh,,53.33,142,gily1242,niv
+korean,Korean,,37.5,128,kore1280,kor
+japanese,Japanese,,37,140,nucl1643,jpn
+aleut,Aleut,,54,-166,aleu1260,ale
+centralsiberianyupik,Central Siberian Yupik,,63.2,-170.2,cent2128,ess
+kalaallisut,Kalaallisut,,64,-51,kala1399,kal
+kannada,Kannada,,14,76,nucl1305,kan
+malayalam,Malayalam,,10,76.5,mala1464,mal
+tamil,Tamil,,11,78,tami1289,tam
+telugu,Telugu,,16,79,telu1262,tel
+burushaski,Burushaski,,36.5,74.5,buru1296,bsk
+georgian,Georgian,,42,44,nucl1302,kat
+basque,Basque,,43,-3,basq1248,eus
+abkhaz,Abkhaz,,43.08,41,abkh1244,abk
+adyghe,Adyghe,,45.23,40.58,adyg1241,ady
+avar,Avar,,42.5,46.5,avar1256,ava
+tsez,Tsez,,42.25,45.75,dido1241,ddo
+lak,Lak,,42.17,47.17,lakk1252,lbe
+lezgian,Lezgian,,41.67,47.83,lezg1247,lez
+dargwa,Dargwa,,42.25,47.42,darg1241,dar
+chechen,Chechen,,43.25,45.83,chec1245,che
+standardarabic,Standard Arabic,,25,42,stan1318,arb
+modernhebrew,Modern Hebrew,,31.5,34.83,hebr1245,heb
+mandarinchinese,Mandarin Chinese,,34,110,mand1415,cmn
+Changsha,Changsha,Eurasia,28.85032,112.943344,chan1326,
+Chengdu,Chengdu,Eurasia,30.605768,103.970947,chen1267,
+Fuzhou,Fuzhou,Eurasia,26.08904,119.294243,fuzh1239,
+Guilin,Guilin,Eurasia,25.266667,110.283333,guil1241,
+Haerbin,Ha_erbin,Eurasia,45.846595,126.551056,haer1234,
+Jinan,Jinan,Eurasia,36.690777,116.997299,jina1245,
+Jixi,Jixi,Eurasia,30.071111,118.592222,jixi1238,
+Loudi,Loudi,Eurasia,27.733333,111.9281883,loud1234,
+Meixian,Meixian,Eurasia,24.3522958,115.8903375,yuet1238,
+Nanchang,Nanchang,Eurasia,28.706609,115.857468,nanc1254,
+Nanjing,Nanjing,Eurasia,32.0989607,118.4575646,nanj1234,
+Rongcheng,Rongcheng,Eurasia,37.130642,122.434269,rong1271,
+Suzhou,Suzhou,Eurasia,31.3280439,120.364116,suzh1234,
+Taiyuan,Taiyuan,Eurasia,37.8632119,112.4024883,taiy1243,
+Wenzhou,Wenzhou,Eurasia,28.005496,120.701179,ouji1238,
+XiAn,Xi_an,Eurasia,34.228154,108.960571,xian1253,
+Xiamen,Xiamen,Eurasia,24.49421,118.08918,xiam1236,
+Western_Xiangxi,Western Xiangxi,,,,nort2748,
+Eastern_Xiangxi,Eastern Xiangxi,Eurasia,28.7318,109.756,east2371,muq
+Qiandong,Qiandong,,,,east2369,
+Chuanqiandian,Chuanqiandian,Eurasia,24.041944,104.191944,nort3244,
+Diandongbei,Diandongbei,Eurasia,27.8682,104.06,larg1235,hmd
+Hmong_Daw,Hmong Daw,Eurasia,21.5461,103.164,hmon1333,mww
+Hmong_Njua,Hmong Njua,Eurasia,22.5638,101.95,hmon1264,hnj
+Bunu,Bunu,Eurasia,24.1025,107.711,buna1273,bwx
+Baonao,Baonao,Eurasia,24.1025,107.711,buna1273,bwx
+Numao,Numao,Eurasia,,,numa1251,
+Longhua_Jiongnai,Longhua Jiongnai,Eurasia,23.8692,110.007,jion1236,pnu
+Liuxiang_Jiongnai,Liuxiang Jiongnai,Eurasia,23.8692,110.007,jion1236,pnu
+Xiaozhai_Younuo,Xiaozhai Younuo,Eurasia,25.7638,110.474,youn1235,buh
+Huangluo_Younuo,Huangluo Younuo,Eurasia,25.7638,110.474,youn1235,buh
+Northern_Pa-Hng,Northern Pa-Hng,Eurasia,22.8049,105.165,pahn1237,pha
+Southern_Pa-Hng,Southern Pa-Hng,Eurasia,22.8049,105.165,pahn1237,pha
+Hm-Nai,Hm-Nai,Eurasia,27.9649,110.473,wuna1248,bwn
+Lianhua_She,Lianhua She,Eurasia,23.0399,114.814,shee1238,shx
+Luofu_She,Luofu She,Eurasia,23.0399,114.814,shee1238,shx
+Pa_Na,Pa Na,Eurasia,26.263819,110.096687,pana1310,
+Batek_Deq_Koh,Batek Deq Koh,Eurasia,4.8223,102.382,bate1262,btq
+Batek_Deq_Terengganu,Batek Deq Terengganu,Eurasia,4.8223,102.382,bate1262,btq
+Batek_Teq,Batek Teq,Eurasia,4.8223,102.382,bate1262,btq
+Batek_Teh_Lebir,Batek Teh Lebir,Eurasia,4.8223,102.382,bate1262,btq
+Batek_Teh_Taku,Batek Teh Taku,Eurasia,4.8223,102.382,bate1262,btq
+Menriq_Lah,Menriq Lah,Eurasia,5.01108,102.047,minr1238,mnq
+Menriq_Rual,Menriq Rual,Eurasia,5.01108,102.047,minr1238,mnq
+Jahai_Banun,Jahai Banun,Eurasia,5.63695,101.541,jeha1242,jhi
+Jahai_Rual,Jahai Rual,Eurasia,5.63695,101.541,jeha1242,jhi
+Kensiw_Kedah,Kensiw Kedah,Eurasia,5.98085,101.026,kens1248,kns
+Kintaq,Kintaq,Eurasia,5.75004,101.277,kint1239,knq
+Kensiw_Perak,Kensiw Perak,Eurasia,5.98085,101.026,kens1248,kns
+Tenen_Paborn,Tenen Paborn,Eurasia,6.88137,100.102,tong1308,tnz
+Tenen_Palian,Tenen Palian,Eurasia,6.88137,100.102,tong1308,tnz
+Ceq_Wong,Ceq Wong,Eurasia,3.83331,102.081,chew1245,cwg
+Jah_Hut,Jah Hut,Eurasia,3.67619,102.291,jahh1242,jah
+Lanoh_Kertei,Lanoh Kertei,Eurasia,4.90934,100.986,lano1248,lnh
+Semnam_Bal,Semnam Bal,Eurasia,5.27617,101.058,semn1250,ssm
+Semnam_Malau,Semnam Malau,Eurasia,5.27617,101.058,semn1250,ssm
+Temiar_Kelantan,Temiar Kelantan,Eurasia,4.974,101.438,temi1246,tea
+Temiar_Perak,Temiar Perak,Eurasia,4.974,101.438,temi1246,tea
+Semai_Kampar,Semai Kampar,Eurasia,4.13257,101.477,sema1266,sea
+Semai_Ringlet,Semai Ringlet,Eurasia,4.13257,101.477,sema1266,sea
+Khmer_Siem_Reap,Khmer Siem Reap,Eurasia,12.0515,105.015,cent1989,khm
+Khmer_Surin,Khmer Surin,Eurasia,,,suri1265,kxm
+Mah_Meri,Mah Meri,Eurasia,2.717,101.676,besi1244,mhe
+Semaq_Beri_Berua,Semaq Beri Brwe,Eurasia,4.1217,102.816,sema1265,szc
+Semaq_Beri_Jaboy,Semaq Beri Jaboy,Eurasia,4.1217,102.816,sema1265,szc
+Maniq,Maniq,Eurasia,6.88137,100.102,tong1308,tnz
+Mon,Mon,Eurasia,,,monn1253,mnw
+Banoni_4,Banoni,,,,bann1247,bcm
+Gedaged_7,Gedaged,,,,geda1237,gdd
+Giman_10,Gimán,,,,gane1237,gzn
+FijianBau_11,Fijian (Bau),,,,bauu1243,fij
+Canala_19,Canala,,,,xara1244,ane
+KilokakaYsabel_21,Kilokaka (Ysabel),,,,zaza1245,jaj
+Kis_23,Kis,,,,kiss1246,kis
+Mor_24,Mor,,,,morm1235,mhz
+Mota_25,Mota,,,,mota1237,mtt
+Motu_26,Motu,,,,motu1246,meu
+Kairiru_30,Kairiru,,,,kair1263,kxa
+Bughotu_37,Bughotu,,,,bugh1239,bgt
+Ali_39,Ali,,,,kapp1237,ykm
+AmbaiYapen_40,Ambai (Yapen),,,,amba1265,amk
+BigaMisool_46,Biga (Misool),,,,matb1237,xmt
+Buli_49,Buli,,,,buli1255,bzq
+Hoava_54,Hoava,,,,hoav1238,hoa
+KaulongAuVillage_56,Kaulong (Au Village),,,,kaul1240,pss
+KayupulauKajupulau_57,Kayupulau [Kajupulau],,,,kayu1243,kzu
+Nukuoro_64,Nukuoro,,,,nuku1260,nkr
+Kusaie_65,Kusaie,,,,kosr1238,kos
+Kwaio_66,Kwaio,,,,kwai1243,kwd
+LamogaiMulakaino_67,Lamogai (Mulakaino),,,,lamo1244,lmg
+Lau_68,Lau,,,,lauu1247,llu
+Leipon_69,Leipon,,,,leip1237,lek
+Levei_71,Levei,,,,kheh1237,tlx
+Likum_72,Likum,,,,liku1243,lib
+Loniu_73,Loniu,,,,loni1238,los
+Lou_74,Lou,,,,louu1245,loj
+Nelemwa_76,Nêlêmwa,,,,kuma1276,nee
+Yapese_77,Yapese,,,,yape1248,yap
+Mussau_79,Mussau,,,,muss1248,emi
+Maleu_82,Maleu,,,,male1289,mgl
+Marovo_87,Marovo,,,,maro1244,mvo
+Mekeo_89,Mekeo,,,,meke1243,mek
+Mengen_91,Mengen,,,,meng1267,mee
+MinyaifuinGebe_93,Minyaifuin (Gebe),,,,gebe1237,gei
+Misima_94,Misima,,,,misi1243,mpx
+Nauna_96,Nauna,,,,naun1237,ncn
+Nauru_97,Nauru,,,,naur1243,nau
+NehanHape_98,Nehan Hape,,,,neha1247,nsn
+Nengone_99,Nengone,,,,neng1238,nen
+Nggela_102,Nggela,,,,gela1263,nlg
+Nguna_103,Nguna,,,,ngun1274,llp
+Numfor_106,Numfor,,,,biak1248,bhw
+PaameseSouth_108,Paamese (South),,,,sout2858,pma
+Raga_113,Raga,,,,hano1246,lml
+Rotuman_116,Rotuman,,,,rotu1241,rtm
+Roviana_117,Roviana,,,,rovi1238,rug
+AmbrymSouthEast_120,"Ambrym, South-East",,,,sout2859,tvk
+Seimat_121,Seimat,,,,seim1238,ssg
+Sengseng_123,Sengseng,,,,seng1281,ssz
+Sobei_126,Sobei,,,,sobe1238,sob
+Tabar_129,Tabar,,,,taba1261,tbf
+Tangga_131,Tangga,,,,tang1348,hrc
+Tarpia_132,Tarpia,,,,tarp1240,tpf
+Tigak_135,Tigak,,,,tiga1245,tgc
+Vaghua_139,Vaghua,,,,vagh1249,tva
+Vitu_140,Vitu,,,,mudu1242,wiv
+Wampar_141,Wampar,,,,wamp1247,lbq
+Waropen_142,Waropen,,,,waro1242,wrp
+WindesiWandamen_145,Windesi Wandamen,,,,wand1267,wad
+Wogeo_146,Wogeo,,,,woge1237,woc
+Wuvulu_148,Wuvulu,,,,wuvu1240,wuv
+AnejomAneityum_149,Anejom (Aneityum),,,,anei1239,aty
+Kilivila_159,Kilivila,,,,kili1267,kij
+Lenakel_162,Lenakel,,,,lena1238,tnl
+MagoriSouthEastPapua_164,Magori (South East Papua),,,,mago1248,zgr
+Maisin_165,Maisin,,,,mais1250,mbq
+Manam_168,Manam,,,,mana1295,mva
+Lamusong_171,Lamusong,,,,lamu1255,lbv
+Patpatar_178,Patpatar,,,,patp1243,gfk
+Ponapean_179,Ponapean,,,,pohn1238,pon
+Ririo_182,Ririo,,,,riri1237,rri
+Teop_187,Teop,,,,teop1238,tio
+Varisi_191,Varisi,,,,vari1239,vrs
+Dehu_196,Dehu,,,,dehu1237,dhv
+Rennellese_206,Rennellese,,,,mung1271,mnv
+As_207,As,,,,asss1237,asz
+Jawe_212,Jawe,,,,jawe1237,jaz
+KwaraaeSolomonIslands_213,Kwara'ae (Solomon Islands'),,,,kwar1239,kwf
+Molima_219,Molima,,,,moli1248,mox
+Roro_220,Roro,,,,waim1251,rro
+Ubir_222,Ubir,,,,ubir1237,ubr
+Toambaita_223,To'ambaita,,,,toab1237,mlu
+Taiof_225,Taiof,,,,sapo1253,sps
+Suau_227,Suau,,,,suau1242,swp
+TannaSouthwest_228,"Tanna, Southwest",,,,sout2869,nwi
+SakaoPortOlry_230,Sakao (Port-Olry),,,,saka1289,sku
+NumbamiSiboma_231,Numbami (Siboma),,,,numb1247,sij
+ZabanaKia_234,Zabana (Kia),,,,zaba1237,kji
+Takuu_244,Takuu,,,,taku1257,nho
+Tokelau_245,Tokelau,,,,toke1240,tkl
+UveaWest_259,"Uvea, West",,,,west2516,uve
+Lakalai_281,Lakalai,,,,naka1262,nak
+Kove_282,Kove,,,,kove1237,kvc
+Amara_285,Amara,,,,amar1272,aie
+Aria_287,Aria,,,,mouk1239,mwh
+SouthEfate_322,South Efate,,,,sout2856,erk
+Yabem_334,Yabem,,,,yabe1254,jae
+Puluwatese_336,Puluwatese,,,,pulu1242,puw
+PuloAnnan_337,Pulo-Annan,,,,pulo1240,sov
+SaipanCarolinian_338,Saipan Carolinian,,,,caro1242,cal
+Mokilese_342,Mokilese,,,,moki1238,mkj
+Satawalese_343,Satawalese,,,,sata1237,stw
+Marshallese_344,Marshallese,,,,mars1254,mah
+Kiribati_346,Kiribati,,,,gilb1244,gil
+Woleaian_347,Woleaian,,,,wole1240,woe
+Chuukese_349,Chuukese,,,,chuu1238,chk
+Nembao_352,Nembao,,,,amba1266,utp
+Asumboa_353,Asumboa,,,,asum1237,aua
+Tanimbili_354,Tanimbili,,,,tani1255,tbe
+Buma_355,Buma,,,,tean1237,tkw
+Vano_356,Vano,,,,vano1237,vnk
+Tanema_357,Tanema,,,,tane1237,tnx
+TungagTungakLavongai_359,Tungag / Tungak / Lavongai,,,,tung1290,lcm
+Sisingga_363,Sisingga,,,,sisi1250,baa
+Siar_364,Siar,,,,siar1238,sjr
+Kokota_365,Kokota,,,,koko1269,kkk
+Takia_366,Takia,,,,taki1248,tbc
+Sudest_367,Sudest,,,,sude1239,tgo
+Nalik_368,Nalik,,,,nali1244,nal
+Diodio_374,Diodio,,,,diod1237,ddi
+Mwotlap_376,Mwotlap,,,,motl1237,mlv
+Haku_377,Haku,,,,hako1237,hao
+Tolai_382,Tolai,,,,kuan1248,ksd
+Madak_383,Madak,,,,mada1285,mmx
+KaraWest_384,Kara (West),,,,west2524,leu
+LihirSunglik_385,Lihir (Sunglik),,,,lihi1237,lih
+LungaLungaMinigir_386,Lunga Lunga  (Minigir),,,,mini1251,vmg
+Barok_387,Barok,,,,baro1253,bjk
+Kandas_388,Kandas,,,,kand1301,kqw
+Torau_390,Torau,,,,tora1259,ttu
+Tiang_391,Tiang,,,,tian1237,tbj
+Bilur_392,Bilur,,,,bilu1244,bxf
+Kuni_393,Kuni,,,,kuni1263,kse
+Doura_396,Doura,,,,tour1243,don
+Gabadi_397,Gabadi,,,,abad1241,kbt
+Solos_398,Solos,,,,solo1257,sol
+Matukar_400,Matukar,,,,matu1261,mjk
+Riwo_401,Riwo,,,,geda1237,gdd
+Bilibil_402,Bilibil,,,,bilb1241,brz
+Saliba_404,Saliba,,,,sali1295,sbe
+Nahavaq_453,Nahavaq,,,,sout2857,sns
+Avava_456,Avava,,,,katb1237,tmb
+Naman_457,Naman,,,,litz1237,lzl
+Nese_459,Nese,,,,nese1235,
+Tape_460,Tape,,,,mara1399,mrs
+SyeErromangan_463,Sye (Erromangan),,,,siee1239,erg
+Ura_464,Ura,,,,urav1235,uur
+ArakiSouthwestSanto_465,Araki (Southwest Santo),,,,arak1252,akr
+Tolo_469,Tolo,,,,tolo1254,tlr
+Merei_470,Merei,,,,mere1242,lmb
+Iaai_471,Iaai,,,,iaai1238,iai
+Simbo_473,Simbo,,,,simb1256,sbb
+Uruava_474,Uruava,,,,urua1242,urv
+Namakir_475,Namakir,,,,nama1268,nmk
+Orkon_476,Orkon,,,,orko1234,
+Kwamera_477,Kwamera,,,,kwam1252,tnk
+Neveei_484,Neve'ei,,,,vinm1237,vnm
+Aiwoo_501,Äiwoo,,,,ayiw1239,nfl
+Nanggu_502,Nanggu,,,,nang1262,ngr
+MaloSantaCruz_504,"Malo, Santa Cruz",,,,malo1246,ntu
+Kubokota_508,Kubokota,,,,kubo1244,ghn
+Luqa_509,Luqa,,,,lung1249,lga
+SivisaTitan_510,Sivisa Titan,,,,tita1241,ttv
+Gumawana_511,Gumawana,,,,guma1254,gvs
+WesternFijianNavosa_512,Western Fijian (Navosa),,,,west2519,wyy
+Tawaroga_516,Tawaroga,,,,kahu1241,agw
+Ughele_518,Ughele,,,,ughe1237,uge
+Nduke_521,Nduke,,,,duke1237,nke
+Kusaghe_528,Kusaghe,,,,kusa1251,ksg
+MonoAlu_530,Mono (Alu),,,,aluu1243,mte
+Dorio_532,Dori'o,,,,dori1246,dor
+Vangunu_535,Vangunu,,,,vang1243,mpr
+GhariTandai_540,Ghari (Tandai),,,,tand1254,gri
+Malango_542,Malango,,,,mala1484,mln
+Mbirao_548,Mbirao,,,,bira1254,brr
+Langalanga_549,Langalanga,,,,wala1266,lgl
+Kwai_550,Kwai,,,,gula1270,gmb
+LaghuSamasodu_553,Laghu (Samasodu),,,,lagh1246,lgb
+NggaoPoro_555,Nggao (Poro),,,,gaoo1237,gga
+FaganiRihua_556,Fagani (Rihu'a),,,,rihu1237,faf
+Oroha_557,Oroha,,,,oroh1237,ora
+SantaCatalina_558,Santa Catalina,,,,sant1413,stn
+Longgu_561,Longgu,,,,long1395,lgu
+Lengo_563,Lengo,,,,leng1259,lgr
+Mbaelelea_564,Mbaelelea,,,,bael1237,bvc
+Mbaengguu_565,Mbaengguu,,,,baeg1237,bvd
+Fataleka_566,Fataleka,,,,fata1245,far
+BauroHaununu_567,Bauro (Haununu),,,,haun1237,bxa
+Sengga_571,Sengga,,,,seng1280,baa
+MaringeLeleghia_574,Maringe (Leleghia),,,,mari1427,mrn
+SaaAuluVillage_576,Sa'a (A'ulu Village),,,,saaa1240,apb
+Blablanga_580,Blablanga,,,,blab1237,blp
+ArosiTawatanaVillage_584,Arosi (Tawatana Village),,,,aros1241,aia
+AreareMaasupaVillage_585,'Are'are (Ma'asupa Village),,,,area1240,alu
+Hiw_639,Hiw,,,,hiww1237,hiw
+ApmaSuruMwerani_641,Apma (Suru Mwerani),,,,apma1240,app
+Sasoutheasterndialect_643,Sa (south-eastern dialect),,,,saaa1241,sax
+Sowa_644,Sowa,,,,sowa1244,sww
+SkeSeke_645,Ske (Seke),,,,seke1241,ske
+Muyuw_646,Muyuw,,,,muyu1244,myw
+HaliaSelau_647,Halia (Selau),,,,hali1244,hla
+Tawala_651,Tawala,,,,tawa1275,tbo
+Niuafoou_659,Niuafo'ou,,,,niua1240,num
+Nimoa_669,Nimoa,,,,nimo1246,nmw
+Lemerig_696,Lemerig,,,,leme1238,lrz
+Nanumea_753,Nanumea,,,,nort2844,tvl
+Pingilapese_794,Pingilapese,,,,ping1243,pif
+DaakakaWestAmbrymVanuatu_798,"Daa kaka (West Ambrym, Vanuatu)",,,,daka1243,bpa
+Piva_858,Piva,,,,lawu1237,tgi
+MortlockeseLukunosh_923,Mortlockese (Lukunosh),,,,mort1237,mrl
+Papitalai_995,Papitalai,,,,papi1254,pat
+Lelepa_1000,Lelepa,,,,lele1267,lpa
+Roria_1006,Roria,,,,rori1237,rga
+BiereboYevali_1007,Bierebo (Yevali),,,,bier1244,bnk
+Mpotovoro_1009,Mpotovoro,,,,mpot1241,mvt
+AkeiPenantsiro_1010,Akei (Penantsiro),,,,akei1237,tsr
+Tutuba_1011,Tutuba,,,,tutu1241,tmi
+Vunapu_1015,Vunapu,,,,vuna1239,vnp
+Lakona_1019,Lakona,,,,lako1245,lkn
+Lonwolwol_1026,Lonwolwol,,,,lonw1238,crc
+Tangoa_1027,Tangoa,,,,tang1347,tgp
+BieriaVowa_1031,Bieria (Vowa),,,,bier1246,brj
+Koro_1032,Koro,,,,koro1308,krf
+Baki_1033,Baki,,,,baki1244,bki
+Larevat_1034,Larevat,,,,lare1249,lrv
+Piamatsina_1036,Piamatsina,,,,piam1242,ptr
+Amblong_1042,Amblong,,,,ambl1237,alm
+MaloNorth_1048,Malo (North),,,,malo1243,mla
+Lorediakarkar_1049,Lorediakarkar,,,,lore1244,lnn
+NarangoNambel_1056,Narango (Nambel),,,,nara1263,nrg
+VuresMosina_1065,Vurës (Mosina),,,,vure1239,msn
+Aore_1068,Aore,,,,aore1237,aor
+WusiValui_1072,Wusi (Valui),,,,wusi1237,wsi
+Maii_1075,Maii,,,,maii1238,mmm
+VeraaVatrata_1077,Vera'a (Vatrata),,,,vera1241,vra
+MaewoCentralPeterara_1080,"Maewo, Central (Peterara)",,,,cent2058,mwo
+TannaNorth_1083,"Tanna, North",,,,nort2847,tnn
+Tambotalo_1084,Tambotalo,,,,tamb1253,tls
+Marino_1086,Marino,,,,mari1426,mrb
+Eton_1088,Eton,,,,eton1255,etn
+ButmasTurButmas_1100,Butmas-Tur (Butmas),,,,butm1237,bnr
+Morouas_1101,Morouas,,,,moro1286,mrp
+LamenuNul_1103,Lamenu (Nul),,,,lewo1242,lww
+Lamenu_1107,Lamenu,,,,lame1260,lmu
+Tasmate_1108,Tasmate,,,,tasm1246,tmt
+MwerlapMerlav_1111,Mwerlap (Merlav),,,,merl1237,mrm
+NavutMatae_1113,Navut (Matae),,,,navu1237,nsw
+Wailapa_1114,Wailapa,,,,wail1242,wlr
+AmbaeEastWailengi_1116,"Ambae, East (Wailengi)",,,,east2443,omb
+Tiale_1117,Tiale,,,,tial1239,mnl
+Loyop_1123,Löyöp,,,,leha1244,urr
+Mafea_1125,Mafea,,,,mafe1237,mkv
+PortVato_1128,Port Vato,,,,port1286,ptv
+AmbrymNorthFonah_1131,"Ambrym, North (Fonah)",,,,nort2839,mmg
+Wetamut_1134,Wetamut,,,,weta1242,wwo
+Valpei_1138,Valpei,,,,valp1237,vlp
+WhitesandsIarkei_1139,Whitesands (Iarkei),,,,whit1269,tnp
+AmbaeWestNgwatua_1144,"Ambae, West (Ngwatua)",,,,west2513,nnd
+BaetoraNavenevene_1145,Baetora (Navenevene),,,,baet1237,btr
+Polonombauk_1151,Polonombauk,,,,polo1242,plb
+Tolomako_1152,Tolomako,,,,tolo1255,tlm
+Toga_1153,Toga,,,,loto1240,lht
+Nokuku_1166,Nokuku,,,,noku1237,nkk
+Fortsenal_1167,Fortsenal,,,,fort1240,frt
+Lehali_1168,Lehali,,,,leha1243,tql
+VenenTautLeviamp_1169,V'ënen Taut (Leviamp),,,,bign1238,nmb
+Nume_1172,Nume,,,,nume1241,tgs
+SharkBay_1174,Shark Bay,,,,shar1244,ssv
+Ulithian_1180,Ulithian,,,,ulit1238,uli
+Houailou_1188,Houaïlou,,,,houa1234,aji
+Bola_1202,Bola,,,,bola1250,bnp
+Bulu_1203,Bulu,,,,bulu1253,bjl
+Meramera_1205,Meramera,,,,mera1242,mxm
+NindeLawa_1217,Ninde (Lawa),,,,labo1244,mwi
+NatiWindua_1229,Na:ti (Windua),,,,nati1244,
+NombotkoteUsusMelkin_1230,Nombotkote (Usus - Melkin),,,,lete1241,nms
+NasarianWileventu_1237,Nasarian (Wileven tu),,,,nasa1240,nvh
+AngavaeDixonReef_1238,Angavae (Dixon Reef),,,,dixo1238,dix
+NeververLingarakSakan_1244,Neverver (Lingarak - Sakan),,,,ling1265,lgk
+PangkumuDatisman_1246,Pangkumu (Datisman),,,,rere1240,pgk
+UnuaNoferai_1247,Unua (Noferai),,,,unua1237,onu
+TesmbolUsus_1251,Tesmbol (Usus),,,,aulu1238,aul
+NititaKhatbol_1254,Nitita (Khatbol),,,,niti1249,
+VaoTorono_1285,Vao (Torono),,,,vaoo1237,vao
+SivitiBeterbuJericho_1286,"Siviti (Beterbu, Jericho)",,,,malu1245,mll
+AuluaNetimb_1288,Aulua (Netimb),,,,aulu1238,aul
+BurmbarFartavo_1292,Burmbar (Fartavo),,,,burm1263,vrt
+NisvaiBlacksands_1293,Nisvai (Blacksands),,,,nisv1234,
+atarxobuGunwar_1309,ßatarxobu (Gunwar),,,,malu1245,mll
+Najit_1313,Najit,,,,malu1245,mll
+AlavasWowoWowo1_1314,Alavas-Wowo (Wowo 1),,,,mpot1241,mvt
+MbwenelangXoli_1316,Mbwenelang (Xoli),,,,bwen1239,
+MaluaBayMarasup_1318,Malua Bay (Marasup),,,,malu1245,mll
+TiraxMaeB_1319,Tirax (Mae B),,,,maee1241,mme
+PortSandwichLamap1_1321,Port Sandwich (Lamap 1),,,,port1285,psw
+WalaWorprevB_1325,Wala (Worprev B),,,,wala1267,upv
+MangapMbula_1330,Mangap-Mbula,,,,mbul1263,mna
+Tami_1333,Tami,,,,tami1290,tmy
+MumengPatepdialect_1334,Mumeng (Patep dialect),,,,pate1247,ptp
+Mangseng_1335,Mangseng,,,,mang1403,mbh
+Bariai_1336,Bariai,,,,bari1286,bch
+Label_1340,Label,,,,labe1239,lbb
+Ramoaaina_1341,Ramoaaina,,,,ramo1244,rai
+Sursurunga_1342,Sursurunga,,,,surs1246,sgz
+Malalamai_1343,Malalamai,,,,mala1489,mmt
+Wab_1346,Wab,,,,wabb1237,wab
+Biliau_1347,Biliau,,,,awad1244,bcu
+Roinji_1348,Roinji,,,,ronj1237,roe
+BaliVitu_1349,Bali-Vitu,,,,unea1237,bbn
+Nenaya_1350,Nenaya,,,,nana1258,met
+Mindiri_1353,Mindiri,,,,mind1255,mpn
+Sio_1355,Sio,,,,sioo1240,xsi
+Malasanga_1356,Malasanga,,,,mala1487,mqz
+Mutu_1358,Mutu,,,,mutu1242,tuc
+Gitua_1359,Gitua,,,,gitu1237,ggt
+Arop_1360,Arop,,,,arop1242,aps
+Bebeli_1361,Bebeli,,,,bebe1252,bek
+Irarutu_1364,Irarutu,,,,irar1238,irh
+Drubea_1369,Drubea,,,,dumb1241,duf
+Sori_1374,Sori,,,,sori1242,sbh
+Lup_1375,Lup,,,,herm1237,llf
+Ponam_1377,Ponam,,,,pona1250,ncc
+Andra_1378,Andra,,,,andr1248,anx
+Jiriw_1380,Jiriw,,,,nali1245,nss
+Bujan_1382,Bujan,,,,kele1258,sbc
+Mokaren_1383,Mokaren,,,,moke1240,mft
+Bipi_1384,Bipi,,,,bipi1237,biq
+Tulu_1386,Tulu,,,,tulu1259,rak
+Pak_1387,Pak,,,,pakt1239,pkg
+Baluan_1389,Baluan,,,,balu1257,blq
+Avau_1391,Avau,,,,avau1237,avb
+HoteMisimdialect_1392,Hote (Misim dialect),,,,hote1245,hot
+Nyindrou_1393,Nyindrou,,,,nyin1250,lid
+SissanoAropdialect_1394,Sissano (Arop dialect),,,,siss1243,sso
+Akolet_1395,Akolet,,,,akol1237,akt
+NaahaiMbatvanui16285_1396,Na'ahai (Mbatvanui) 162-85,,,,malf1237,mlx
+AxambSmallIslandBrisbane16289_1398,Axamb (Small Island-Brisbane) 162-89,,,,axam1237,ahb
+MandriFarun16291_1401,Mandri (Farun) 162-91,,,,nasv1234,
+NasvangFarun16293_1404,Nasvang (Farun) 162-93,,,,nasv1234,
+Navwien16287_1411,Navwien 162-87,,,,navw1234,
+UliveoLurtes162107_1412,Uliveo (Lurtes) 162-107,,,,mask1242,klv
+AvokAvok16299_1421,Avok (Avok) 162-99,,,,avok1244,
+Anuki_1423,Anuki,,,,anuk1239,aui
+SinaugoroBalawaiaDialect_1424,Sinaugoro (Balawaia Dialect),,,,bala1307,snc
+Buhutu_1425,Buhutu,,,,buhu1237,bxh
+Bunama_1426,Bunama,,,,buna1276,bdd
+Bwaidoga_1427,Bwaidoga,,,,bwai1243,bwd
+Dawawa_1428,Dawawa,,,,dawa1242,dww
+Dobu_1429,Dobu,,,,dobu1241,dob
+Gapapaiwa_1431,Gapapaiwa,,,,gapa1238,pwg
+Ghayavi_1432,Ghayavi,,,,ghay1237,bmk
+Hula_1434,Hula,,,,hula1239,hul
+Iamalele_1435,Iamalele,,,,iama1237,yml
+Iduna_1436,Iduna,,,,idun1242,viv
+Koluwawa_1438,Koluwawa,,,,kolu1245,klx
+Lala_1439,Lala,,,,lala1268,nrz
+Minaveha_1441,Minaveha,,,,mina1269,mvn
+Sewa_1454,Sewa,,,,sewa1251,sew
+Tubetube_1458,Tubetube,,,,bwan1241,tte
+Wedau_1459,Wedau,,,,weda1241,wed
+Auhelawa_1460,'Auhelawa,,,,auhe1237,kud
+Oyaoya_1461,'Oyaoya,,,,oyao1237,oyy
+Paici_1479,Paicî,,,,paic1239,pri
+NyelayuBelepDialect_1480,Nyelâyu (Belep Dialect),,,,nyal1254,yly
+Aro_1484,Aro,,,,arho1237,aok
+Ara_1485,Arʃa,,,,arha1237,aqr
+Kapone_1489,Kapone,,,,nume1242,kdk
+Moenebe_1491,Moeneᵐbeŋ,,,,caac1237,msq
+Neku_1492,Neku,,,,neku1237,nek
+Nmi_1495,Nɛmi,,,,nemi1240,nem
+Pinje_1497,Pinje,,,,pije1237,piz
+Poai_1498,Poai,,,,fwai1237,fwa
+Poamei_1499,Poamei,,,,pwaa1237,pme
+Poapoa_1500,Poapoã,,,,pwap1237,pop
+Sirehe_1501,Sirehë,,,,zire1240,sih
+Wamoa_1502,Wamoaŋ,,,,waam1236,wmn
+camuki_1503,camuki,,,,cemu1238,cam
+Ciri_1504,Ciri,,,,tiri1258,cir
+ua_1505,ɲua,,,,yuag1237,nua
+alasu_1506,ʝalasu,,,,bala1316,
+Moaek_1507,ʰMoaekɛ,,,,vama1243,mkt
+Moavek_1508,ʰMoavekɛ,,,,hmwa1243,mrk
+Boewe_1511,ᵐBoewe,,,,orow1242,bpk
+Aragur_1512,‘Aragùrɛ,,,,xara1243,axx
+Aek_1513,’Aekɛ,,,,haek1239,aek
+Avek_1514,’Avekɛ,,,,have1241,hvk
+Mangaia_1626,Mangaia,,,,mang1402,rar
+Nukumanu_1654,Nukumanu,,,,nuku1258,nuq
+Bahing,Kiranti_Bahing,Eurasia,27.309472,86.430334,bahi1252,bhj
+Bantawa,Kiranti_Bantawa,Eurasia,27.117894,87.049995,bant1281,bap
+Bokar,Tani_Bokar,Eurasia,27.554547,93.15717,boka1249,
+Bunan,TibetoKinauri_Bunan,Eurasia,32.554766,77.076283,gahr1239,bfu
+Byangsi,TibetoKinauri_Byangsi,Eurasia,29.583838,80.22309,byan1241,bee
+Chaozhou,Sinitic_Chaozhou,Eurasia,23.657699,116.622317,chao1238,
+Daofu,rGyalrong_Daofu,Eurasia,30.975281,101.123742,horp1240,
+DarangTaraon,Deng_Darang_Taraon,Eurasia,28.657986,97.469136,diga1241,mhu
+Hakha,Chin_Hakha,Eurasia,22.870089,92.820021,haka1240,cnh
+Hayu,Kiranti_Hayu,Eurasia,27.302102,86.099009,wayu1241,vay
+Japhug,rGyalrong_Japhug,Eurasia,32.207076,101.957636,japh1234,
+Jieyang,Sinitic_Jieyang,Eurasia,23.551122,116.373013,chao1239,
+Jingpho,Jingpho_Jingpho,Eurasia,25.461826,97.329866,jing1260,
+Lisu,Loloish_Lisu,Eurasia,25.950046,98.848486,lisu1250,lis
+Longgang,Sinitic_Longgang,Eurasia,22.725545,114.243825,hakk1236,hak
+MotuoMenba,Bodic_Tshangla,Eurasia,29.325414,95.340883,tsha1245,tsj
+OldTibetan,Tibetan_Old_Tibetan,Eurasia,30.027852,91.158704,clas1254,xct
+Rangoon,Burmish_Rangoon,Eurasia,16.874207,96.190785,nucl1310,mya
+Rongpo,Tibeto_Kinauri_Rongpo,Eurasia,30.530044,79.569987,rong1264,rnp
+Tangut,Tangut,Eurasia,38.477453,106.285383,tang1334,txg
+Thulung,Kiranti_Thulung,Eurasia,27.534944,87.609608,thul1246,tdh
+Alike,Tibetan_Alike,Eurasia,38.318508,92.839938,amdo1237,adx
+Batang,Tibetan_Batang,Eurasia,30.00795,99.111944,kham1282,khg
+Lhasa,Tibetan_Lhasa,Eurasia,29.653441,91.171493,utsa1239,
+Xiahe,Tibetan_Xiahe,Eurasia,35.210549,102.524979,amdo1237,adx
+Ukhrul,Naga_Ukhrul,Eurasia,25.092617,94.37045,ukhr1238,
+WobziKhroskyabs,Khroskyabs_Wobzi,Eurasia,31.62758,101.427999,eree1240,
+Xiandao,Burmish_Xiandao,Eurasia,24.494153,97.753173,xian1249,xia
+Xingning,Sinitic_Xingning,Eurasia,24.13674,115.732382,hakk1236,hak
+Yidu,Deng_Yidu,Eurasia,29.448172,95.650179,idum1241,clk
+MaerkangrGyalrong,rGyalrong_Maerkang,Eurasia,31.868614,102.295293,situ1238,
+Awa,awa,South America,1.21652,-78.3401,awac1239,kwi
+Baniva,baniva,South America,5.26123,-67.5633,bani1254,bvv
+Barasana,barasana,South America,0.02193,-70.808,bara1380,bsn
+Bara,bará,South America,0.30416,-70.1644,waim1255,bao
+Bora,bora,South America,-2.91467,-68.9093,bora1263,boa
+Cabiyari,cabiyarí,South America,0.16101,-71.0622,cabi1241,cbb
+Carapana,carapana,South America,0.06168,-69.6465,cara1272,cbc
+Carijona,carijona,South America,1.21894,-72.0664,cari1279,cbd
+Catio,catío,South America,7.52721,-76.7476,embe1260,cto
+Chapalaachi,cha'palaachi,South America,0.71489,-79.0508,chac1249,cbi
+Cubeo,cubeo,South America,1.32382,-70.1939,cube1242,cub
+Cuiba,cuiba,South America,6.19829,-69.8197,cuib1242,cui
+Curripaco,curripaco,South America,0.69618,-67.5028,curr1243,kpc
+Desano,desano,South America,0.58157,-69.4955,desa1247,des
+Dimina,dí̵mi̵na,South America,10.9286,-73.4056,mala1522,mbp
+EmberaDarien,embera Darién,South America,7.12761,-77.574,nort2972,emp
+EmberaTado,embera Tadó,South America,5.23658,-77.1533,embe1261,tdc
+EmberaChami,embera chamí,South America,4.8791,-76.0749,embe1262,cmi
+EpenaSaija,epena Saija,South America,4.25877,-77.3566,epen1239,sja
+EpenaBasurudo,epena basurudó,South America,4.25877,-77.3566,epen1239,sja
+Giacone,giacone,South America,0.440205,-68.9042,tari1256,tae
+Guahibo,guahibo,South America,5.81736,-68.9839,guah1255,guh
+Guambiano,guambiano,South America,2.55849,-76.582,guam1248,gum
+Guayabero,guayabero,South America,2.8969,-71.844,guay1257,guo
+Ika,ika,South America,10.7018,-73.6363,arhu1242,arh
+Jitnu,jitnu,South America,6.34582,-71.2671,maca1259,mbn
+Jupda,jupda,South America,0.58622,-69.8359,hupd1244,jup
+Kakua,kakua,South America,0.88778,-69.5659,cacu1241,cbv
+Kamsa,kamsá,South America,1.14537,-76.8931,cams1241,kbh
+Kogui,kogui,South America,10.9485,-73.8043,cogu1240,kog
+Koreguaje,koreguaje,South America,0.92316,-75.3475,kore1283,coe
+Macuna,macuna,South America,-0.14459,-70.0749,macu1260,myy
+Mirana,miraña,South America,-2.91467,-68.9093,bora1263,boa
+Muinane,muinane,South America,-0.8652,-72.4249,muin1242,bmr
+Nukak,nukak,South America,2.65939,-71.4629,nuka1242,mbr
+Ocaina,ocaina,South America,-2.159,-72.1422,ocai1244,oca
+Orejon,orejón,South America,-2.86315,-72.4926,orej1242,ore
+Piratapuyo,piratapuyo,South America,0.50714,-69.5032,pira1254,pir
+Playero,playero,South America,6.90948,-71.0036,play1240,gob
+Puinave,puinave,South America,3.92974,-67.6886,puin1248,pui
+Paez,páez,South America,2.61516,-76.3125,paez1247,pbb
+Secoya,secoya,South America,-0.459785,-75.5547,seco1241,sey
+Siona,siona,South America,0.31733,-76.0237,sion1247,snn
+Siriano,siriano,South America,0.436515,-70.184,siri1274,sri
+Saliba,sáliba,South America,5.30115,-69.3843,sali1298,slc
+Tanimuca,tanimuca,South America,-0.59023,-70.3853,tani1257,tnc
+Tariano,tariano,South America,0.440205,-68.9042,tari1256,tae
+Tatuyo,tatuyo,South America,0.55582,-70.5327,tatu1247,tav
+Totoro,totoró,South America,2.55149,-76.6379,toto1306,ttk
+TsafiquiPila,tsafiqui pila,South America,-0.21181,-79.2347,colo1256,cof
+Tucano,tucano,South America,0.579755,-69.5763,tuca1252,tuo
+TuneboCentral,tunebo central,South America,6.8867,-72.097,cent2150,tuf
+Tuyuca,tuyuca,South America,0.39441,-70.043515,tuyu1244,tue
+Waimaja,waimaja,South America,0.30416,-70.1644,waim1255,bao
+Wanano,wanano,South America,1.07554,-69.5705,guan1269,gvc
+Wayuu,wayuu,South America,11.395566,-72.199791,wayu1243,guc
+WitotoMinica,witoto mi̵ni̵ca,South America,-1.54535,-73.1107,mini1256,hto
+WitotoMurui,witoto murui,South America,-1.13669,-73.8331,muru1274,huu
+WitotoNipode,witoto ni̵pode,South America,-2.34495,-70.9559,nupo1240,hux
+Wounaan,wounaan,South America,8.5,-78,woun1238,noa
+Yucuna,yucuna,South America,-0.76075,-71.0033,yucu1253,ycn
+Yukpa,yukpa,South America,9.67534,-73.0557,yukp1241,yup
+Yuruti,yurutí,South America,0.735585,-69.6955,yuru1263,yui
+ProtoVietic,Proto-Vietic,,,,viet1250,
+MuongHB,Mương [Hoa Binh],Eurasia,20.7374,105.186,muon1246,mtq
+MuongSL,Mương [Son La],Eurasia,20.7374,105.186,muon1246,mtq
+MuongTH,Mương [Thanh Hoa],Eurasia,20.7374,105.186,muon1246,mtq
+MuongBi,Muong (Barker),Eurasia,20.7374,105.186,muon1246,mtq
+NguonCL,Nguồn Cổ Liêm,Eurasia,17.7243,105.932,nguo1239,nuo
+NguonYT,Nguồn Yên Thọ,Eurasia,17.7243,105.932,nguo1239,nuo
+CuoiThaiHoa,Cuoi Thai Hoa,,,,cuoi1242,
+ThoLangLo,Tho [Lang Lo],Eurasia,19.3563,105.363,thoo1240,tou
+CuoiTanHop,Cuoi Tan Hop,,,,cuoi1242,
+ThoCuoiCham,Tho [Cuoi Cham],Eurasia,19.3563,105.363,thoo1240,tou
+Phong,Phong,Eurasia,,,phon1243,
+Toum,Toum,Eurasia,,,toum1239,
+LihaNVL,Liha,Eurasia,,,lyha1238,
+Sach,Sach,Eurasia,,,sach1240,
+May,May,Eurasia,,,mayy1239,
+ThavungS,Thavung,Eurasia,17.7655,104.229,aheu1239,thm
+ThavungPS,Thavung Phon Soung,Eurasia,17.7655,104.229,aheu1239,thm
+ThavungF,Thavung,Eurasia,17.7655,104.229,aheu1239,thm
+Ahoe,Ahoe,Eurasia,17.7655,104.229,aheu1239,thm
+MaliengQB,Malieng (QB),Eurasia,17.913525,105.52746,male1282,pkt
+MaliengHT,Malieng (HT),Eurasia,17.913525,105.52746,male1282,pkt
+Pakatan,Malang Pakatan,Eurasia,,,mali1278,
+Malang,Malang,Eurasia,,,mali1278,
+MalengBro,Maleng Bro,Eurasia,18.18657,104.95342,bola1249,bgl
+Kri,Kri (HT),Eurasia,,,khap1242,
+KriPhoong,Kri Phoong,Eurasia,,,khap1242,
+LowlandMixe,Lowland Mixe,North America,16.9404,-95.4659,coat1238,mco
+SouthHighlandMixe,South Highland Mixe,North America,16.9634,-96.1186,tlah1239,mxp
+NorthHighlandMixe,North Highland Mixe,North America,17.2157,-96.0179,toto1305,mto
+OlutaPopoluca,Oluta Popoluca,North America,17.8937,-94.8863,olut1240,plo
+SayulaPopoluca,Sayula Popoluca,North America,17.8606,-94.9531,sayu1241,pos
+TexistepecZoque,Texistepec Zoque,North America,17.8926,-94.8076,texi1237,poq
+SoteapanZoque,Soteapan Zoque,North America,18.198,-94.9109,high1276,poi
+SantaMariaChimalapaZoque,Santa María Chimalapa Zoque,North America,16.6543,-94.6913,chim1300,zoh
+SanMiguelChimalapaZoque,San Miguel Chimalapa Zoque,North America,16.6543,-94.6913,chim1300,zoh
+ChiapasZoque,Chiapas Zoque,North America,17.2157,-93.3183,copa1236,zoc
+bahnarpleiku,BahnarPleiku,Eurasia,14.0476,108.471,bahn1262,bdq
+bahnarkontum,BahnarKontum,Eurasia,14.0476,108.471,bahn1262,bdq
+rengao,Rengao,Eurasia,14.456,107.9459,reng1252,ren
+mel,Mel,Eurasia,12.6313,107.301,cent1992,cmo
+stieng,Stieng,Eurasia,11.9777,106.798,bulo1242,sti
+brao,Brao,Eurasia,14.5994,107.008,lave1249,brb
+jrulaven,JruLaven,Eurasia,15.2726,106.322,lave1248,lbo
+tampuan,Tampuan,Eurasia,13.56447,107.24544,tamp1251,tpu
+cheng,Cheng,Eurasia,15.0392,107.147,jeng1241,jeg
+sapuan,Sapuan,Eurasia,15.3692,106.843,sapu1248,spu
+jeh,Jeh,Eurasia,15.2351,107.753,jehh1245,jeh
+sre,Sre,Eurasia,11.6444,108.057,koho1244,kpm
+alak,Alak,Eurasia,15.5565,106.597,alak1253,alk
+bunong,Bunong,Eurasia,12.6313,107.301,cent1992,cmo
+bahnargolar,BahnarGolar,Eurasia,14.0476,108.471,bahn1262,bdq
+kasseng,Kasseng,,,,kass1248,
+sedang,Sedang,Eurasia,14.7793,108.027,seda1262,sed
+ramam,Ramam,Eurasia,14.34,107.447,roma1331,rmx
+mnongrlm,MnongRlm,Eurasia,12.3939,108.354,east2333,mng
+cua,Cua,Eurasia,15.1688,108.431,cuaa1241,cua
+halang,Halang,Eurasia,14.7862,107.457,hala1252,hal
+chrau,Chrau,Eurasia,10.8021,107.293,chra1242,crw
+nyaheun,Nyaheun,Eurasia,15.1034,106.543,nyah1249,nev
+khaonh,Khaonh,Eurasia,12.6313,107.301,cent1992,cmo
+duogutujia,Duogu_Tujia,Eurasia,29.3016,109.759,nort2732,tji
+tashatujia,Tasha_Tujia,Eurasia,29.3016,109.759,nort2732,tji
+tanxitujia,Tanxi_Tujia,Eurasia,28.2368,110.022,sout2739,tjs
+boluotujia,Boluo_Tujia,Eurasia,28.2368,110.022,sout2739,tjs
+dianfangtujia,Dianfang_Tujia,Eurasia,29.3016,109.759,nort2732,tji
+Mawe,MAWE,South America,-3.63897,-56.8749,sate1243,mav
+Aweti,AWETI,South America,-12.381944,-53.391944,awet1244,awe
+Asurini,Asurini,South America,-3.59359,-49.8991,toca1235,asu
+Parakana,Parakanã,South America,-4.64681,-50.0621,para1312,pak
+Surui,Suruí,South America,-11.0989,-61.2818,suru1262,sru
+Tapirape,Tapirapé,South America,-10.5373,-50.5438,tapi1254,taf
+Tembe,Tembé,South America,-2.6123,-48.2359,temb1276,tqb
+Apiaka,Apiaká,South America,-7.84711,-57.91,apia1248,api
+Guajajara,Guajajara,South America,-4.69461,-45.7081,guaj1255,gub
+Amonda,Amonda,South America,-9.04023,-62.3064,amun1246,adw
+Parintintin,Parintintin,South America,-7.92626,-61.936,tenh1241,pah
+Urueuwauwau,Urueuwauwau,South America,-10.9176,-63.8086,urue1240,urz
+Kayabi,Kayabí,South America,-11.2747,-55.5479,kaya1329,kyz
+AsuriniXingu,Asurini Xingu,South America,-4.13463,-52.321,xing1248,asn
+Arawete,Araweté,South America,-4.90246,-52.5001,araw1273,awt
+Kamayura,Kamayura,South America,-12.2661,-53.4651,kama1373,kay
+Guaja,Guajá,South America,-3.93574,-46.3683,guaj1256,gvj
+Emerillon,Emerillon,South America,3.23694,-52.3699,emer1243,eme
+Wayampi,Wayampí,South America,1.73817,-52.6887,waya1270,oym
+UrubuKaapor,UrubuKaapor,South America,-2.46455,-46.2204,urub1250,urb
+Anambe,Anambé,South America,-2.71119,-49.303,anam1249,aan
+AvaCanoeiro,AvaCanoeiro,South America,-13.6081,-48.1336,avac1239,avv
+Nheengatu,Nheengatu,South America,1.04503,-66.9646,nhen1239,yrl
+Kokama,Kokama,South America,-4.5,-74.0,coca1259,cod
+Yuki,Yuki,South America,-16.7875,-64.9438,yuqu1240,yuq
+Guarayo,Guarayo,South America,-15.8247,-61.6934,guar1292,gyr
+Siriono,Sirionó,South America,-15.5298,-63.9688,siri1273,srq
+Warazu,Warazu,South America,-12.8553,-63.1903,paus1244,psm
+Chiriguano,Chiriguano,South America,-20.42,-63.37,east2555,gui
+GuaraniMbya,GuaraniMbya,South America,-26.0188,-52.711,mbya1239,gun
+GuaraniParaguay,Guarani Paraguay,South America,-25.60551,-57.08816,para1311,gug
+Guayaki,Guayaki,South America,-25.5865,-56.4697,ache1246,guq
+Xeta,Xeta,South America,-24.9408,-52.2266,xeta1241,xet
+Amharic,Amharic,Africa,11.708182,39.543456,amha1245,amh
+Argobba,Argobba,Africa,10.6596,39.756,argo1244,agj
+Chaha,Chaha,Africa,,,chah1248,
+Endegagn,Endegagn,Africa,,,eneg1238,
+Ezha,Ezha,Africa,,,ezha1238,
+Geez,Ge'ez,Africa,10.1342,40.6821,geez1241,gez
+Gumer,Gumer,Africa,,,gume1239,
+Gura,Gura,Africa,,,gura1260,
+Gyeto,Gyeto,Africa,,,gyet1241,
+Harari,Harari,Africa,9.30485,42.1332,hara1271,har
+Inor,Inor,Africa,,,inor1240,
+Kistane,Kistane,Africa,8.33561,38.4763,kist1241,gru
+Mesqan,Mesqan,Africa,8.10617,38.3386,mesq1240,mvz
+Muher,Muher,Africa,,,muhe1234,
+Silte,Silt'e,Africa,7.77004,38.1449,silt1240,stv
+Tigre,Tigre,Africa,17.3494,38.2233,tigr1270,tig
+Tigrigna,Tigrigna,Africa,15.3359,38.9266,tigr1271,tir
+Wolane,Wolane,Africa,8.23,38.14,wola1253,wle
+Zway,Zway,Africa,8.01148,38.8258,zayy1238,zwa
+Duhumbi,Duhumbi,Eurasia,27.42,92.23,chug1252,cvg
+Jerigaon,Jerigaon,Eurasia,27.340629,92.486595,jeri1243,
+Khispi,Khispi,Eurasia,27.37,92.23,lish1235,lsh
+Khoina,Khoina,Eurasia,27.334981,92.52994,khoi1253,
+Khoitam,Khoitam,Eurasia,27.327487,92.439455,khoi1252,
+Rahung,Rahung,Eurasia,27.310778,92.395028,rahu1234,
+Rupa,Rupa,Eurasia,27.203065,92.398757,rupa1234,
+Shergaon,Shergaon,Eurasia,27.105018,92.272133,sher1261,
+ProtoKaren,Proto-Karen,,,,kare1337,
+Kayah,Kayah,,,,kaya1317,
+Kayan,Kayan,Eurasia,19.5183,97.4138,kaya1315,pdu
+Kayaw,Kayaw,,,,kaya1316,
+NorthernPao,Northern Pa-O,Eurasia,,,nort2705,
+NorthernPwo,Northern Pwo,,,,nort2704,
+SouthernPao,Southern Pa-O,Eurasia,,,sout2712,
+WesternBwe,Western Bwe,Eurasia,18.9796,96.9936,bwek1238,bwe
+ingrian,Ingrian,Eurasia,59.47403,29.71145,ingr1248,izh
+Aha,Aha,South America,2.17859,-67.7704,bani1255,bwi
+Dzawinai,Dzawinai,South America,2.17859,-67.7704,bani1255,bwi
+Ehe,Ehe,South America,2.17859,-67.7704,bani1255,bwi
+Hohoodene,Hohoodene,South America,2.17859,-67.7704,bani1255,bwi
+Kowaidakenai,Kowaidakenai,South America,2.17859,-67.7704,bani1255,bwi
+Kumadene1,Kumadene_1,South America,2.17859,-67.7704,bani1255,bwi
+Kumadene2,Kumadene_2,South America,2.17859,-67.7704,bani1255,bwi
+Mauliene,Mauliene,South America,2.17859,-67.7704,bani1255,bwi
+Moliwene,Moliwene,South America,2.17859,-67.7704,bani1255,bwi
+Name,Ñame,South America,2.17859,-67.7704,bani1255,bwi
+Oho,Oho,South America,2.17859,-67.7704,bani1255,bwi
+Waliperi,Waliperi,South America,2.17859,-67.7704,bani1255,bwi
+Werekena,Werekena,South America,2.17859,-67.7704,bani1255,bwi
+meglenoromanian,Megleno_Romanian,Eurasia,41.1174,22.3782,megl1237,ruq
+istroromanian,Istro_Romanian,Eurasia,45.433,14.2,istr1245,ruo
+aromanian,Aromanian,Eurasia,40.616,21.2,arom1237,rup
+dalmatian,Dalmatian,Eurasia,42.7095,18.0238,dalm1243,dlm
+friulian,Friulian,Eurasia,46.1473,13.0493,friu1240,fur
+gardeneseladin,Gardenese_Ladin,Eurasia,,,gard1241,
+fassanoladin,Fassano_Ladin,Eurasia,,,fass1244,
+rumantschgrischun,Rumantsch_Grischun,Eurasia,,,ruma1247,
+sursilvanromansh,Sursilvan_Romansh,Eurasia,,,surs1244,
+surmiranromansh,Surmiran_Romansh,Eurasia,,,surm1243,
+valladerromansh,Vallader_Romansh,,,,vall1248,
+lanzotorinesepiemontese,Lanzo_Torinese_Piemontese,Eurasia,45.4633,8.32366,piem1238,pms
+barbaniapiemontese,Barbania_Piemontese,Eurasia,45.4633,8.32366,piem1238,pms
+carmagnolapiemontese,Carmagnola_Piemontese,Eurasia,45.4633,8.32366,piem1238,pms
+vercellesepiemontese,Vercellese_Piemontese,Eurasia,45.4633,8.32366,piem1238,pms
+ravennateromagnol,Ravennate_Romagnol,Eurasia,44.2349,11.7189,roma1328,rgn
+ferrareseemiliano,Ferrarese_Emiliano,Eurasia,44.3536,11.5794,emil1241,egl
+carpigianoemiliano,Carpigiano_Emiliano,Eurasia,44.3536,11.5794,emil1241,egl
+reggianoemiliano,Reggiano_Emiliano,Eurasia,44.3536,11.5794,emil1241,egl
+rapalloligurian,Rapallo_Ligurian,Eurasia,44.0816,7.90522,ligu1248,lij
+genoeseligurian,Genoese_Ligurian,Eurasia,,,geno1240,
+stellaligurian,Stella_Ligurian,Eurasia,44.0816,7.90522,ligu1248,lij
+venicevenetian,Venice_Venetian,Eurasia,45.503581,12.214167,vene1258,vec
+primierovenetian,Primiero_Venetian,Eurasia,45.503581,12.214167,vene1258,vec
+bellunesevenetian,Bellunese_Venetian,Eurasia,45.503581,12.214167,vene1258,vec
+standarditalian,Standard_Italian,Eurasia,43.0464,12.6489,ital1282,ita
+grossetoitalian,Grosseto_Italian,Eurasia,43.0464,12.6489,ital1282,ita
+neapolitan,Neapolitan,Eurasia,39.2288,16.4225,neap1235,nap
+logudorese,Logudorese,Eurasia,,,barb1262,
+campidanese,Campidanese,,,,cagl1238,
+palermitansicilian,Palermitan_Sicilian,Eurasia,37.5735,14.0414,sici1248,scn
+messinesesicilian,Messinese_Sicilian,Eurasia,,,mess1247,
+cataniansicilian,Catanian_Sicilian,Eurasia,37.5735,14.0414,sici1248,scn
+southeasternsicilian,South-Eastern_Sicilian,Eurasia,37.5735,14.0414,sici1248,scn
+centralcatalan,Central_Catalan,Eurasia,41.453,1.569,stan1289,cat
+northwesterncatalan,North-Western_Catalan,Eurasia,41.453,1.569,stan1289,cat
+minorcancatalan,Minorcan_Catalan,Eurasia,41.453,1.569,stan1289,cat
+castellodelaplanacatalan,Castelló_de_la_Plana_Catalan,Eurasia,41.453,1.569,stan1289,cat
+valenciancatalan,Valencian_Catalan,Eurasia,41.453,1.569,stan1289,cat
+manisescatalan,Manises_Catalan,Eurasia,41.453,1.569,stan1289,cat
+castilianspanish,Castilian_Spanish,Eurasia,,,cast1244,
+provencaloccitan,Provençal_Occitan,Eurasia,44.0,6.0,prov1235,
+Warekena,Warekena,South America,2.904099,-67.092099,ware1255,
+cojubim,Cojubim,South America,-11.75,-64.0,kuyu1236,
+jaru,Jarú,South America,-10.25,-62.0,yaru1257,
+kitemoka,Kitemoka,South America,-16.0,-62.75,kite1237,
+more,Moré,South America,,,itor1239,ite
+orowin,Oro Win,South America,-10.737,-64.0299,orow1243,orw
+tapakura,Tapakura,South America,-14.8,-62.2,chap1269,
+tora,Torá,South America,-6.19532,-61.7416,tora1263,trz
+urupa,Urupá,South America,-10.25,-62.75,urup1245,
+wanyam,Wanyam,South America,-12.1,-63.1,wany1246,
+wari,Wari',South America,-10.69948,-64.56152,wari1268,pav
+Taoping,Taoping,Eurasia,,,taop1238,
+Longxi,Longxi,Eurasia,,,long1374,
+Mianchi,Mianchi,Eurasia,,,mian1253,
+Yonghe,Yonghe,Eurasia,,,yong1287,
+Wadu,Wadu,Eurasia,28.6626,101.305,nort2723,pmi
+Niuwozi,Niuwozi,Eurasia,27.8408,100.622,sout2729,pmj
+Dayang,Dayang,Eurasia,,,daya1246,
+Taoba,Taoba,Eurasia,,,taob1239,
+Qinghua,Qinghua,Eurasia,,,qing1238,
+Lanping,Lanping,Eurasia,27.8408,100.622,sout2729,pmj
+Jiulong,Jiulong,Eurasia,27.8408,100.622,sout2729,pmj
+Adnyamathanha,Adnyamathanha,Australia,-30.1451,138.671,adny1235,adt
+AghuTharrnggala,Aghu-Tharrnggala,Australia,-13.735,142.426,aghu1254,ggr
+Alyawarr,Alyawarr,Australia,-21.0427,136.835,alya1239,aly
+Antekerrepenhe,Antekerrepenhe,Australia,-22.51278,137.3515,ande1247,adg
+Arabana,Arabana,Australia,-28.705,135.449,arab1267,ard
+Awabakal,Awabakal,Australia,-33.12847,151.43555,awab1243,awk
+Badimaya,Badimaya,Australia,-29.0647,117.246,badi1246,bia
+Badjiri,Badjiri,Australia,-28.79,145.47,badj1244,jbi
+Bandjalang,Bandjalang,Australia,,,band1358,
+Batyala,Batyala,Australia,-25.44486,153.15399,baty1234,xby
+BidyaraGungabula,Bidyara-Gungabula,,,,sout2765,
+Bilinarra,Bilinarra,Australia,-16.868771,130.533991,bili1250,
+Biri,Biri,Australia,-20.1494,146.67,biri1256,bzr
+Birrpayi,Birrpayi,Australia,,,birr1241,xbj
+Bularnu,Bularnu,Australia,-21.02656922,138.1566659,bula1255,
+Bunganditj,Bunganditj,Australia,-36.5,140.5,bung1264,xbg
+Colac,Colac,Australia,-38.471266,143.422444,cola1237,
+Darkinyung,Darkinyung,Australia,-33.11470744,150.4952383,hawk1239,xda
+Dhangu,Dhangu,Australia,-11.9493,135.752,dhan1270,dhg
+Dharawal,Dharawal,Australia,-34.634,150.721,thur1254,tbh
+Dharuk,Dharuk,Australia,-33.52925837,150.3490464,sydn1236,xdk
+Dharumbal,Dharumbal,Australia,-23.307,150.593,dhar1248,xgm
+Dhayyi,Dhayyi,Australia,-13.1806,136.22,dayi1244,dax
+Dhudhuroa,Dhudhuroa,Australia,-36.95881441,147.0450379,dhud1236,ddr
+Dhurga,Dhurga,Australia,-35.412,150.134,dhur1239,dhu
+Dhuwal,Dhuwal,Australia,-12.7825,136.008,dhuw1249,duj
+Dhuwala,Dhuwala,,,,dhuw1248,
+Diyari,Diyari,Australia,-28.1667,138.0,dier1241,dif
+Djabugay,Djabugay,Australia,-16.596,145.388,dyaa1242,dyy
+Djambarrpuyngu,Djambarrpuyngu,Australia,-12.021,135.59,djam1256,djr
+Djapu,Djapu,Australia,-12.879764,136.417978,djap1238,
+Djinang,Djinang,Australia,-12.462,134.82,djin1253,dji
+Durubul,Durubul,Australia,-27.87647555,152.4602773,yaga1256,
+Duungidjawu,Duungidjawu,Australia,-25.3987,152.345,duun1241,
+Dyirbal,Dyirbal,Australia,-17.4516,145.544,dyir1250,dbl
+FlindersIsland,Flinders Island,Australia,-14.1812,144.259,flin1247,fln
+Gamilaraay,Gamilaraay,Australia,-29.9037,149.543,gami1243,kld
+Gangulu,Gangulu,Australia,-22.7637,149.416,gang1268,gnl
+Garlali,Garlali,Australia,-28.136,143.929,kala1380,gll
+GoorengGooreng,Gooreng Gooreng,Australia,-25.3893,151.175,gure1255,gnr
+Gudjal,Gudjal,Australia,-19.44157406,144.6482584,gudj1237,
+Gumatj,Gumatj,Australia,-12.25254,136.83042,guma1253,gnn
+Gumbaynggir,Gumbaynggir,Australia,-29.8189,152.913,kumb1268,kgs
+Gunditjmara,Gunditjmara,Australia,,,gund1249,wkr
+Gundungurra,Gundungurra,Australia,-34.85,149.1,nort2760,
+Gunggari,Gunggari,Australia,-24.2182,143.222,kung1258,kgl
+Gunya,Gunya,Australia,-27.0642,145.862,guny1241,gyy
+Gupapuyngu,Gupapuyngu,Australia,-12.2868,135.337,gupa1247,guf
+Gurindji,Gurindji,Australia,-17.0329,130.379,guri1247,gue
+GuuguYimidhirr,Guugu-Yimidhirr,Australia,-14.9424,144.831,gugu1255,kky
+Guwa,Guwa,Australia,-21.35147706,142.5243782,guwa1242,xgw
+Guyani,Guyani,Australia,-34.739,137.661,guya1249,gvy
+Iyora,Iyora,Australia,-33.52925837,150.3490464,sydn1236,xdk
+Jaru,Jaru,Australia,-18.3288,128.262,jaru1254,ddj
+Jiwarli,Jiwarli,Australia,-24.10724,116.98858,djiw1241,dze
+Jiwarliny,Jiwarliny,Australia,-20.34239,122.28179,djuw1238,
+Kaanju,Kaanju,Australia,-13.3243,142.893,kanj1260,kbe
+Kalkatungu,Kalkatungu,Australia,-21.0,139.5,kalk1246,ktg
+Kamilaroi,Kamilaroi,Australia,-29.9037,149.543,gami1243,kld
+Karajarri,Karajarri,Australia,-18.6771,122.334,kara1476,gbd
+KarajarriNW,KarajarriNW,Australia,-18.6771,122.334,kara1476,gbd
+Kariyarra,Kariyarra,Australia,-20.445,118.613,kari1304,vka
+Kartujarra,Kartujarra,Australia,-23.27912,121.73213,kart1247,
+Karuwali,Karuwali,Australia,-25.833018,140.026291,karr1236,rxw
+Katthang,Katthang,Australia,,,gath1234,
+Kaurna,Kaurna,Australia,-34.34966141,138.4800794,kaur1267,zku
+Keramin,Keramin,Australia,,,kera1256,
+KuguNganhcara,Kugu Nganhcara,Australia,-14.0756,141.724,kuku1280,uwa
+Kukatj,Kukatj,Australia,-17.8372,141.168,guga1239,ggd
+Kukatja,Kukatja,Australia,-20.3321,127.666,kuka1246,kux
+KukuYalanji,Kuku Yalanji,Australia,-16.0036,145.188,kuku1273,gvn
+Kungkari,Kungkari,Australia,-24.75108713,143.5365228,kuun1236,lku
+Kurnu,Kurnu,Australia,,,kula1275,
+Kurrama,Kurrama,Australia,-22.2134,117.51,kurr1243,vku
+Kurtjar,Kurtjar,Australia,-17.1653,141.145,gurd1238,gdj
+KuukuYau,Kuuku-Ya’u,Australia,-12.4947,143.165,kuuk1238,kuy
+Linngithigh,Linngithigh,Australia,-12.771375,141.962,leni1238,lnj
+Mabuiag,Mabuiag,Australia,-10.6748,142.196,kala1377,mwp
+Malgana,Malgana,Australia,-26.211,114.245,malg1242,vml
+Malngin,Malngin,Australia,,,maln1239,
+Malyangapa,Malyangapa,Australia,-29.43,142.0,maly1234,yga
+Margany,Margany,Australia,-26.789,144.892,marg1253,zmc
+MartuWangka,Martu Wangka,Australia,-23.350911655789,123.66842240336,mart1256,mpj
+MathiMathi,Mathi-Mathi,Australia,-34.5,143.5,madh1244,dmd
+MayiKulan,Mayi-Kulan,Australia,-18.56,141.46,mayi1236,xyk
+MayiKutuna,Mayi-Kutuna,Australia,-18.1147,140.337,maya1280,xmy
+MayiThakurti,Mayi-Thakurti,Australia,-20.0,140.63,mayi1234,xyt
+MayiYapi,Mayi-Yapi,Australia,-19.25,140.61,mayi1235,xyj
+Mbabaram,Mbabaram,Australia,-20.1389,143.438,mbab1239,vmb
+Mbakwithi,Mbakwithi,Australia,-12.395,141.755,angu1242,awg
+Minjungbal,Minjungbal,Australia,,,minj1242,
+Mirniny,Mirniny,Australia,-31.7154,118.911,kala1379,kba
+Mithaka,Mithaka,Australia,-25.13606725,139.598447,mith1236,
+Mudburra,Mudburra,Australia,-16.7694,132.329,mudb1240,mwd
+Muruwari,Muruwari,Australia,-28.9618,146.546,muru1266,zmu
+Narrungga,Narrungga,Australia,-34.69,137.535,naru1238,nnr
+Ngaanyatjarra,Ngaanyatjarra,Australia,-25.7514,127.602,ngaa1240,ntj
+Ngadjumaya,Ngadjumaya,Australia,-32.02447,124.46601,ngad1258,nju
+Ngadjuri,Ngadjuri,Australia,-32.930160660336,139.08123163651,ngad1257,jui
+Ngaiawang,Ngaiawang,Australia,-34.6,140.5,lowe1402,
+Ngamini,Ngamini,Australia,,,ngam1284,
+Ngardily,Ngardily,Australia,,,nort2753,
+Ngarigu,Ngarigu,Australia,-36.23,149.13,ngar1297,xni
+Ngarinyman,Ngarinyman,Australia,-15.4661,130.651,ngar1235,nbj
+Ngarla,Ngarla,Australia,-20.20748,119.30579,ngar1296,nrk
+Ngarluma,Ngarluma,Australia,-20.9235,117.203,ngar1287,nrl
+Ngarrindjeri,Ngarrindjeri,Australia,-36.2301,140.158,narr1259,nay
+Ngawun,Ngawun,Australia,-19.4484,141.471,ngaw1240,nxn
+Ngiyambaa,Ngiyambaa,Australia,-30.6481,146.18,wang1291,wyb
+Ngunawal,Ngunawal,Australia,-36.25,148.77,ngun1277,xul
+Nhanta,Nhanta,Australia,-27.42523643,114.2680442,nhan1238,nha
+Nhirrpi,Nhirrpi,Australia,-28.62911,141.27596,nhir1234,hrp
+NorthernMangarla,Northern Mangarla,Australia,-18.6597,123.769,mang1383,mem
+NorthernNyangumarta,Northern Nyangumarta,Australia,,,nort2754,
+Nyamal,Nyamal,Australia,-21.6092,119.693,nyam1271,nly
+Nyangumarta,Nyangumarta,Australia,-20.6271,121.391,nyan1301,nna
+Nyungar,Nyungar,Australia,-33.1199,118.151,nyun1247,nys
+Paakantyi,Paakantyi,Australia,-32.7021,142.695,darl1243,drl
+Pakanh,Pakanh,Australia,-15.0908,142.74,paka1251,pkn
+Pallanganmiddang,Pallanganmiddang,Australia,-36.08,146.91,pall1243,pmd
+Panyjima,Panyjima,Australia,-22.7816,118.723,pany1241,pnw
+Parnkala,Parnkala,Australia,-33.3036,136.079,bang1339,bjb
+Payungu,Payungu,Australia,-23.3809,114.108,bayu1240,bxj
+Piangil,Piangil,Australia,,,wadi1260,xwd
+PintupiLuritja,Pintupi-Luritja,Australia,-23.2963,130.643,pint1250,piu
+Pirriya,Pirriya,Australia,-25.48006595,142.5485119,pirr1240,xpa
+Pitjantjatjara,Pitjantjatjara,Australia,-26.9704,131.357,pitj1243,pjt
+PittaPitta,Pitta-Pitta,Australia,-22.7952,139.983,pitt1247,pit
+Rirratjingu,Rirratjingu,Australia,,,rirr1238,
+Ritharrngu,Ritharrngu,Australia,-13.4559,135.259,rita1239,rit
+SouthernWalmajarri,Southern Walmajarri,Australia,-19.7229,126.113,walm1241,wmt
+Thalanyji,Thalanyji,Australia,-22.196,114.937,dhal1245,dhl
+Tharrgari,Tharrgari,Australia,-24.0601,114.847,dhar1247,dhr
+Umpila,Umpila,Australia,-13.1528,143.467,umpi1239,ump
+Wajarri,Wajarri,Australia,-28.1761,117.153,waja1257,wbv
+Wakaya,Wakaya,Australia,-20.329,137.623,waga1260,wga
+Wangkangurru,Wangkangurru,Australia,-25.8148,135.941,wang1290,wgg
+Wangkatja,Wangkatja,Australia,-29.806,127.632,pint1251,pti
+Wangkayutyuru,Wangkayutyuru,Australia,-24.7022,137.433,wang1289,wnm
+Wangkumara,Wangkumara,Australia,-27.10149,143.19619,wong1246,xwk
+Wardandi,Wardandi,Australia,-33.92109,115.26929,ward1248,wxw
+Wargamay,Wargamay,Australia,-18.5468,146.179,warr1255,wgy
+Warlmanpa,Warlmanpa,Australia,-18.949,133.862,warl1255,wrl
+Warlpiri,Warlpiri,Australia,-20.1008,131.05,warl1254,wbp
+Warluwarra,Warluwarra,Australia,-22.2909,138.738,warl1256,wrb
+Warnman,Warnman,Australia,-22.7078,122.325,wanm1242,wbt
+Warriyangga,Warriyangga,Australia,-24.353,116.927,wari1262,wri
+Warumungu,Warumungu,Australia,-20.6479,134.375,waru1265,wrm
+Warungu,Warungu,Australia,-18.2496,144.37,waru1264,wrg
+Wathawurrung,Wathawurrung,Australia,-37.68777565,144.1013148,wath1238,wth
+Wathiwathi,Wathiwathi,Australia,,,wadi1249,
+Watjuk,Watjuk,Australia,,,waju1234,xwj
+WesternArrarnta,Western Arrarnta,Australia,-24.05052,133.24621,west2441,are
+WikMungkan,Wik Mungkan,Australia,-13.98051,141.81611,wikm1247,wim
+Wiradjuri,Wiradjuri,Australia,-34.0742,145.994,wira1262,wrh
+Wirangu,Wirangu,Australia,-32.0,134.0,wira1265,wgu
+Woiwurrung,Woiwurrung,Australia,,,woiw1238,
+Wulguru,Wulguru,Australia,-19.85103121,146.3453957,wulg1239,qgu
+YabulaYabula,Yabula Yabula,Australia,-35.76116,145.23209,yabu1234,yxy
+Yagara,Yagara,Australia,-27.87648,152.46028,yaga1262,yxg
+Yalarnnga,Yalarnnga,Australia,-21.731,139.511,yala1262,ylr
+Yannhangu,Yan-nhangu,Australia,-12.0853,134.877,yann1237,jay
+Yandruwandha,Yandruwandha,Australia,-28.4744,140.583,yand1253,ynd
+Yanyuwa,Yanyuwa,Australia,-15.7621,136.055,yany1243,jao
+Yarluyandi,Yarluyandi,Australia,-25.83705,139.58436,yarl1238,yry
+Yawarrawarrka,Yawarrawarrka,Australia,-26.7334,140.871,yawa1258,yww
+Yidiny,Yidiny,Australia,-17.1332,145.876,yidi1250,yii
+Yindjibarndi,Yindjibarndi,Australia,-21.5379,117.001,yind1247,yij
+Yindjilandji,Yindjilandji,Australia,-19.24252,137.5894,yind1248,yil
+Yiningay,Yiningay,Australia,-25.192664,147.273359,bidy1243,bym
+Yirandali,Yirandali,Australia,-20.65810118,143.9625916,yira1239,ljw
+YortaYorta,Yorta Yorta,Australia,-35.9,145.01,yort1237,xyy
+Yugambeh,Yugambeh,Australia,-27.803,153.082,yuga1244,yub
+Yulparija,Yulparija,Australia,,,yulp1238,
+Yuwaalaraay,Yuwaalaraay,Australia,-29.758184,147.923684,yuwa1242,
+Aka,Aka,Eurasia,21.2309,100.964,akha1245,ahk
+Miji,Miji,,,,miji1239,
+Bodo,Bodo,Eurasia,26.1,92.0,bodo1269,brx
+Dimasa,Dimasa,Eurasia,25.4198,93.1806,dima1251,dis
+LijiangNaxi,Lijiang-Naxi,Eurasia,,,lich1241,
+NinglangNaxi,Ninglang-Naxi,Eurasia,27.5,100.0,naxi1245,nxq
+Jinuo,Jinuo,Eurasia,22.0473,101.057,youl1235,jiu
+Hmar,Hmar,Eurasia,24.7534,93.5497,hmar1241,hmr
+Gangte,Gangte,Eurasia,24.5113,94.1681,gang1266,gnb
+Dhimal,Dhimal,Eurasia,26.6283,88.3798,dhim1246,dhi
+Gurung,Gurung,Eurasia,27.41687,86.28988,guru1261,gvr
+Tamang,Tamang,,,,nucl1729,
+Thakali,Thakali,Eurasia,28.7014,83.6466,thak1245,ths
+Taraon,Taraon,Eurasia,24.4003,94.1703,tara1313,tro
+Jingpo,Jingpo,Eurasia,25.4634,97.3278,kach1280,kac
+PaO,Pa'O,Eurasia,20.211,97.5969,paok1235,blk
+Geba,Geba,Eurasia,19.4991,96.9492,geba1237,kvq
+Yeinbaw,Yeinbaw,Eurasia,19.0383,97.2134,yinb1236,kvu
+Geker,Geker,Eurasia,19.6741,96.5308,geko1235,ghk
+Manu,Manu,Eurasia,19.165,96.9531,manu1255,kxf
+Wkayah,W. Kayah,Eurasia,18.687,97.4877,west2409,kyu
+Yintale,Yintale,Eurasia,18.9378,97.3368,yint1235,kvy
+Sgaw,Sgaw,Eurasia,17.9872,97.7126,sgaw1245,ksw
+Kaike,Kaike,Eurasia,28.853,83.1384,kaik1246,kzq
+Sunwar,Sunwar,Eurasia,27.5201,86.2476,sunw1242,suz
+Dumi,Dumi,Eurasia,27.45849,86.75699,dumi1241,dus
+Yamphu,Yamphu,Eurasia,27.6322,87.0441,yamp1242,ybi
+Konyak,Konyak,Eurasia,26.6823,95.0598,kony1248,nbe
+Phom,Phom,Eurasia,26.4715,94.7476,phom1236,nph
+Nocte,Nocte,Eurasia,27.152,95.3903,noct1238,njb
+Wancho,Wancho,Eurasia,26.2581,94.8936,wanc1238,nnp
+Lepcha,Lepcha,Eurasia,27.0869,88.5726,lepc1244,lep
+Magar,Magar,,,,maga1261,
+Manipuri,Manipuri,Eurasia,24.4409,93.3426,mani1292,mni
+Motuo-M,Motuo-M,Eurasia,27.3762,91.8245,dakp1242,dka
+Rengma,Rengma,Eurasia,21.710864,92.367939,reng1255,
+Tangkul,Tangkul,Eurasia,25.0489,94.3567,tang1336,nmf
+Lhota,Lhota,Eurasia,26.01396,94.04355,loth1237,njh
+Pochuri,Pochuri,Eurasia,25.4478,94.1119,poch1243,npo
+Sangtam,Sangtam,Eurasia,25.8581,94.6279,sang1321,nsa
+Yimchunru,Yimchunrü,Eurasia,25.7675,94.8087,yimc1240,yim
+AoChungli,Ao-Chungli,Eurasia,,,chon1286,
+AoMongsen,Ao-Mongsen,Eurasia,,,mong1332,
+Mao,Mao,Eurasia,25.3836,94.0035,maon1238,nbi
+Khezhama,Khezhama,Eurasia,25.7078,94.3114,khez1235,nkh
+Chokri,Chokri,Eurasia,25.5636,94.2887,chok1243,nri
+Zeme,Zeme,Eurasia,25.3499,93.6463,zeme1240,nzm
+Liangmai,Liangmai,Eurasia,25.16,93.542,lian1251,njn
+Maram,Maram,Eurasia,25.4378,94.2205,mara1379,nma
+Rourou,Rourou,Eurasia,26.7292,98.8801,nusu1239,nuf
+Nusu,Nusu,Eurasia,26.7292,98.8801,nusu1239,nuf
+JianchuanBai,Jianchuan Bai,Eurasia,26.538056,99.91,jian1239,
+Fuzhou,Fuzhou,Eurasia,26.0,119.5,mind1253,cdo
+Serdukpen,Serdukpen,Eurasia,27.0035,92.5799,sher1257,sdp
+Bugun,Bugun,Eurasia,27.1929556,92.4713002,bugu1246,bgg
+Sqiangqin,S-Qiangqin,Eurasia,31.5392,103.384,sout2728,qxs
+Nqiang,N-Qiang,Eurasia,32.2766,103.192,nort2722,cng
+Pumi1,Pumi1,,,,pumi1242,
+Pumi2,Pumi2,,,,pumi1242,
+Quueyu,Quueyu,Eurasia,30.3113,100.813,quey1238,qvy
+Horpa,Horpa,Eurasia,31.1026,101.72,horp1239,ero
+Shixing,Shixing,Eurasia,28.3895,100.4,shix1238,sxg
+Namuzi,Namuzi,Eurasia,28.5909,101.898,namu1246,nmy
+Guiqiong,Guiqiong,Eurasia,30.4803,102.128,guiq1238,gqi
+Ersu,Ersu,Eurasia,29.2867,102.213,ersu1241,ers
+Rawang,Rawang,Eurasia,27.1027,97.0738,rawa1265,raw
+WrittenTibetan,Written Tibetan,Eurasia,28.3681,90.1872,tibe1272,bod
+LhasaTibetan,Lhasa Tibetan,Eurasia,28.3681,90.1872,tibe1272,bod
+Jirel,Jirel,Eurasia,27.6931,86.3201,jire1238,jul
+Sherpa,Sherpa,Eurasia,27.674,86.9994,sher1255,xsr
+Padam,Padam,Eurasia,,,pada1257,
+Apatari,Apatari,Eurasia,27.1933,93.7284,apat1240,apt
+HillMiri,Hill-Miri,Eurasia,27.278263,93.675529,nyis1236,njz
+Bokar,Bokar,Eurasia,27.62812,94.3538,bori1243,adi
+Nishi,Nishi,Eurasia,23.418,104.85,nisi1238,yso
+Tagin,Tagin,Eurasia,27.986064,94.221711,tagi1241,tgj
+UpperBangni,Upper-Bangni,Eurasia,,,bang1338,
+ProtoAztecan,Proto-Aztecan,,,,azte1234,
+JalupaNahuat,Jalupa Nahuat,North America,17.9371,-93.5688,taba1265,nhc
+MecayapanNahuat,Mecayapan Nahuat,North America,18.2,-94.7547,isth1242,nhx
+NorthPueblaNahuatl,North Puebla Nahuatl,North America,20.1356,-97.9814,nort2957,ncj
+PajapanNahuat,Pajapán Nahuat,North America,18.2513,-94.6647,isth1241,nhp
+yakumo,Yakumo,Eurasia,42.25,140.266667,ainu1240,ain
+oshamambe,Oshamambe,Eurasia,42.508056,140.373056,ainu1240,ain
+horobetsu,Horobetsu,Eurasia,42.416667,141.1,ainu1240,ain
+hiratori,Hiratori,Eurasia,42.583333,142.133333,ainu1240,ain
+nukkibetsu,Nukkibetsu,Eurasia,,,ainu1240,ain
+niikappu,Niikappu,Eurasia,42.366667,142.316667,ainu1240,ain
+samani,Samani,Eurasia,42.133333,142.933333,ainu1240,ain
+obihiro,Obihiro,Eurasia,42.916667,143.2,ainu1240,ain
+kushiro,Kushiro,Eurasia,42.983333,144.383333,ainu1240,ain
+bihoro,Bihoro,Eurasia,43.825,144.105556,ainu1240,ain
+asahikawa,Asahikawa,Eurasia,43.766667,142.366667,ainu1240,ain
+nayoro,Nayoro,Eurasia,44.355833,142.463333,ainu1240,ain
+soya,Sôya,Eurasia,45.415667,141.673056,ainu1240,ain
+ochiho,Ochiho,Eurasia,,,sakh1245,
+tarantomari,Tarantomari,Eurasia,,,sakh1245,
+maoka,Maoka,Eurasia,,,sakh1245,
+shiraura,Shiraura,Eurasia,,,sakh1245,
+raichishka,Raichishka,Eurasia,,,sakh1245,
+nairo,Nairo,Eurasia,,,sakh1245,
+MoroccanArabic,MoroccoArabic,Africa,32.5,-7.5,moro1292,ary
+Maltese,MalteseArabic,Eurasia,35.8884,14.4508,malt1254,mlt
+Cairene,CaireneArabic,Africa,31.0,31.0,egyp1253,arz
+Damascene,DamasceneArabic,Eurasia,34.1709,36.0468,nort3139,apc
+Iraqi,IraqiArabic,Eurasia,31.5339,41.2595,jude1266,yhd
+Soukhne,SoukhneArabic,Eurasia,34.1709,36.0468,nort3139,apc
+AqraArbilArabic,AqraArbilArabic,Eurasia,31.5339,41.2595,jude1266,yhd
+CypriotArabic,CypriotArabic,Eurasia,35.1674,33.0943,cypr1248,acy
+GulfArabic,United Arab Emirates,Eurasia,30.17,47.5,gulf1241,afb
+YemeniticArabic,YemeniticArabic,Eurasia,15.0,45.0,jude1267,jye
+NigerianArabic,NigerianArabic,Africa,14.67,13.5,chad1249,shu
+Buxari,BuxariArabic,Eurasia,40.2612,65.3864,uzbe1248,auz
+Kinubi,Ki-nubi,Africa,-0.183215,34.7552,nubi1253,kcn
+Borong,Kosorong,Papunesia,-6.56688,147.511,boro1279,ksr
+Burum,Burum,Papunesia,-6.51663,147.333,buru1306,bmu
+Dedua,Dedua,Papunesia,-6.38206,147.627,dedu1240,ded
+Kate,Kâte,Papunesia,-6.4795,147.757,kate1253,kmg
+Komba,Komba,Papunesia,-6.16163,147.28,komb1273,kpf
+Kube,Hube,Papunesia,-6.42586,147.536,kube1244,kgf
+Mape,Mape,Papunesia,-6.59318,147.682,mape1249,mlh
+Mesem,Mese,Papunesia,-6.56072,147.137,mese1244,mci
+Mindik,Mindik,Papunesia,-6.51663,147.333,buru1306,bmu
+Nabak,Nabak,Papunesia,-6.42709,146.966,naba1256,naf
+Ono,Ono,Papunesia,-6.19223,147.579,onoo1246,ons
+Selepet,Selepet,Papunesia,-6.03532,147.234,sele1250,spl
+Timbe,Timbe,Papunesia,-6.06875,147.057,timb1251,tim
+Tobo,Tobo,Papunesia,-6.36263,147.376,tobo1251,kgf
+Cora,Cora,,,,cora1259,
+Cahita,Cahita,,,,cahi1243,
+Tarahumaran,Tarahumaran,,,,tara1321,
+ProtoCoracholNahua,Proto-Corachol-Nahua,,,,cora1261,
+ProtoUtoAztecan,PUA,,,,utoa1244,
+Qingyun,Qingyun,Eurasia,24.8709,100.711,xish1235,ywt
+Shuizhuping,Shuizhuping,Eurasia,24.73,98.9,west1506,ywl
+Diaocao,Diaocao,Eurasia,25.435,100.178,dong1286,yik
+Xuzhang,Xuzhang,Eurasia,25.344026,99.112244,xuzh1234,
+Mangdi,Mangdi,Eurasia,23.5,99.33,sout3210,
+Yijiacun,Yijiacun,Eurasia,23.475,99.865,ekaa1234,
+Yangliu,Yangliu,Eurasia,25.22482,99.046326,yang1304,
+Boruca,Boruca,North America,8.88,-83.21,boru1252,brn
+Bribri,Bribri,North America,9.40,-83.05,brib1243,bzd
+Buglere,Buglere,North America,8.58,-81.26,bugl1243,sab
+Cabecar,Cabécar,North America,9.67,-83.41,cabe1245,cjp
+Chibcha,Chibcha,South America,6.25,-74.17,chib1270,chb
+Dorasque,Dorasque,North America,8.57,-82.38,dora1242,
+MalekuJaika,Maléku Jaíka,North America,10.75,-84.73,male1297,gut
+Ngabere,Ngäbere,North America,8.83,-82.39,ngab1239,gym
+Pech,Pech,North America,15.80,-85.56,pech1241,pay
+Rama,Rama,North America,11.50,-83.86,rama1270,rma
+SanBlasKuna,San Blas Kuna,South America,9.16,-78.31,sanb1242,cuk
+Teribe,Teribe,North America,9.06,-82.96,teri1250,tfr
+Atanque,Atanque,South America,10.75,-73.36,kank1244,
+LencaSalvador,Lenca-Salvador,North America,13.56,-87.50,lenc1242,
+LencaHonduras,Lenca-Honduras,North America,13.67,-88.11,lenc1243,
+Cacaopera,Cacaopera,North America,13.74,-88.11,caca1247,ccr
+Mayangna,Mayangna,North America,14.13,-84.34,maya1285,yan
+Ulwa,Ulwa,North America,12.93,-83.58,ulwa1239,ulw
+Miskito,Mískito,North America,15.16,-84.29,misk1235,miq
+EudeveNorth,North Eudeve,North America,28.5,-110.0,eude1234,
+EudeveSouth,South Eudeve,North America,28.5,-110.0,eude1234,
+TohonoOdam,Tohono O'odam,North America,,,toho1246,
+SonoraPimaBajo,Sonora Pima Bajo (Nevome),North America,,,sono1245,
+ProtoSonoran,Proto-Sonoran,,,,sout3136,
+TarahumaraCentral,Central Tarahumara,North America,27.5648,-107.154,cent2131,tar
+ProtoTepiman,Proto-Tepiman,,,,tepi1240,
+TepehuanNorth,Tepehuán del Norte,North America,26.4348,-107.379,nort2959,ntp
+TepehuanSouth,Tepehuán del Sur,North America,23.1584,-103.983,sout2976,stp
+WarihioHighland,Highland Warihío,North America,,,high1277,
+WarihioLowland,Lowland Warihío,North America,,,lowl1264,
+Yine,Yine,South America,-11.1086,-73.3087,yine1238,pib
+Apurina,Apurinã,South America,-8.21692,-66.7714,apur1254,apu
+ProtoPurus,Proto-Purus,,,,puru1265,
+Inapari,Iñapari,South America,-12.46525,-69.30827,inap1242,inp
+Anuta,Tarangapaka-Anuta,Papunesia,-11.61,169.85,anut1237,aud
+Raivavae,Reo Ra'ivavae,Papunesia,,,raiv1237,
+Rurutu,Reo Rurutu,Papunesia,,,ruru1237,
+EastFutuna,Fakafutuna,Papunesia,-14.278717,-178.137222,east2447,fud
+Emae,Fakamae,Papunesia,-17.052,168.399,emae1237,mmw
+FutunaAniwa,Fesau Futuna,Papunesia,-19.5303,170.215,futu1245,fut
+Hawaiian,'ōlelo Hawai'i,Papunesia,19.6297,-155.43,hawa1245,haw
+Kapingamarangi,Kapingamarangi,Papunesia,1.039166,154.797223,kapi1249,kpg
+Luangiua,Luangiua,Papunesia,-5.49029,159.701,onto1237,ojv
+Mangareva,Reo Magareva,Papunesia,-23.1095,-134.97,mang1401,mrv
+Maori,Reo Māori,Papunesia,-38.2881,176.541,maor1246,mri
+MeleFila,Mele-Fila,Papunesia,-17.6841,168.275,mele1250,mxe
+Niuean,Vagahau Niue,Papunesia,-19.06,-169.86,niue1239,niu
+NorthMarquesan,'eo 'enana,Papunesia,-8.89412,-140.108,nort2845,mrq
+Nukeria,Nukeria,Papunesia,-3.40038,154.731,nuku1259,nur
+Penrhyn,Penrhyn,Papunesia,-9.082238,-157.922908,penr1237,pnh
+Polynesian,Proto Polynesian,,,,poly1242,
+Pukapuka,Leo Pukapuka,Papunesia,-10.91,-165.83,puka1242,pkp
+RakahangaManihiki,Manihiki,Papunesia,-10.03,-161.09,raka1237,rkh
+Rapanui,Rapanui,Papunesia,-27.113,-109.342,rapa1244,rap
+Rarotongan,Reo Rarotongan,Papunesia,-21.23,-159.78,raro1241,rar
+RennellBellona,Rennell-Bellona,Papunesia,-11.6237,160.265,renn1242,mnv
+Samoan,Gagana Sāmoa,Papunesia,-13.92,-171.83,samo1305,smo
+Sikaiana,Sikaiana,Papunesia,-8.378194,162.72952,sika1261,sky
+Tahitian,Reo Tahiti,Papunesia,-17.6485,-149.45,tahi1242,tah
+Tikopia,Fakatikopia,Papunesia,-12.2766,168.822,tiko1237,tkp
+Tongan,Lea Fakatonga,Papunesia,-21.17,-175.25,tong1325,ton
+Tuamotuan,Reo o te Tuamotu,Papunesia,-16.17259,-146.321755,tuam1242,pmt
+Tuvalu,Leo Tuvalu,Papunesia,-8.520813,179.198088,tuva1244,tvl
+VaeakauTaumako,Vaeakau-Taumako,Papunesia,-10.173335,166.247188,pile1238,piv
+EastUvea,Faka'uvea,Papunesia,-13.2903,-176.207,wall1257,wls
+Jeju,Jeju,Eurasia,33.3805,126.5554,jeju1234,jje
+SJeolla,Southern Jeolla,Eurasia,35.14,126.84,chol1278,
+NJeolla,Northern Jeolla,Eurasia,35.14,126.84,chol1278,
+SGyeongsang,Southern Gyeongsang,Eurasia,35.3,128.3,kyon1247,
+NGyeongsang,Northern Gyeongsang,Eurasia,35.3,128.3,kyon1247,
+SChungcheong,Southern Chungcheong,Eurasia,36.63,127.31,chun1247,
+NChungcheong,Northern Chungcheong,Eurasia,36.63,127.31,chun1247,
+Gyeonggi,Gyeonggi,Eurasia,37.54,126.98,seou1239,
+Hwanghae,Hwanghae,Eurasia,38.29,125.47,hwan1238,
+SHamgyong,Southern Hamgyong,Eurasia,42.34,129.84,hamg1238,
+NHamgyong,Northern Hamgyong,Eurasia,42.34,129.84,hamg1238,
+SPyongan,Southern Pyongan,Eurasia,39.44,126.16,pyon1239,
+NPyongan,Northern Pyongan,Eurasia,39.44,126.16,pyon1239,
+MKorean,Middle Korean,Eurasia,,,midd1372,
+NaMeoCaoBang,Na Meo (Cao Bang),Eurasia,22.4820439,106.4824318,name1237,neo
+SouthernQiandong,Yaogao,Eurasia,26.688723,108.401234,sout2754,hms
+EasternQiandong,Caidiwan,Eurasia,26.5359365,109.453652,east2370,hmq
+NorthernQiandong,Yanghao,Eurasia,26.688723,108.401234,nort2747,hea

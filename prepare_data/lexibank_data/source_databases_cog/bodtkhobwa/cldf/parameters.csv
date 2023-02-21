@@ -1,0 +1,663 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_1sg,1sg,1209,I
+2_2plexcl,2pl.excl,1213,YOU
+3_2plincl,2pl.incl,1131,WE (INCLUSIVE)
+4_2sg,2sg,1215,THOU
+5_3sg,3sg,262,HE OR SHE OR IT
+6_ablative,ablative,,
+7_abovetop,"above, top",2379,UP OR ABOVE
+8_achieveobtain,"achieve, obtain",694,GET
+9_aconite,aconite,,
+10_after,after,1685,AFTER
+11_afternoon,afternoon,1807,AFTERNOON
+12_agent,agent,,
+13_alivehealthy,"alive, healthy",1422,BE ALIVE
+14_all,all,98,ALL
+15_allative,allative,,
+16_amaranth,amaranth,,
+17_angryvi,angry (vi),2223,BE ANGRY
+18_ant,ant,587,ANT
+19_arrow,arrow,977,ARROW
+20_ascend,ascend,705,GO UP (ASCEND)
+21_ash,ash,646,ASH
+22_ask,ask,1309,ASK (INQUIRE)
+23_associative,associative,,
+24_attic,attic,,
+25_axe,axe,677,AXE
+26_backn,back (n),1291,BACK
+27_backwards,back (wards),2911,BACKWARD
+28_bad,bad,1292,BAD
+29_bamboo,bamboo,1927,BAMBOO
+30_banana,banana,868,BANANA
+31_barley,barley,932,BARLEY
+32_bastard,bastard,1947,BASTARD
+33_bat,bat,1793,BAT
+34_beans,beans,832,BEAN
+35_bear,bear,1820,BEAR
+36_beathit,"beat, hit",1433,HIT
+37_beautiful,beautiful,1427,BEAUTIFUL
+38_bee,bee,665,BEE
+39_beerfilter,beer filter,,
+40_beerstrainer,beer strainer,,
+41_behind,behind,1686,BEHIND
+42_bellyabdomen,"belly, abdomen",2114,BELLY OR STOMACH
+43_belt,belt,772,BELT
+44_big,big,1202,BIG
+45_bindv,bind (v),1917,TIE
+46_bird,bird,937,BIRD
+47_bite,bite,1403,BITE
+48_bittervi,bitter (vi),887,BITTER
+49_black,black,163,BLACK
+50_blood,blood,946,BLOOD
+51_blow,blow,176,BLOW (WITH MOUTH)
+52_blowwind,blow (wind),175,BLOW (OF WIND)
+53_boarwild,"boar, wild",3154,WILD BOAR
+54_boilwater,boil  (water),792,BOIL (OF LIQUID)
+55_boiln,boil (n),793,BOIL (OF SKIN)
+56_bone,bone,1394,BONE
+57_borrow,borrow,1823,BORROW
+58_bow,bow,994,BOW
+59_brain,brain,1583,BRAIN
+60_branch,branch,1531,BRANCH
+61_break,break,2558,BREAK (CLEAVE)
+62_breastmilk,"breast, milk",2129,BREAST OR MILK
+63_breath,breath,870,BREATH
+64_bridge,bridge,1011,BRIDGE
+65_bridgehanging,"bridge, hanging",,
+66_bring,bring,692,BRING
+67_brotherelder,brother (elder),1759,OLDER BROTHER
+68_brotherinlaw,brother-in-law,2314,BROTHER-IN-LAW
+69_brotheryounger,"brother, younger",1760,YOUNGER BROTHER
+70_buckwheatbitter,"buckwheat, bitter",3256,BITTER BUCKWHEAT
+71_buckwheatsweet,"buckwheat, sweet",2040,BUCKWHEAT
+72_buffalo,buffalo,934,BUFFALO
+73_bugun,Bugun,,
+74_burnvi,burn (vi),1428,BURNING
+75_burnroastvt,"burn, roast (vt)",1962,ROAST (SOMETHING)
+76_butter,butter,1245,BUTTER
+77_butterfly,butterfly,1791,BUTTERFLY
+78_buy,buy,1869,BUY
+79_callfor,call for,1084,CALL
+80_cane,cane,,
+81_caphat,"cap, hat",2130,HEADGEAR
+82_carry,carry,465,CARRY ON BACK
+83_cat,cat,1208,CAT
+84_cattlecow,"cattle, cow",1153,CATTLE
+85_cave,cave,1155,CAVE
+86_charcoal,charcoal,1188,CHARCOAL
+87_chest,chest,1592,CHEST
+88_chew,chew,321,CHEW
+89_chicken,chicken,1318,CHICKEN
+90_child,child,1801,CHILD (DESCENDANT)
+91_chili,chili,919,CHILI PEPPER
+92_chin,chin,1510,CHIN
+93_civetorspottedwildcat,civet or spotted wild cat,3157,CIVET
+94_civetpalm,"civet, palm",3157,CIVET
+95_clean,clean,704,CLEAN
+97_cliffravine,"cliff, ravine",1930,RAVINE
+98_clitoris,clitoris,3257,CLITORIS
+99_clothing,clothing,1895,CLOTHES
+100_cloudmistfog,"cloud, mist, fog",3275,CLOUD OR FOG
+101_cockroach,cockroach,1575,COCKROACH
+102_cold,cold,1287,COLD
+103_coldvi,cold (vi),,
+104_comb,comb,1475,COMB
+105_come,come,1446,COME
+106_comparativedegree,comparative degree,,
+107_cook,cook,1100,COOK (SOMETHING)
+108_copulaexistential,"copula, existential",1579,BE
+109_copulanegative,"copula, negative",,
+110_corpse,corpse,767,CORPSE
+111_cotton,cotton,1850,COTTON
+112_coughvi,cough (vi),879,COUGH
+113_count,count,1420,COUNT
+114_coverv,cover (v),761,COVER
+115_creepervine,"creeper, vine",,
+116_crow,crow,913,CROW
+117_cry,cry,1839,CRY
+118_cucumber,cucumber,496,CUCUMBER
+119_curcumasp,curcuma sp.,2842,TURMERIC
+120_curevi,cure (vi),,
+121_cut,cut,2156,CUT (WITH KNIFE)
+122_dance,dance,1879,DANCE
+123_daughter,daughter,1357,DAUGHTER
+124_daughterinlaw,daughter-in-law,1057,DAUGHTER-IN-LAW
+125_dayaftertomorrow,day after tomorrow,1179,DAY AFTER TOMORROW
+126_dayaftertwodays,day after two days,2332,THREE DAYS FROM NOW
+127_daybeforetwodays,day before two days,2333,THREE DAYS BEFORE NOW
+128_daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
+129_deaf,deaf,996,DEAF
+130_deep,deep,1593,DEEP
+131_deerbarking,"deer, barking",3152,MUNTJACS
+132_deersambar,"deer, sambar",,
+133_defeatvi,defeat (vi),866,WIN
+134_deityghost,"deity, ghost",1944,GOD
+135_descend,descend,2014,GO DOWN (DESCEND)
+136_die,die,1494,DIE
+137_dig,dig,1418,DIG
+138_dirty,dirty,1230,DIRTY
+139_disease,disease,1986,DISEASE
+140_do,do,813,DO
+141_dog,dog,2009,DOG
+142_dogwild,"dog, wild",2448,WILD DOG
+143_door,door,1567,DOOR
+144_down,down,1326,DOWN
+145_downvisible,down (visible),,
+147_dreamn,dream (n),2374,DREAM
+148_drink,drink,1401,DRINK
+149_dryadj,dry (adj.),1398,DRY
+150_drydryupvi,"dry, dry up (v.i.)",1786,DRY UP
+151_dual,dual,,
+152_eaglebuzzard,"eagle, buzzard",2683,EAGLE OR HAWK
+153_ear,ear,1247,EAR
+154_earthworm,earthworm,2350,EARTHWORM
+155_eat,eat,1336,EAT
+156_egg,egg,744,EGG
+157_eggplant,eggplant,1146,AUBERGINE
+158_eight,eight,1705,EIGHT
+159_elbow,elbow,981,ELBOW
+160_elephant,elephant,1290,ELEPHANT
+161_empty,empty,1624,EMPTY
+162_excrement,excrement,675,FAECES (EXCREMENT)
+163_excrete,excrete,676,SHIT (DEFECATE)
+164_exit,exit,1107,GO OUT
+165_eye,eye,1248,EYE
+166_face,face,1560,FACE
+167_falcon,falcon,3258,FALCON
+168_fall,fall,1280,FALL
+169_far,far,1406,FAR
+170_fast,fast,1631,FAST
+171_fatn,fat (n),1282,FAT (FROM ANIMALS)
+172_father,father,1217,FATHER
+173_fearvi,fear (vi),1419,FEAR (BE AFRAID)
+174_female,female,1551,FEMALE
+175_fence,fence,1690,FENCE
+176_fernfiddlehead,"fern, fiddlehead",,
+177_fetch,fetch,3551,FETCH
+178_fewlittle,"few, little",1242,FEW
+179_field,field,212,FIELD
+180_finger,finger,1303,FINGER
+181_fire,fire,221,FIRE
+182_fireprefix,fire prefix,,
+183_fish,fish,227,FISH
+184_five,five,493,FIVE
+185_flame,flame,889,FLAME
+186_flee,flee,956,FLEE
+187_float,float,1574,FLOAT
+188_flour,flour,1594,FLOUR
+189_flow,flow,2003,FLOW
+190_flyn,fly (n),1504,FLY (INSECT)
+191_flyvi,fly (vi),1441,FLY (MOVE THROUGH AIR)
+192_fodder,fodder,3046,FODDER
+193_food,food,256,FOOD
+194_forehead,forehead,123,FOREHEAD
+195_forest,forest,420,FOREST
+196_forget,forget,1523,FORGET
+197_four,four,1500,FOUR
+198_friend,friend,1325,FRIEND
+199_frog,frog,503,FROG
+200_frost,frost,2034,FROST
+201_fruit,fruit,1507,FRUIT
+202_fryingpan,frying pan,31,PAN
+203_full,full,1429,FULL
+204_gallbile,"gall, bile",1780,BILE
+205_garden,garden,586,GARDEN
+206_garlic,garlic,2368,GARLIC
+207_give,give,1447,GIVE
+208_go,go,695,GO
+209_goat,goat,1502,GOAT
+210_goitre,goitre,1957,GOITER
+211_gold,gold,1369,GOLD
+212_good,good,1035,GOOD
+213_goral,goral,3259,GORAL
+214_gourd,gourd,411,GOURD
+215_grandfather,grandfather,1383,GRANDFATHER
+216_grandmother,grandmother,1496,GRANDMOTHER
+217_green,green,1425,GREEN
+218_grindpound,"grind, pound",1033,GRIND
+219_gum,gum,139,GUMS
+220_hail,hail,609,HAIL
+221_hairbodyfeather,hair (body): feather,2381,FEATHER OR FUR OR HAIR
+222_hairhead,hair (head),2648,HAIR (HEAD)
+223_haltstop,"halt, stop",2880,HALT (STOP)
+224_handarm,"hand, arm",2121,ARM OR HAND
+225_hard,hard,1884,HARD
+226_hatch,hatch,3116,HATCH (OUT)
+227_head,head,1256,HEAD
+228_heart,heart,1223,HEART
+229_hearthfireplace,"hearth, fireplace",185,FIREPLACE
+230_heavy,heavy,1210,HEAVY
+231_here,here,136,HERE
+232_hide,hide,2486,HIDE
+233_hold,hold,1448,HOLD
+234_honey,honey,942,HONEY
+235_horn,horn,1393,HORN (ANATOMY)
+236_hornbill,hornbill,3260,HORNBILL
+237_hornet,hornet,3261,HORNET
+238_horse,horse,615,HORSE
+239_horsefly,horsefly,3262,HORSEFLY
+240_house,house,1252,HOUSE
+241_howmany,how many,822,HOW MANY
+242_humanbeing,human being,683,PERSON
+243_humanbeingprefix,human being prefix,,
+244_hungryvi,hungry (vi),1533,BE HUNGRY
+245_hunter,hunter,1053,HUNTER
+246_husband,husband,1200,HUSBAND
+247_ice,ice,617,ICE
+248_imperative,imperative,,
+249_in,in,1460,IN
+250_indoaryanperson,Indo-Aryan person,,
+251_insect,insect,620,INSECT
+252_intestines,intestines,1991,INTESTINES
+253_iron,iron,621,IRON
+254_itch,itch,148,ITCH
+255_jackal,jackal,2461,WOLF-LIKE ANIMAL
+256_jerigaonpeople,Jerigaon people,,
+257_jump,jump,1829,JUMP
+258_keepremain,"keep, remain",987,REMAIN
+259_khoitampeople,Khoitam people,,
+260_kickv,kick (v),1135,KICK
+261_kill,kill,1417,KILL
+262_kissn,kiss (n),3454,KISS (NOUN)
+263_knee,knee,1371,KNEE
+264_know,know,1410,KNOW (SOMETHING)
+265_ladder,ladder,1464,LADDER
+266_language,language,1307,LANGUAGE
+267_langur,langur,,
+268_lap,lap,3263,LAP
+269_latevi,late (vi),425,BE LATE
+270_laugh,laugh,1355,LAUGH
+271_leaf,leaf,628,LEAF
+272_leaflitter,leaf litter,,
+273_leechland,"leech, land",2273,LEECH
+274_leechwater,"leech, water",949,WATER LEECH
+275_leftside,left (side),244,LEFT
+276_leg,leg,1297,LEG
+277_lick,lick,319,LICK
+278_lien,lie (n),2826,LIE (FALSEHOOD)
+279_liftcompletelycarry,"lift completely, carry",501,LIFT
+280_light,light,1052,LIGHT (WEIGHT)
+281_lightning,lightning,1654,LIGHTNING
+282_likelove,"like, love",1117,LIKE
+283_liquor,liquor,842,LIQUOR
+284_listenheed,"listen, heed",1635,OBEY
+285_livestay,"live, stay",363,"DWELL (LIVE, RESIDE)"
+286_liver,liver,1224,LIVER
+287_loadn,load (n),1679,LOAD
+288_locative,locative,,
+289_long,long,1203,LONG
+290_look,look,1819,LOOK
+291_louse,louse,1392,LOUSE
+292_lungs,lungs,688,LUNG
+293_macaque,macaque,,
+294_machete,machete,2680,MACHETE
+295_maize,maize,506,MAIZE
+296_make,make,734,MAKE
+297_male,male,1553,MALE
+298_man,man,1554,MAN
+299_manure,manure,2057,DUNG (ANIMAL FAECES)
+300_marrow,marrow,1835,MARROW
+301_marten,marten,3739,MARTEN
+302_meatanimal,"meat, animal",2096,ANIMAL OR MEAT
+303_medicine,medicine,1372,MEDICINE
+304_meet,meet,1831,MEET
+305_melt,melt,2334,MELT
+306_middlecentre,middle / centre,1093,MIDDLE
+307_mijipeople,Miji people,,
+308_milletbroomcorn,"millet, broomcorn",931,MILLET
+309_milletfinger,"millet, finger",3265,FINGER MILLET
+310_milletfoxtail,"millet, foxtail",3266,FOXTAIL MILLET
+311_mithun,mithun,,
+312_monpa,Monpa,,
+313_moonmonth,"moon, month",2463,MOON OR MONTH
+314_morning,morning,1339,MORNING
+315_mortarwood,mortar (wood),224,MORTAR
+316_mother,mother,1216,MOTHER
+317_mountain,mountain,639,MOUNTAIN
+318_mountainpeak,mountain peak,1614,SUMMIT
+319_mouserat,"mouse, rat",2139,MUROID (MOUSE OR RAT)
+320_mouth,mouth,674,MOUTH
+321_much,much,1198,MANY
+322_mud,mud,640,MUD
+323_mushroom,mushroom,641,MUSHROOM
+324_nagaserpentdeity,"naga, serpent deity",,
+325_nail,nail,1896,FINGERNAIL OR TOENAIL
+326_name,name,1405,NAME
+327_namshupeople,Namshu people,,
+328_navel,navel,1838,NAVEL
+329_neck,neck,1333,NECK
+330_needtohaveto,"need to, have to",971,MUST
+331_needle,needle,1382,NEEDLE (FOR SEWING)
+332_negativeprefix,negative prefix,,
+333_nesthivewomb,"nest, hive, womb",539,NEST
+334_netforfishing,net for fishing,388,FISHNET
+335_new,new,1231,NEW
+336_night,night,1233,NIGHT
+337_nine,nine,1483,NINE
+338_nomenagentis,nomen agentis,,
+339_nominaliser,nominaliser,,
+340_noon,noon,12,MIDDAY
+341_nose,nose,1221,NOSE
+342_oil,oil,2556,OIL (HYDROPHOBIC LIQUID)
+343_okay,okay,,
+344_old,old,2113,OLD (USED)
+345_one,one,1493,ONE
+346_other,other,197,OTHER
+347_otter,otter,15,OTTER
+348_outside,outside,762,OUTSIDE
+349_palmsole,"palm, sole",1183,PALM OF HAND
+350_pangolin,pangolin,2508,PANGOLIN
+351_partridge,partridge,3681,PARTRIDGE
+352_pathroad,"path, road",2457,PATH OR ROAD
+353_patientmarker,patient marker,,
+354_peas,peas,2025,PEA
+355_penis,penis,1222,PENIS
+356_pheasantkalij,"pheasant, kalij",,
+357_pheasanttragopan,"pheasant, tragopan",,
+358_pig,pig,1337,PIG
+359_pillow,pillow,1044,PILLOW
+360_pinch,pinch,378,PINCH
+361_pinekindle,pine kindle,,
+362_plait,plait,333,PLAIT
+363_plantvt,plant  (vt),1486,PLANT (SOMETHING)
+364_play,play,1413,PLAY
+365_ploughv,plough (v),1921,PLOUGH
+366_plural,plural,,
+367_poison,poison,655,POISON
+368_porcupine,porcupine,2510,PORCUPINE
+369_potatobean,potato-bean,,
+370_pour,pour,1487,POUR
+371_present,present,2982,GIFT
+372_prohibitiveprefix,prohibitive prefix,,
+373_pull,pull,1455,PULL
+374_pulse,pulse,3267,PULSE
+375_pumpkin,pumpkin,864,PUMPKIN
+376_puroik,Puroik,,
+377_pus,pus,1808,PUS
+378_push,push,1452,PUSH
+379_put,put,998,PUT
+380_quarrelv,quarrel (v),3302,QUARREL (VERB)
+381_question,question,3268,QUESTION
+382_quiver,quiver,995,QUIVER (FOR ARROWS)
+383_radish,radish,2365,RADISH
+384_rahungpeopleof,"Rahung, people of",,
+385_rainn,rain (n),658,RAIN (PRECIPITATION)
+386_rainbow,rainbow,1733,RAINBOW
+387_reap,reap,190,MOW
+388_recognise,recognise,2248,KNOW (SOMEBODY)
+389_red,red,156,RED
+390_reflexivemarker,reflexive marker,,
+391_restn,rest (n),,
+392_rib,rib,801,RIB
+393_ricehusked,"rice, husked",926,RICE
+394_riceunhuskedpaddy,"rice, unhusked, paddy",2749,UNHUSKED RICE
+395_ridemount,"ride, mount",367,RIDE
+396_right,right,1019,RIGHT
+397_ripe,ripe,178,RIPE
+398_roof,roof,769,ROOF
+399_root,root,670,ROOT
+400_rope,rope,1218,ROPE
+401_rotvi,rot (vi),569,SPOIL (BECOME SPOILED)
+402_roundsmallobject,"round, small object",2303,SPHERICAL (ROUND IN THREE DIMENSIONS)
+403_rub,rub,1449,RUB
+404_rubsharpen,rub; sharpen,251,SHARPEN (SOMETHING)
+405_run,run,1519,RUN
+406_sago,sago,2270,SAGO
+407_saliva,saliva,1503,SALIVA
+408_salt,salt,1274,SALT
+409_sameequal,"same, equal",200,SAME
+410_sand,sand,671,SAND
+411_say,say,1458,SAY
+412_scratch,scratch,1436,SCRATCH
+413_search,search,1468,LOOK FOR
+414_see,see,1409,SEE
+415_seed,seed,714,SEED
+416_serow,serow,3270,SEROW
+417_settle,settle,,
+418_seven,seven,1704,SEVEN
+419_sew,sew,1457,SEW
+420_shade,shade,1388,SHADE
+421_shake,shake,1909,SHAKE
+422_sharp,sharp,1396,SHARP
+423_sheep,sheep,1331,SHEEP
+424_shelf,shelf,745,SHELF
+425_sherdukpen,Sherdukpen,,
+426_shergaonpeopleof,"Shergaon, people of",,
+427_shoefootwear,"shoe, footwear",1381,SHOE
+428_shoot,shoot,1172,SHOOT
+429_short,short,1645,SHORT
+430_shoulder,shoulder,1482,SHOULDER
+431_shyashamedvi,"shy, ashamed (vi)",3805,SHY OR ASHAMED
+432_sickvi,sick (vi),1847,SICK
+433_silver,silver,759,SILVER
+434_sing,sing,1261,SING
+435_sisterinlaw,sister-in-law,2317,SISTER-IN-LAW
+436_sisterelder,"sister, elder",1758,OLDER SISTER
+437_sisteryounger,"sister, younger",1761,YOUNGER SISTER
+438_sit,sit,1416,SIT
+439_six,six,1703,SIX
+440_skinbark,"skin, bark",2127,BARK OR SKIN
+441_sky,sky,1732,SKY
+442_sleep,sleep,1585,SLEEP
+443_slowly,slowly,2165,SLOWLY
+444_small,small,1246,SMALL
+445_smelln,smell (n),2938,FLAVOR
+446_smellvi,smell (vi),1587,SMELL (STINK)
+447_smoke,smoke,778,SMOKE (EXHAUST)
+448_snake,snake,730,SNAKE
+449_snatchaway,snatch away,,
+450_snow,snow,784,SNOW
+451_sodaash,soda ash,,
+452_softsmooth,soft / smooth,1856,SOFT
+453_soilearth,"soil, earth",1228,EARTH (SOIL)
+454_son,son,1620,SON
+455_soninlaw,son-in-law,1056,SON-IN-LAW
+456_song,song,1096,SONG
+457_soupliquidbrothjuice,"soup, liquid, broth, juice",731,BEVERAGE
+458_sour,sour,1906,SOUR
+459_sowbroadcast,"sow, broadcast",748,SOW SEEDS
+460_soybean,soybean,2027,SOYA
+461_sparrow,sparrow,1854,SPARROW
+462_speak,speak,1623,SPEAK
+463_spear,spear,945,SPEAR
+464_spicypungent,"spicy, pungent",544,SPICY
+465_spider,spider,843,SPIDER
+466_spiritsoulshadow,"spirit, soul, shadow",53,SPIRIT
+467_spit,spit,1440,SPIT
+468_spittlespit,"spittle, spit",1503,SALIVA
+469_split,split,1437,SPLIT
+470_squirrel,squirrel,1628,SQUIRREL
+471_squirrelflying,"squirrel, flying",3271,FLYING SQUIRREL
+472_stab,stab,1434,STAB
+473_standup,stand (up),1442,STAND
+474_star,star,1430,STAR
+475_steal,steal,713,STEAL
+476_steam,steam,1193,STEAM
+477_stich,stich,,
+478_stick,stick,1295,STICK
+479_stone,stone,857,STONE
+480_story,story,2060,STORY
+481_straight,straight,1404,STRAIGHT
+482_stumptree,stump (tree),241,TREE STUMP
+483_suck,suck,1421,SUCK
+484_sugarcane,sugarcane,146,SUGAR CANE
+485_sunday,"sun, day",2140,DAY OR SUN
+486_swallow,swallow,897,SWALLOW
+487_sweet,sweet,717,SWEET
+488_swell,swell,1573,SWELL
+489_tail,tail,1220,TAIL
+490_take,take,1749,TAKE
+491_takin,takin,3272,TAKIN
+492_taro,taro,351,TARO
+493_tasty,tasty,1813,TASTY
+494_tearvt,tear (vt),1735,TEAR (SHRED)
+495_tell,tell,1711,TELL
+496_ten,ten,1515,TEN
+497_that,that,78,THAT
+498_thatside,that side,,
+499_thembangpeople,Thembang people,,
+500_thick,thick,1244,THICK
+501_thief,thief,1160,THIEF
+502_thigh,thigh,471,UPPER LEG (THIGH)
+503_thin,thin,2308,THIN
+504_thing,thing,738,THING
+505_think,think,2271,THINK
+506_thirstyvi,thirsty (vi),847,THIRSTY
+507_this,this,1214,THIS
+508_thorn,thorn,124,THORN
+509_thousand,thousand,1843,THOUSAND
+510_thread,thread,1161,THREAD
+511_three,three,492,THREE
+512_throw,throw,1456,THROW
+513_thundervi,thunder (vi),2378,THUNDER (VERB)
+514_tievt,tie (vt),1917,TIE
+515_tiger,tiger,846,TIGER
+516_tillhoe,till (hoe),3273,TILL
+517_tiredvi,tired (vi),1757,TIRED
+518_today,today,1283,TODAY
+519_togetherwith,together with,2482,TOGETHER
+520_tomorrow,tomorrow,1329,TOMORROW
+521_tongue,tongue,1205,TONGUE
+522_tooth,tooth,1380,TOOTH
+523_trivet,trivet,3264,TRIVET
+524_trunktree,trunk (tree),344,TREE TRUNK
+525_tuber,tuber,670,ROOT
+526_tusk,tusk,2495,ELEPHANT TUSK
+527_twenty,twenty,1710,TWENTY
+528_twist,twist,430,TWIST
+529_two,two,1498,TWO
+530_underbelow,"under, below",1485,BELOW OR UNDER
+531_upthere,up there,,
+532_upascend,up; ascend,705,GO UP (ASCEND)
+533_uproot,uproot,,
+534_urine,urine,1142,URINE
+535_vagina,vagina,1836,VAGINA
+536_vegetableleafy,"vegetable, leafy",924,VEGETABLES
+537_veranda,veranda,3269,PORCH
+538_village,village,930,VILLAGE
+539_vomit,vomit,1278,VOMIT
+540_waist,waist,1681,WAIST
+541_wait,wait,1590,WAIT (FOR)
+542_wakeup,wake up,1602,WAKE UP
+543_walkmovego,"walk, move, go",695,GO
+544_walkingstick,walking stick,1296,WALKING STICK
+545_walnut,walnut,2042,WALNUT
+546_warmhotadj,"warm, hot (adj.)",2272,HOT OR WARM
+547_warmhotvi,"warm, hot (vi)",2032,WARM UP
+548_wash,wash,1453,WASH
+549_water,water,948,WATER
+550_wealthy,wealthy,712,RICH
+551_wear,wear,976,WEAR
+552_weave,weave,133,WEAVE
+553_weedgrass,"weed, grass",606,GRASS
+554_wet,wet,1726,WET
+555_wheat,wheat,1077,WHEAT
+556_when,when,1238,WHEN
+557_where,where,1237,WHERE
+558_white,white,1335,WHITE
+559_who,who,1235,WHO
+560_wife,wife,1199,WIFE
+561_wind,wind,960,WIND
+562_window,window,1375,WINDOW
+563_wing,wing,1257,WING
+564_wipe,wipe,1454,WIPE
+565_woman,woman,962,WOMAN
+566_wood,wood,1803,WOOD
+567_wool,wool,964,WOOL
+568_word,word,1599,WORD
+569_work,work,1086,WORK (ACTIVITY)
+570_wringsqueeze,"wring, squeeze",1414,SQUEEZE
+571_year,year,1226,YEAR
+572_yearnext,"year, next",515,NEXT YEAR
+573_yearthis,"year, this",513,THIS YEAR
+574_yellow,yellow,1424,YELLOW
+575_yesterday,yesterday,1174,YESTERDAY
+576_arrive,arrive,1387,ARRIVE
+577_dragon,dragon,2038,DRAGON
+578_surroundconfine,"surround, confine",3274,ENCIRCLE
+579_sulphur,sulphur,,
+580_amnion,amnion,,
+581_applyointment,apply (ointment),3650,APPLY (OINTMENT)
+582_bamboostick,bamboo stick,,
+583_benumb,be numb,,
+584_beoverfull,be overfull,,
+585_bepaired,be paired,,
+586_bigboil,big boil,,
+587_blink,blink,1655,BLINK
+588_boil,boil,792,BOIL (OF LIQUID)
+589_bottomitem,bottom item,,
+590_canecarrystrap,cane carry strap,,
+591_carryonshoulder,carry on shoulder,413,CARRY ON SHOULDER
+592_cloud,cloud,1489,CLOUD
+593_covermouth,cover mouth,,
+594_crossover,cross over,,
+595_deepfry,deepfry,991,FRY
+596_deer,deer,1936,DEER
+597_dewdrops,dew drops,,
+598_falldownfromheight,fall down from height,,
+599_fear,fear,781,FEAR (FRIGHT)
+600_feelnauseous,feel nauseous,,
+601_feeluneasybecauseofsmoke,feel uneasy because of smoke,,
+602_fernnotedible,fern (not edible),,
+603_filterv,filter (v),940,STRAIN
+604_flattendough,flatten (dough),,
+605_foldegclothes,fold (e.g. clothes),1470,FOLD
+606_ford,ford,2818,FORD (CROSSING)
+607_gathercollect1,"gather, collect1",7,GATHER
+608_gathercollect2,"gather, collect2",7,GATHER
+609_gift,gift,2982,GIFT
+610_grindgrindingstone,grind (grinding stone),,
+611_hairfeather,hair; feather,2381,FEATHER OR FUR OR HAIR
+612_hangaroundneck,hang around neck,,
+613_hate,hate,1607,HATE
+614_heedagree,"heed, agree",,
+615_huskschaff,"husks, chaff",2363,CHAFF (HUSK)
+616_landvi,land (vi),1922,LAND (DESCEND)
+617_leak,leak,,
+618_leatherstrap,leather strap,,
+619_makefence,make fence,,
+620_makehole,make hole,,
+621_matehaveintercourse,"mate, have intercourse",549,COPULATE
+622_mixshake,"mix, shake",2017,MIX
+623_now,now,1376,NOW
+624_otheradj,other adj.,197,OTHER
+625_overcookdrenchrot,"overcook, drench, rot",,
+626_packload,pack load,,
+627_parch,parch,,
+628_perforate,perforate,1501,BORE
+629_phlegm,phlegm,3061,PHLEGM
+630_ploughbeam,plough beam,,
+631_poundlightly,pound lightly,,
+632_poundwithforce,pound with force,354,POUND
+633_preparewarp,prepare warp,,
+634_pubichair,pubic hair,36,PUBIC HAIR
+635_pullthread,pull thread,,
+636_putonpantsshoes,"put on (pants, shoes)",158,PUT ON
+637_quarrel,quarrel,1848,QUARREL
+638_reciprocalsuff,reciprocal suff.,,
+639_ripenfruits,ripen (fruits),179,RIPEN
+640_scatter,scatter,2064,SCATTER (SEEDS)
+641_scold,scold,299,SCOLD
+642_shellmaize,shell (maize),3686,CORN HUSK
+643_slip,slip,1324,SLIP
+644_smokeouteghornets,smoke out (e.g. hornets),,
+645_soakinwater,soak in water,,
+646_splitbamboo,split (bamboo),1437,SPLIT
+647_spreadanddry,spread and dry,,
+648_steponto,step onto,,
+649_stickinto,stick into,,
+650_strangle,strangle,,
+651_stretch,stretch,214,STRETCH
+652_strongliquor,strong (liquor),,
+653_sufficeegsalt,suffice (e.g. salt),3475,SUFFICE
+654_takeoffegclothes,take off (e.g. clothes),1755,UNDRESS
+655_tearsnap,"tear, snap",2558,BREAK (CLEAVE)
+656_tease,tease,,
+657_thunder,thunder,1150,THUNDER
+658_tingle,tingle,,
+659_turnaround,turn around,1444,TURN AROUND
+660_turnbyhand,turn by hand,,
+661_turninsideoutevaginate,"turn inside out, evaginate",,
+662_warhotadj,"war, hot (adj)",2272,HOT OR WARM
+663_wearbracelet,wear (bracelet),976,WEAR
+664_wearonhead,wear on head,,

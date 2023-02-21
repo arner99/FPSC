@@ -1,0 +1,201 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_all,all,98,ALL
+2_and,and,1577,AND
+3_animal,animal,619,ANIMAL
+4_ashes,ashes,646,ASH
+5_at,at,1461,AT
+6_backanat,back (anat.),1291,BACK
+7_bad,bad,1292,BAD
+8_barkoftree,bark (of tree),1204,BARK
+9_because,because,1157,BECAUSE
+10_belly,belly,1251,BELLY
+11_big,big,1202,BIG
+12_bird,bird,937,BIRD
+13_tobite,to bite,1403,BITE
+14_black,black,163,BLACK
+15_blood,blood,946,BLOOD
+16_blow,blow,175,BLOW (OF WIND)
+17_bone,bone,1394,BONE
+18_breathe,breathe,1407,BREATHE
+19_burn,burn,2102,BURN
+20_child,child,2099,CHILD
+21_cloud,cloud,1489,CLOUD
+22_cold,cold,1287,COLD
+23_come,come,1446,COME
+24_count,count,1420,COUNT
+25_cut,cut,1432,CUT
+26_day,day,1225,DAY (NOT NIGHT)
+27_die,die,1494,DIE
+28_dig,dig,1418,DIG
+29_dirty,dirty,1230,DIRTY
+30_dog,dog,2009,DOG
+31_drink,drink,1401,DRINK
+32_dry,dry,1398,DRY
+33_dullblunt,"dull, blunt",379,BLUNT
+34_dust,dust,2,DUST
+35_ear,ear,1247,EAR
+36_earth,earth,1228,EARTH (SOIL)
+37_eat,eat,1336,EAT
+38_egg,egg,744,EGG
+39_eye,eye,1248,EYE
+40_tofall,to fall,1280,FALL
+41_far,far,1406,FAR
+42_fatgrease,fat-grease,323,FAT (ORGANIC SUBSTANCE)
+43_father,father,1217,FATHER
+44_tofear,to fear,1419,FEAR (BE AFRAID)
+45_feather,feather,1201,FEATHER
+46_few,few,1242,FEW
+47_tofight,to fight,1423,FIGHT
+48_fire,fire,221,FIRE
+49_fish,fish,227,FISH
+50_five,five,493,FIVE
+51_tofloat,to float,1574,FLOAT
+52_toflow,to flow,2003,FLOW
+53_flower,flower,239,FLOWER
+54_tofly,to fly,1441,FLY (MOVE THROUGH AIR)
+55_fog,fog,249,FOG
+56_foot,foot,1301,FOOT
+57_four,four,1500,FOUR
+58_freeze,freeze,1431,FREEZE
+59_fruit,fruit,1507,FRUIT
+60_give,give,1447,GIVE
+61_good,good,1035,GOOD
+62_grass,grass,606,GRASS
+63_green,green,1425,GREEN
+64_gutsintestines,"guts, intestines",1334,GUTS
+65_hair,hair,1040,HAIR
+66_hand,hand,1277,HAND
+67_he,he,1211,HE
+68_head,head,1256,HEAD
+69_hear,hear,1408,HEAR
+70_heart,heart,1223,HEART
+71_heavy,heavy,1210,HEAVY
+72_here,here,136,HERE
+73_hit,hit,1433,HIT
+74_holdtake,hold-take,2104,HOLD OR TAKE
+75_how,how,1239,HOW
+76_hunt,hunt,1435,HUNT
+77_husband,husband,1200,HUSBAND
+78_i,I,1209,I
+79_ice,ice,617,ICE
+80_if,if,1459,IF
+81_in,in,1460,IN
+82_kill,kill,1417,KILL
+83_know,know,3626,KNOW
+84_lake,lake,624,LAKE
+85_laugh,laugh,1355,LAUGH
+86_leaf,leaf,628,LEAF
+87_leftside,leftside,244,LEFT
+88_leg,leg,1297,LEG
+89_toliedeceive,"to lie, deceive",601,LIE (MISLEAD)
+90_live,live,1422,BE ALIVE
+91_liver,liver,1224,LIVER
+92_long,long,1203,LONG
+93_louse,louse,1392,LOUSE
+94_manmale,man-male,2106,MALE PERSON
+95_many,many,1198,MANY
+96_meatflesh,meat-flesh,2615,FLESH OR MEAT
+97_mother,mother,1216,MOTHER
+98_mountain,mountain,639,MOUNTAIN
+99_mouth,mouth,674,MOUTH
+100_name,name,1405,NAME
+101_narrow,narrow,1267,NARROW
+102_near,near,1942,NEAR
+103_neck,neck,1333,NECK
+104_new,new,1231,NEW
+105_night,night,1233,NIGHT
+106_nose,nose,1221,NOSE
+107_not,not,1240,NOT
+108_old,old,1229,OLD
+109_one,one,1493,ONE
+110_other,other,197,OTHER
+111_person,person,683,PERSON
+112_toplay,to play,1413,PLAY
+113_topull,to pull,1455,PULL
+114_topush,to push,1452,PUSH
+115_torain,to rain,1253,RAIN (RAINING)
+116_red,red,156,RED
+117_rightcorrect,right-correct,1725,CORRECT (RIGHT)
+118_rightside,right side,1019,RIGHT
+119_river,river,666,RIVER
+120_road,road,667,ROAD
+121_root,root,670,ROOT
+122_rope,rope,1218,ROPE
+123_rotten,rotten,1728,ROTTEN
+124_torub,to rub,1449,RUB
+125_salt,salt,1274,SALT
+126_sand,sand,671,SAND
+127_tosay,to say,1458,SAY
+128_toscratch,to scratch,1436,SCRATCH
+129_sea,sea,1474,SEA
+130_see,see,1409,SEE
+131_seed,seed,714,SEED
+132_tosew,to sew,1457,SEW
+133_sharp,sharp,1396,SHARP
+134_short,short,1645,SHORT
+135_tosing,to sing,1261,SING
+136_tosit,to sit,1416,SIT
+137_skin,skin,763,SKIN
+138_sky,sky,1732,SKY
+139_tosleep,to sleep,1585,SLEEP
+140_small,small,1246,SMALL
+141_tosmell,to smell,2124,SMELL
+142_smoke,smoke,778,SMOKE (EXHAUST)
+143_smooth,smooth,1234,SMOOTH
+144_snake,snake,730,SNAKE
+145_snow,snow,784,SNOW
+146_some,some,1241,SOME
+147_tospit,to spit,1440,SPIT
+148_tosplit,to split,1437,SPLIT
+149_tosqueeze,to squeeze,1414,SQUEEZE
+150_tostabpierce,to stab-pierce,1434,STAB
+151_tostand,to stand,1442,STAND
+152_star,star,1430,STAR
+153_stickofwood,stick (of wood),1295,STICK
+154_stone,stone,857,STONE
+155_straight,straight,1404,STRAIGHT
+156_tosuck,to suck,1421,SUCK
+157_sun,sun,1343,SUN
+158_toswell,to swell,1573,SWELL
+159_toswim,to swim,1439,SWIM
+160_tail,tail,1220,TAIL
+161_that,that,78,THAT
+162_there,there,1937,THERE
+163_they,they,817,THEY
+164_thick,thick,1244,THICK
+165_thin,thin,2308,THIN
+166_think,think,2271,THINK
+167_this,this,1214,THIS
+168_thou,thou,1215,THOU
+169_three,three,492,THREE
+170_tothrow,to throw,1456,THROW
+171_totie,to tie,1917,TIE
+172_tongue,tongue,1205,TONGUE
+173_tooth,tooth,1380,TOOTH
+174_tree,tree,906,TREE
+175_toturn,to turn,1588,TURN
+176_two,two,1498,TWO
+177_tovomit,to vomit,1278,VOMIT
+178_towalk,to walk,1443,WALK
+179_warm,warm,1232,WARM
+180_towash,to wash,1453,WASH
+181_water,water,948,WATER
+182_we,we,1212,WE
+183_wet,wet,1726,WET
+184_what,what,1236,WHAT
+185_when,when,1238,WHEN
+186_where,where,1237,WHERE
+187_white,white,1335,WHITE
+188_who,who,1235,WHO
+189_wide,wide,1243,WIDE
+190_wife,wife,1199,WIFE
+191_wind,wind,960,WIND
+192_wing,wing,1257,WING
+193_towipe,to wipe,1454,WIPE
+194_with,with,1340,WITH
+195_woman,woman,962,WOMAN
+196_woodsforest,"woods, forest",420,FOREST
+197_worm,worm,1219,WORM
+198_yeyoupl,ye > you (pl.),1213,YOU
+199_year,year,1226,YEAR
+200_yellow,yellow,1424,YELLOW

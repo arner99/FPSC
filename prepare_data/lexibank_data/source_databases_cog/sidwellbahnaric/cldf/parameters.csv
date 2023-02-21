@@ -1,0 +1,201 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number
+1_alcoholliquor,alcohol/liquor,404,ALCOHOL (FERMENTED DRINK),1
+2_alivelive,alive/live,1422,BE ALIVE,2
+3_ant,ant,587,ANT,3
+4_arrow,arrow,977,ARROW,4
+5_ashes,ashes,646,ASH,5
+6_bamboo,bamboo,1927,BAMBOO,6
+7_banana,banana,868,BANANA,7
+8_beanspeas,beans/peas,2574,BEAN OR PEA,8
+9_bear,bear,1820,BEAR,9
+10_beehoneybee,bee/honeybee,665,BEE,10
+11_bellystomach,belly/stomach,2114,BELLY OR STOMACH,11
+12_bird,bird,937,BIRD,12
+13_bitter,bitter,887,BITTER,13
+14_black,black,163,BLACK,14
+15_blood,blood,946,BLOOD,15
+16_boat,boat,1844,BOAT,16
+17_bodyhairfeathers,body hair/feathers,2381,FEATHER OR FUR OR HAIR,17
+18_bone,bone,1394,BONE,18
+19_bowcrossbow,"bow, crossbow",3228,BOW OR CROSSBOW,19
+20_brain,brain,1583,BRAIN,20
+21_branch,branch,1531,BRANCH,21
+22_breast,breast,1402,BREAST,22
+23_chickenfowl,chicken/fowl,1318,CHICKEN,23
+24_childson,child/son,2391,BOY OR SON,24
+25_cloud,cloud,1489,CLOUD,25
+26_cold,cold,1287,COLD,26
+27_dog,dog,2009,DOG,27
+28_dry,dry,1398,DRY,28
+29_ear,ear,1247,EAR,29
+30_earthsoil,earth (soil),1228,EARTH (SOIL),30
+31_egg,egg,744,EGG,31
+32_eight,eight,1705,EIGHT,32
+33_eye,eye,1248,EYE,33
+34_fardistant,far/distant,1406,FAR,34
+35_fatoilgrease,fat/oil/grease,2551,ORGANIC FAT OR OIL,35
+36_fearafraid,fear/afraid,1419,FEAR (BE AFRAID),36
+37_fecesexcrementshit,feces/excrement/shit,675,FAECES (EXCREMENT),37
+38_fieldirrigated,field (irrigated),140,PADDY FIELD,38
+39_fieldswiddenhill,field (swidden/hill),429,SWIDDEN FIELD,39
+40_finger,finger,1303,FINGER,40
+41_fire,fire,221,FIRE,41
+42_fish,fish,227,FISH,42
+43_five,five,493,FIVE,43
+44_fleshmeat,flesh/meat,2615,FLESH OR MEAT,44
+45_flower,flower,239,FLOWER,45
+46_foot,foot,1301,FOOT,46
+47_four,four,1500,FOUR,47
+48_frog,frog,503,FROG,48
+49_fruit,fruit,1507,FRUIT,49
+50_full,full,1429,FULL,50
+51_grandchild,grandchild,1617,GRANDCHILD,51
+52_grass,grass,606,GRASS,52
+53_green,green,1425,GREEN,53
+54_hairhead,hair (head),2648,HAIR (HEAD),54
+55_hand,hand,1277,HAND,55
+56_head,head,1256,HEAD,56
+57_heart,heart,1223,HEART,57
+58_heavy,heavy,1210,HEAVY,58
+59_horn,horn,1393,HORN (ANATOMY),59
+60_hotwarm,hot/warm,2272,HOT OR WARM,60
+61_house,house,1252,HOUSE,61
+62_hundred,hundred,1634,HUNDRED,62
+63_ime,"I, me",1209,I,63
+64_intestinegut,intestine/gut,1991,INTESTINES,64
+65_iron,iron,621,IRON,65
+66_leaf,leaf,628,LEAF,66
+67_leechland,leech (land),2273,LEECH,67
+68_leftside,left (side),244,LEFT,68
+69_lightweight,light (weight),1052,LIGHT (WEIGHT),69
+70_liver,liver,1224,LIVER,70
+71_long,long,1203,LONG,71
+72_louse,louse,1392,LOUSE,72
+73_manmalehuman,man (male human),2106,MALE PERSON,73
+74_many,many,1198,MANY,74
+75_medicinejuice,medicine/juice,2268,POTION,75
+76_monkeyape,monkey/ape,3298,APE OR MONKEY,76
+77_moon,moon,1313,MOON,77
+78_mortar,mortar,224,MORTAR,78
+79_mountain,mountain,639,MOUNTAIN,79
+80_mouth,mouth,674,MOUTH,80
+81_mushroomfungus,mushroom/fungus,641,MUSHROOM,81
+82_nailclaw,nail/claw,2128,CLAW OR NAIL,82
+83_name,name,1405,NAME,83
+84_navel,navel,1838,NAVEL,84
+85_near,near,1942,NEAR,85
+86_neck,neck,1333,NECK,86
+87_needle,needle,1382,NEEDLE (FOR SEWING),87
+88_new,new,1231,NEW,88
+89_night,night,1233,NIGHT,89
+90_nine,nine,1483,NINE,90
+91_nose,nose,1221,NOSE,91
+92_old,old,1229,OLD,92
+93_one,one,1493,ONE,93
+94_palmofhand,palm (of hand),1183,PALM OF HAND,94
+95_penis,penis,1222,PENIS,95
+96_person,person,683,PERSON,96
+97_pig,pig,1337,PIG,97
+98_pigeondove,pigeon/dove,1853,DOVE,98
+99_rain,rain,658,RAIN (PRECIPITATION),99
+100_ratmouse,rat/mouse,2139,MUROID (MOUSE OR RAT),100
+101_red,red,156,RED,101
+102_ricecooked,rice (cooked),1191,COOKED RICE,102
+103_riceunhusked,rice (unhusked),2749,UNHUSKED RICE,103
+104_rightside,right (side),1019,RIGHT,104
+105_ripecooked,ripe/cooked,3806,RIPE OR COOKED,105
+106_river,river,666,RIVER,106
+107_roadpath,road/path,2457,PATH OR ROAD,107
+108_root,root,670,ROOT,108
+109_round,round,1395,ROUND,109
+110_salt,salt,1274,SALT,110
+111_sand,sand,671,SAND,111
+112_seed,seed,714,SEED,112
+113_seven,seven,1704,SEVEN,113
+114_shadeshadow,shade/shadow,1388,SHADE,114
+115_shameashamed,shame/ashamed,1894,ASHAMED,115
+116_sharpedged,sharp (edged),1396,SHARP,116
+117_sickill,sick/ill,1847,SICK,117
+118_six,six,1703,SIX,118
+119_skinbark,skin/bark,2127,BARK OR SKIN,119
+120_sky,sky,1732,SKY,120
+121_smoke,smoke,778,SMOKE (EXHAUST),121
+122_snake,snake,730,SNAKE,122
+123_softtouch,soft (touch),1856,SOFT,123
+124_sour,sour,1906,SOUR,124
+125_star,star,1430,STAR,125
+126_stickofwood,stick of wood,1295,STICK,126
+127_stone,stone,857,STONE,127
+128_sunday,sun/day,2140,DAY OR SUN,128
+129_sweet,sweet,717,SWEET,129
+130_tail,tail,1220,TAIL,130
+131_ten,ten,1515,TEN,131
+132_thickobject,thick (object),1244,THICK,132
+133_thinobject,thin (object),2249,THIN (OF SHAPE OF OBJECT),133
+134_thorn,thorn,124,THORN,134
+135_three,three,492,THREE,135
+136_tobeborn,to be born,1090,BE BORN,136
+137_tobite,to bite,1403,BITE,137
+138_toblow,to blow,175,BLOW (OF WIND),138
+139_tobreathebreath,to breathe/breath,3183,BREATH OR BREATHE,139
+140_toburntr,to burn (tr.),141,BURN (SOMETHING),140
+141_tobuy,to buy,1869,BUY,141
+142_toclimbascend,to climb/ascend,705,GO UP (ASCEND),142
+143_tocookboil,to cook/boil,1100,COOK (SOMETHING),143
+144_tocough,to cough,879,COUGH,144
+145_tocryweep,to cry/weep,1839,CRY,145
+146_todescend,to descend,2014,GO DOWN (DESCEND),146
+147_todie,to die,1494,DIE,147
+148_todig,to dig,1418,DIG,148
+149_todream,to dream,1920,DREAM (SOMETHING),149
+150_todrinkwater,to drink (water),1401,DRINK,150
+151_toeat,to eat,1336,EAT,151
+152_toextinguishputout,to extinguish/put out,127,EXTINGUISH,152
+153_tofall,to fall,1280,FALL,153
+154_tofleerunaway,to flee/run (away),956,FLEE,154
+155_tofly,to fly,1441,FLY (MOVE THROUGH AIR),155
+156_toforget,to forget,1523,FORGET,156
+157_togive,to give,1447,GIVE,157
+158_tohear,to hear,1408,HEAR,158
+159_tohideconcealtr,to hide/conceal (tr.),602,HIDE (CONCEAL),159
+160_tohunt,to hunt,1435,HUNT,160
+161_toitchtobeitchy,to itch/to be itchy,3855,ITCH (CAUSE ITCHING OR FEEL ITCHY),161
+162_tokick,to kick,1135,KICK,162
+163_tokill,to kill,1417,KILL,163
+164_toknow,to know,3626,KNOW,164
+165_tolaugh,to laugh,1355,LAUGH,165
+166_tolick,to lick,319,LICK,166
+167_torubwipe,to rub/wipe,1449,RUB,167
+168_tosayspeak,to say/speak,1458,SAY,168
+169_toscratchscrape,to scratch/scrape,1436,SCRATCH,169
+170_tosee,to see,1409,SEE,170
+171_tosell,to sell,1571,SELL,171
+172_tosew,to sew,1457,SEW,172
+173_toshoot,to shoot,1172,SHOOT,173
+174_tosit,to sit,1416,SIT,174
+175_tosleepliedown,to sleep/lie down,2116,REST OR SLEEP,175
+176_tosmellreceiveodor,to smell (receive odor),1586,SMELL (PERCEIVE),176
+177_tospit,to spit,1440,SPIT,177
+178_tostand,to stand,1442,STAND,178
+179_tosteal,to steal,713,STEAL,179
+180_totiebind,to tie/bind,1917,TIE,180
+181_tourinateurine,to urinate/urine,592,PISS,181
+182_tovomit,to vomit,1278,VOMIT,182
+183_towakeupawaken,to wake up/awaken,1602,WAKE UP,183
+184_towalkgo,to walk/go,1443,WALK,184
+185_towashhandsthings,"to wash (hands, things)",1453,WASH,185
+186_toweave,to weave,133,WEAVE,186
+187_tongue,tongue,1205,TONGUE,187
+188_tooth,tooth,1380,TOOTH,188
+189_tree,tree,906,TREE,189
+190_two,two,1498,TWO,190
+191_village,village,930,VILLAGE,191
+192_water,water,948,WATER,192
+193_white,white,1335,WHITE,193
+194_windair,wind/air,960,WIND,194
+195_wing,wing,1257,WING,195
+196_woman,woman,962,WOMAN,196
+197_year,year,1226,YEAR,197
+198_yellow,yellow,1424,YELLOW,198
+199_youplye,you (pl.) (ye),1213,YOU,199
+200_yousingthou,you (sing.) (thou),1215,THOU,200
