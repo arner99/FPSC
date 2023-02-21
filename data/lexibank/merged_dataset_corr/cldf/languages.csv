@@ -1,0 +1,767 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
+Tupinamba,Tupinambá,South America,-22.807778,-42.106389,tupi1273,tpn
+Omagua,Omagua,South America,-3.526,-69.1667,omag1248,omg
+Kokama,Kokama,South America,,,coca1260,
+EasternLuobuohe,"Luobuohe, Eastern",Eurasia,26.63966,107.913354,luop1235,hml
+WesternLuobuohe,"Luobuohe, Western",Eurasia,26.854607,107.226676,luop1235,hml
+Chuanqiandian,Chuanqiandian,,27.51846,105.421028,chua1248,cqd
+CentralGuizhouChuanqiandian,"Chuanqiandian, Central Guizhou",Eurasia,26.231562,106.861969,nort2749,hmi
+SouthernGuizhouChuanqiandian,"Chuanqiandian, Southern Guizhou",Eurasia,25.586343,106.323467,cent1394,hmm
+NortheastYunnanChuanqiandian,"Chuanqiandian, Northeast Yunnan",Eurasia,27.096059,103.698607,larg1235,hmd
+WesternXiangxi,"Xiangxi, West",Eurasia,28.33212,109.422366,west2430,mmr
+EasternXiangxi,"Xiangxi, East",Eurasia,28.124036,109.890473,east2371,muq
+NorthernQiandong,"Qiandong, North",Eurasia,26.68993,108.401145,nort2747,hea
+EasternQiandong,"Qiandong, East",Eurasia,27.78098,110.499463,east2370,hmq
+SouthernQiandong,"Qiandong, South",Eurasia,25.520166,108.779365,sout2754,hms
+WesternQiandong,"Qiandong, West",,26.43106,107.68758,,
+WesternBaheng,"Baheng, West",Eurasia,25.74971,109.286281,pahn1237,pha
+EasternBaheng,"Baheng, East",Eurasia,27.11733,111.02615,pahn1237,pha
+Dongnu,Dongnu,Eurasia,24.201523,107.957327,dong1287,bwx
+Nunu,Nunu,Eurasia,24.232341,107.194266,nunu1247,bwx
+Numao,Numao,Eurasia,25.447767,108.064732,numa1251,bwx
+Bana,Bana,Eurasia,26.265147,110.096902,pana1310,
+Younuo,Younuo,Eurasia,25.730893,110.115975,youn1235,buh
+She,She,Eurasia,26.264261,110.096988,shee1238,shx
+Jiongnai,Jiongnai,Eurasia,24.071002,110.105752,jion1236,pnu
+Mien,Mien,Eurasia,24.172823,110.054488,iumi1238,ium
+KimMun,Kim Mun,Eurasia,18.955781,109.86012,kimm1245,mji
+BiaoMin,Biao Min,Eurasia,25.82286,111.29622,biao1254,bje
+ZaoMin,Zao Min,Eurasia,24.612303,112.266749,dzao1238,bpn
+finnish,Finnish,,,,finn1318,fin
+northkarelian,North Karelian,,,,kare1335,krl
+olonetskarelian,Olonets Karelian,,,,livv1243,olo
+veps,Veps,,,,veps1250,vep
+estonian,Estonian,,,,esto1258,ekk
+livonian,Livonian,,,,livv1244,liv
+southernsami,Southern Sami,,,,sout2674,sma
+lulesami,Lule Sami,,,,lule1254,smj
+northernsami,Northern Sami,,,,nort2671,sme
+inarisami,Inari Sami,,,,inar1241,smn
+skoltsami,Skolt Sami,,,,skol1241,sms
+kildinsami,Kildin Sami,,,,kild1236,sjd
+hillmari,Hill Mari,,,,west2392,mrj
+meadowmari,Meadow Mari,,,,east2328,mhr
+moksha,Moksha,,,,moks1248,mdf
+erzya,Erzya,,,,erzy1239,myv
+udmurt,Udmurt,,,,udmu1245,udm
+komipermyak,Komi-Permyak,,,,komi1269,koi
+komizyrian,Komi-Zyrian,,,,komi1268,kpv
+hungarian,Hungarian,,,,hung1274,hun
+northernkhanty,Northern Khanty,,,,khan1273,kca
+northernmansi,Northern Mansi,,,,mans1258,mns
+northernselkup,Northern Selkup,,,,selk1253,sel
+tundranenets,Tundra Nenets,,,,nene1249,yrk
+forestenets,Forest Enets,,,,fore1265,enf
+nganasan,Nganasan,,,,ngan1291,nio
+bengali,Bengali,,,,beng1280,ben
+hindi,Hindi,,,,hind1269,hin
+northernpashto,Northern Pashto,,,,nort2646,pbu
+westernfarsi,Western Farsi,,,,west2369,pes
+northernkurdish,Northern Kurdish,,,,nort2641,kmr
+ossetian,Ossetian,,,,osse1243,oss
+armenian,Armenian,,,,nucl1235,hye
+moderngreek,Modern Greek,,,,mode1248,ell
+standardalbanian,Standard Albanian,,,,alba1267,sqi
+bulgarian,Bulgarian,,,,bulg1262,bul
+croatian,Croatian,,,,croa1245,hrv
+slovene,Slovene,,,,slov1268,slv
+slovak,Slovak,,,,slov1269,slk
+czech,Czech,,,,czec1258,ces
+polish,Polish,,,,poli1260,pol
+ukrainian,Ukrainian,,,,ukra1253,ukr
+belarusian,Belarusian,,,,bela1254,bel
+russian,Russian,,,,russ1263,rus
+lithuanian,Lithuanian,,,,lith1251,lit
+latvian,Latvian,,,,latv1249,lav
+icelandic,Icelandic,,,,icel1247,isl
+norwegianbokmal,Norwegian (Bokmål),,,,norw1258,nor
+swedish,Swedish,,,,swed1254,swe
+danish,Danish,,,,dani1285,dan
+german,German,,,,stan1295,deu
+dutch,Dutch,,,,dutc1256,nld
+english,English,,,,stan1293,eng
+irish,Irish,,,,iris1253,gle
+welsh,Welsh,,,,wels1247,cym
+breton,Breton,,,,bret1244,bre
+latin,Latin,,,,lati1261,lat
+french,French,,,,stan1290,fra
+catalan,Catalan,,,,stan1289,cat
+spanish,Spanish,,,,stan1288,spa
+portuguese,Portuguese,,,,port1283,por
+italian,Italian,,,,ital1282,ita
+romanian,Romanian,,,,roma1327,ron
+turkish,Turkish,,,,nucl1301,tur
+northazerbaijani,North Azerbaijani,,,,nort2697,azj
+northernuzbek,Northern Uzbek,,,,nort2690,uzn
+kazakh,Kazakh,,,,kaza1248,kaz
+bashkir,Bashkir,,,,bash1264,bak
+tatar,Tatar,,,,tata1255,tat
+sakha,Sakha,,,,yaku1245,sah
+chuvash,Chuvash,,,,chuv1255,chv
+khalkhamongolian,Khalkha Mongolian,,,,halh1238,khk
+buryat,Buryat,,,,buri1258,bua
+kalmyk,Kalmyk,,,,kalm1243,xal
+evenki,Evenki,,,,even1259,evn
+manchu,Manchu,,,,manc1252,mnc
+nanai,Nanai,,,,nana1257,gld
+ket,Ket,,,,kett1243,ket
+northernyukaghir,Northern Yukaghir,,,,nort2745,ykg
+southernyukaghir,Southern Yukaghir,,,,sout2750,yux
+itelmen,Itelmen,,,,itel1242,itl
+chukchi,Chukchi,,,,chuk1273,ckt
+nivkh,Nivkh,,,,gily1242,niv
+hokkaidoainu,Hokkaido Ainu,,,,ainu1240,ain
+korean,Korean,,,,kore1280,kor
+japanese,Japanese,,,,nucl1643,jpn
+aleut,Aleut,,,,aleu1260,ale
+centralsiberianyupik,Central Siberian Yupik,,,,cent2128,ess
+kalaallisut,Kalaallisut,,,,kala1399,kal
+kannada,Kannada,,,,nucl1305,kan
+malayalam,Malayalam,,,,mala1464,mal
+tamil,Tamil,,,,tami1289,tam
+telugu,Telugu,,,,telu1262,tel
+burushaski,Burushaski,,,,buru1296,bsk
+georgian,Georgian,,,,nucl1302,kat
+basque,Basque,,,,basq1248,eus
+abkhaz,Abkhaz,,,,abkh1244,abk
+adyghe,Adyghe,,,,adyg1241,ady
+avar,Avar,,,,avar1256,ava
+tsez,Tsez,,,,dido1241,ddo
+lak,Lak,,,,lakk1252,lbe
+lezgian,Lezgian,,,,lezg1247,lez
+dargwa,Dargwa,,,,darg1241,dar
+chechen,Chechen,,,,chec1245,che
+standardarabic,Standard Arabic,,,,stan1318,arb
+modernhebrew,Modern Hebrew,,,,hebr1245,heb
+mandarinchinese,Mandarin Chinese,,,,mand1415,cmn
+Chimborazo,Chimborazo,,,,,
+Tena,Tena,,,,,
+Inkawasi,Inkawasi,,,,,
+Cajamarca,Cajamarca,,,,,
+Corongo,Corongo,,,,,
+Caraz,Caraz,,,,,
+Chavin,Chavín,,,,,
+Huancayo,Huancayo,,,,,
+Huancavelica,Huancavelica,,,,,
+Cuzco,Cuzco,,,,,
+Puno,Puno,,,,,
+Taquile,Taquile,,,,,
+Apolobamba,Apolobamba,,,,,
+Cochabamba,Cochabamba,,,,,
+Sucre,Sucre,,,,,
+Kawki,Kawki,,,,,
+Jaqaru,Jaqaru,,,,,
+Huancane,Huancané,,,,,
+Tiwanaku,Tiwanaku,,,,,
+Oruro,Oruro,,,,,
+Eryuan,Ěryuán,Eurasia,26.538056,99.910000,eryu1239,
+Heqing,Hèqìng,Eurasia,26.0991374,99.9416161,heqi1238,
+Jianchuan,Jiànchuàn,Eurasia,26.5536208,100.1396921,jian1239,
+Lanping,Lánpíng,Eurasia,26.5158555,99.2581092,lanp1241,
+Luobenzhuo,Luòběnzhuō,Eurasia,26.4240223,98.8862088,nuji1238,
+Qiliqiao,Qīlǐqiáo,Eurasia,25.6553283,100.1709288,qili1234,
+Xiangyun,Xiángyún,Eurasia,25.5313657,100.4478932,xian1250,
+Yunlong,Yúnlóng,Eurasia,25.9223745,99.0352884,yunl1238,
+Zhoucheng,Zhōuchéng,Eurasia,25.8958633,100.0987848,zhou1234,
+Dashi,Dàshí,,26.3530106,100.1930442,,
+Ega,Égà,Eurasia,26.4858945,98.8528962,egab1234,
+Enqi,Ēnqī,Eurasia,26.4738155,99.1189832,enqi1234,
+Gongxing,Gōngxìng,,27.0852794,99.1652452,,
+Jinman,Jīnmǎn,Eurasia,26.4154856,99.1285952,nuji1238,
+Jinxing,Jīnxīng,,24.9259218,103.1237482,,
+Mazhelong,Mǎzhělóng,,24.1677209,104.1950232,,
+Tuoluo,Tuōluò,Eurasia,23.3833337,102.1839821,tuol1234,
+Aldomirovcislivnica,Aldomirovci (slivnica),Eurasia,25.8958826,100.0988062,zhou1234,
+Asparuhovolom,Asparuhovo (lom),Eurasia,,,bulg1262,bul
+Asparuhovoprov,Asparuhovo (prov),Eurasia,,,bulg1262,bul
+Babjakrazl,Babjak (razl),Eurasia,,,bulg1262,bul
+Bachkovoasgr,Bachkovo (asgr),Eurasia,,,bulg1262,bul
+Bagrencikjust,Bagrenci (kjust),Eurasia,,,bulg1262,bul
+Balgaricarev,Balgari (carev),Eurasia,,,bulg1262,bul
+Banishtebrezn,Banishte (brezn),Eurasia,,,bulg1262,bul
+Banskorazl,Bansko (razl),Eurasia,,,bulg1262,bul
+Beglezhluk,Beglezh (luk),Eurasia,,,bulg1262,bul
+Belenesvisht,Belene (svisht),Eurasia,,,bulg1262,bul
+Belicarazl,Belica (razl),Eurasia,,,bulg1262,bul
+Bistricablgr,Bistrica (blgr),Eurasia,,,bulg1262,bul
+Bogdanovdolpern,Bogdanov dol (pern),Eurasia,,,bulg1262,bul
+Borisovoelh,Borisovo (elh),Eurasia,,,bulg1262,bul
+Bovsvog,Bov (svog),Eurasia,,,bulg1262,bul
+Brashljanmtarn,Brashljan (mtarn),Eurasia,,,bulg1262,bul
+Buchinprohodgod,Buchin prohod (god),Eurasia,,,bulg1262,bul
+Caparevosand,Caparevo (sand),Eurasia,,,bulg1262,bul
+Cerovicakjust,Cerovica (kjust),Eurasia,,,bulg1262,bul
+Chepelareasgr,Chepelare (asgr),Eurasia,,,bulg1262,bul
+Chernogorovopaz,Chernogorovo (paz),Eurasia,,,bulg1262,bul
+Chernomorecbs,Chernomorec (bs),Eurasia,,,bulg1262,bul
+Chukovecradom,Chukovec (radom),Eurasia,,,bulg1262,bul
+Dermanciluk,Dermanci (luk),Eurasia,,,bulg1262,bul
+Devenciluk,Devenci (luk),Eurasia,,,bulg1262,bul
+Devesilicakrgr,Devesilica (krgr),Eurasia,,,bulg1262,bul
+Dichinvtarn,Dichin (vtarn),Eurasia,,,bulg1262,bul
+Dinevohask,Dinevo (hask),Eurasia,,,bulg1262,bul
+Divaslatinamont,Diva slatina (mont),Eurasia,,,bulg1262,bul
+Divdjadovoshum,Divdjadovo (shum),Eurasia,,,bulg1262,bul
+Dobarskorazl,Dobarsko (razl),Eurasia,,,bulg1262,bul
+Dobroselectopgr,Dobroselec (topgr),Eurasia,,,bulg1262,bul
+Dobroslavcisof,Dobroslavci (sof),Eurasia,,,bulg1262,bul
+Dobrotinogd,Dobrotino (gd),Eurasia,,,bulg1262,bul
+Dolnabeshovicavrach,Dolna beshovica (vrach),Eurasia,,,bulg1262,bul
+Dolnadikanjaradom,Dolna dikanja (radom),Eurasia,,,bulg1262,bul
+Dolnamelnatran,Dolna melna (tran),Eurasia,,,bulg1262,bul
+Dolnariksamont,Dolna riksa (mont),Eurasia,,,bulg1262,bul
+Dolnasrudenabel,Dolna srudena (bel),Eurasia,,,bulg1262,bul
+Dolnibogrovsof,Dolni bogrov (sof),Eurasia,,,bulg1262,bul
+Dolnolevskipan,Dolno levski (pan),Eurasia,,,bulg1262,bul
+Dorkovovelgr,Dorkovo (velgr),Eurasia,,,bulg1262,bul
+Drabishnaivgr,Drabishna (ivgr),Eurasia,,,bulg1262,bul
+Dragizhevovtarn,Dragizhevo (vtarn),Eurasia,,,bulg1262,bul
+Dragodanovosliv,Dragodanovo (sliv),Eurasia,,,bulg1262,bul
+Dragoevopresl,Dragoevo (presl),Eurasia,,,bulg1262,bul
+Dragojchincikjust,Dragojchinci (kjust),Eurasia,,,bulg1262,bul
+Elovdolpk,Elov dol (pk),Eurasia,,,bulg1262,bul
+Eninakaz,Enina (kaz),Eurasia,,,bulg1262,bul
+Ezerovoparvom,Ezerovo (parvom),Eurasia,,,bulg1262,bul
+Furenvrach,Furen (vrach),Eurasia,,,bulg1262,bul
+Gabarebslat,Gabare (bslat),Eurasia,,,bulg1262,bul
+Gabraelpel,Gabra (elpel),Eurasia,,,bulg1262,bul
+Galatatetev,Galata (tetev),Eurasia,,,bulg1262,bul
+Ganchovecdrjan,Ganchovec (drjan),Eurasia,,,bulg1262,bul
+Garmengd,Garmen (gd),Eurasia,,,bulg1262,bul
+Garvansil,Garvan (sil),Eurasia,,,bulg1262,bul
+Gegapetr,Gega (petr),Eurasia,,,bulg1262,bul
+Glozheneorjah,Glozhene (orjah),Eurasia,,,bulg1262,bul
+Golemarakovicaelpel,Golema rakovica (elpel),Eurasia,,,bulg1262,bul
+Golemomalovosliven,Golemo malovo (sliven),Eurasia,,,bulg1262,bul
+Golicavarn,Golica (varn),Eurasia,,,bulg1262,bul
+Goljamazheljaznatetev,Goljama zheljazna (tetev),Eurasia,,,bulg1262,bul
+Goljamoshivachevosliv,Goljamo shivachevo (sliv),Eurasia,,,bulg1262,bul
+Gornarosicasevl,Gorna rosica (sevl),Eurasia,,,bulg1262,bul
+Gornivarpishtadrjan,Gorni varpishta (drjan),Eurasia,,,bulg1262,bul
+Govedarcisam,Govedarci (sam),Eurasia,,,bulg1262,bul
+Gradecvd,Gradec (vd),Eurasia,,,bulg1262,bul
+Huhlaivgr,Huhla (ivgr),Eurasia,,,bulg1262,bul
+Hvojnaasgr,Hvojna (asgr),Eurasia,,,bulg1262,bul
+Indzhevojvodamtarn,Indzhe vojvoda (mtarn),Eurasia,,,bulg1262,bul
+Ivanskishum,Ivanski (shum),Eurasia,,,bulg1262,bul
+Izvorovoharm,Izvorovo (harm),Eurasia,,,bulg1262,bul
+Javorovoasgr,Javorovo (asgr),Eurasia,,,bulg1262,bul
+Kalipetrovosil,Kalipetrovo (sil),Eurasia,,,bulg1262,bul
+Kalojanovoplov,Kalojanovo (plov),Eurasia,,,bulg1262,bul
+Karaisenpavl,Karaisen (pavl),Eurasia,,,bulg1262,bul
+Karanovoajt,Karanovo (ajt),Eurasia,,,bulg1262,bul
+Kaspichannp,Kaspichan (np),Eurasia,,,bulg1262,bul
+Koljumarinovochirp,Kolju marinovo (chirp),Eurasia,,,bulg1262,bul
+Konskabrezn,Konska (brezn),Eurasia,,,bulg1262,bul
+Kopilovcimont,Kopilovci (mont),Eurasia,,,bulg1262,bul
+Koprivshticapird,Koprivshtica (pird),Eurasia,,,bulg1262,bul
+Kortennzag,Korten (nzag),Eurasia,,,bulg1262,bul
+Kosteneciht,Kostenec (iht),Eurasia,,,bulg1262,bul
+Kovachevcisam,Kovachevci (sam),Eurasia,,,bulg1262,bul
+Kozichinopom,Kozichino (pom),Eurasia,,,bulg1262,bul
+Kramolinsevl,Kramolin (sevl),Eurasia,,,bulg1262,bul
+Kraveniksevl,Kravenik (sevl),Eurasia,,,bulg1262,bul
+Kretavrach,Kreta (vrach),Eurasia,,,bulg1262,bul
+Krivnjarazgr,Krivnja (razgr),Eurasia,,,bulg1262,bul
+Levunovosand,Levunovo (sand),Eurasia,,,bulg1262,bul
+Liljachevr,Liljache (vr),Eurasia,,,bulg1262,bul
+Lipnicabotgr,Lipnica (botgr),Eurasia,,,bulg1262,bul
+Ljubenovamahalanzag,Ljubenova mahala (nzag),Eurasia,,,bulg1262,bul
+Loboshrad,Lobosh (rad),Eurasia,,,bulg1262,bul
+Lozensof,Lozen (sof),Eurasia,,,bulg1262,bul
+Malomirovoelh,Malomirovo (elh),Eurasia,,,bulg1262,bul
+Marchaevosof,Marchaevo (sof),Eurasia,,,bulg1262,bul
+Marikostinovopetr,Marikostinovo (petr),Eurasia,,,bulg1262,bul
+Markovoshum,Markovo (shum),Eurasia,,,bulg1262,bul
+Merdanjavtarn,Merdanja (vtarn),Eurasia,,,bulg1262,bul
+Merichlerichirp,Merichleri (chirp),Eurasia,,,bulg1262,bul
+Mihalcipavl,Mihalci (pavl),Eurasia,,,bulg1262,bul
+Milchinalakakul,Milchina laka (kul),Eurasia,,,bulg1262,bul
+Momchilovcismol,Momchilovci (smol),Eurasia,,,bulg1262,bul
+Mominabanjapl,Momina banja (pl),Eurasia,,,bulg1262,bul
+Mominaklisurapz,Momina klisura (pz),Eurasia,,,bulg1262,bul
+Momkovosvgr,Momkovo (svgr),Eurasia,,,bulg1262,bul
+Mugladev,Mugla (dev),Eurasia,,,bulg1262,bul
+Nikolovolipnikrus,Nikolovo(lipnik) (rus),Eurasia,,,bulg1262,bul
+Nikolovohask,Nikolovo (hask),Eurasia,,,bulg1262,bul
+Noevcibrezn,Noevci (brezn),Eurasia,,,bulg1262,bul
+Novalovchagd,Nova lovcha (gd),Eurasia,,,bulg1262,bul
+Novanadezhdahs,Nova nadezhda (hs),Eurasia,,,bulg1262,bul
+Novoselotrojan,Novo selo (trojan),Eurasia,,,bulg1262,bul
+Ognenkarn,Ognen (karn),Eurasia,,,bulg1262,bul
+Omarchevonzag,Omarchevo (nzag),Eurasia,,,bulg1262,bul
+Opanstzag,Opan (stzag),Eurasia,,,bulg1262,bul
+Osenecrazgr,Osenec (razgr),Eurasia,,,bulg1262,bul
+Panagjurishtegd,Panagjurishte (gd),Eurasia,,,bulg1262,bul
+Paskalevecpavl,Paskalevec (pavl),Eurasia,,,bulg1262,bul
+Pavelskoasgr,Pavelsko (asgr),Eurasia,,,bulg1262,bul
+Pelatikovokjust,Pelatikovo (kjust),Eurasia,,,bulg1262,bul
+Petarnicaplev,Petarnica (plev),Eurasia,,,bulg1262,bul
+Pevectarg,Pevec (targ),Eurasia,,,bulg1262,bul
+Plakovovt,Plakovo (vt),Eurasia,,,bulg1262,bul
+Podviskarn,Podvis (karn),Eurasia,,,bulg1262,bul
+Pozharevotutr,Pozharevo (tutr),Eurasia,,,bulg1262,bul
+Rabishabelgr,Rabisha (belgr),Eurasia,,,bulg1262,bul
+Radovenevr,Radovene (vr),Eurasia,,,bulg1262,bul
+Rakevovr,Rakevo (vr),Eurasia,,,bulg1262,bul
+Rakovicakul,Rakovica (kul),Eurasia,,,bulg1262,bul
+Ranilugtryn,Rani lug (tryn),Eurasia,,,bulg1262,bul
+Razboishtegod,Razboishte (god),Eurasia,,,bulg1262,bul
+Ruzhincibelgr,Ruzhinci (belgr),Eurasia,,,bulg1262,bul
+Sadinapop,Sadina (pop),Eurasia,,,bulg1262,bul
+Saparevodup,Saparevo (dup),Eurasia,,,bulg1262,bul
+Sekirovoplov,Sekirovo (plov),Eurasia,,,bulg1262,bul
+Senokosblgr,Senokos (blgr),Eurasia,,,bulg1262,bul
+Sestrinopetr,Sestrino (petr),Eurasia,,,bulg1262,bul
+Shipkakaz,Shipka (kaz),Eurasia,,,bulg1262,bul
+Shirokalakadev,Shiroka laka (dev),Eurasia,,,bulg1262,bul
+Shirokidolsam,Shiroki dol (sam),Eurasia,,,bulg1262,bul
+Shtipskoprov,Shtipsko (prov),Eurasia,,,bulg1262,bul
+Skobelevosliv,Skobelevo (sliv),Eurasia,,,bulg1262,bul
+Slaveinosmol,Slaveino (smol),Eurasia,,,bulg1262,bul
+Slavjanovoplev,Slavjanovo (plev),Eurasia,,,bulg1262,bul
+Smochevodupn,Smochevo (dupn),Eurasia,,,bulg1262,bul
+Smolskopird,Smolsko (pird),Eurasia,,,bulg1262,bul
+Solishtadev,Solishta (dev),Eurasia,,,bulg1262,bul
+Sredeczlgr,Sredec (zlgr),Eurasia,,,bulg1262,bul
+Stakevciblgr,Stakevci (blgr),Eurasia,,,bulg1262,bul
+Stambolovohask,Stambolovo (hask),Eurasia,,,bulg1262,bul
+Starmenbel,Starmen (bel),Eurasia,,,bulg1262,bul
+Stoilovomt,Stoilovo (mt),Eurasia,,,bulg1262,bul
+Straldzhajamb,Straldzha (jamb),Eurasia,,,bulg1262,bul
+Stroevoplov,Stroevo (plov),Eurasia,,,bulg1262,bul
+Suhindolvtarn,Suhindol (vtarn),Eurasia,,,bulg1262,bul
+Sushicablgr,Sushica (blgr),Eurasia,,,bulg1262,bul
+Svetlinatopgr,Svetlina (topgr),Eurasia,,,bulg1262,bul
+Svirkovoharm,Svirkovo (harm),Eurasia,,,bulg1262,bul
+Tihomirkrgr,Tihomir (krgr),Eurasia,,,bulg1262,bul
+Tihomirovostzag,Tihomirovo (stzag),Eurasia,,,bulg1262,bul
+Topolchanesliv,Topolchane (sliv),Eurasia,,,bulg1262,bul
+Trancovicanik,Trancovica (nik),Eurasia,,,bulg1262,bul
+Trastenikplev,Trastenik (plev),Eurasia,,,bulg1262,bul
+Ustovosm,Ustovo (sm),Eurasia,,,bulg1262,bul
+Vabelnik,Vabel (nik),Eurasia,,,bulg1262,bul
+Vaklinovogd,Vaklinovo (gd),Eurasia,,,bulg1262,bul
+Valchepolesvgr,Valche pole (svgr),Eurasia,,,bulg1262,bul
+Varbicapresl,Varbica (presl),Eurasia,,,bulg1262,bul
+Varbovoblgr,Varbovo (blgr),Eurasia,,,bulg1262,bul
+Varduntarg,Vardun (targ),Eurasia,,,bulg1262,bul
+Varvarapaz,Varvara (paz),Eurasia,,,bulg1262,bul
+Vasiljovotetev,Vasiljovo (tetev),Eurasia,,,bulg1262,bul
+Velkovcipk,Velkovci (pk),Eurasia,,,bulg1262,bul
+Vinarovovid,Vinarovo (vid),Eurasia,,,bulg1262,bul
+Vinishtemont,Vinishte (mont),Eurasia,,,bulg1262,bul
+Vladinjalov,Vladinja (lov),Eurasia,,,bulg1262,bul
+Vodenelh,Voden (elh),Eurasia,,,bulg1262,bul
+Vojnjagovokarl,Vojnjagovo (karl),Eurasia,,,bulg1262,bul
+Vracheshbotgr,Vrachesh (botgr),Eurasia,,,bulg1262,bul
+Vranilovcigabr,Vranilovci (gabr),Eurasia,,,bulg1262,bul
+Vresovoajt,Vresovo (ajt),Eurasia,,,bulg1262,bul
+Zabardoasgr,Zabardo (asgr),Eurasia,,,bulg1262,bul
+Zabernovomt,Zabernovo (mt),Eurasia,,,bulg1262,bul
+Zamfirovoberk,Zamfirovo (berk),Eurasia,,,bulg1262,bul
+Zanozheneberk,Zanozhene (berk),Eurasia,,,bulg1262,bul
+Zdravkovecgabr,Zdravkovec (gabr),Eurasia,,,bulg1262,bul
+Zelenigradtran,Zelenigrad (tran),Eurasia,,,bulg1262,bul
+Zhaltushaard,Zhaltusha (ard),Eurasia,,,bulg1262,bul
+Zheglicavid,Zheglica (vid),Eurasia,,,bulg1262,bul
+Zhelensvog,Zhelen (svog),Eurasia,,,bulg1262,bul
+Zheljazkovosred,Zheljazkovo (sred),Eurasia,,,bulg1262,bul
+Zheravnakot,Zheravna (kot),Eurasia,,,bulg1262,bul
+MidslandFr,Midsland (Fr),Eurasia,,,dutc1256,nld
+LiesFr,Lies (Fr),Eurasia,,,dutc1256,nld
+WestTerschellingFr,West-Terschelling (Fr),Eurasia,,,dutc1256,nld
+DenHoornNH,Den Hoorn (NH),Eurasia,,,dutc1256,nld
+BurenFr,Buren (Fr),Eurasia,,,dutc1256,nld
+OosterendFr,Oosterend (Fr),Eurasia,,,dutc1256,nld
+HolwerdFr,Holwerd (Fr),Eurasia,,,dutc1256,nld
+WierumFr,Wierum (Fr),Eurasia,,,dutc1256,nld
+KantensGn,Kantens (Gn),Eurasia,,,dutc1256,nld
+LeermensGn,Leermens (Gn),Eurasia,,,dutc1256,nld
+AduardGn,Aduard (Gn),Eurasia,,,dutc1256,nld
+SintAnnenGn,Sint-Annen (Gn),Eurasia,,,dutc1256,nld
+ScheveningenZH,Scheveningen (ZH),Eurasia,,,dutc1256,nld
+WateringenZH,Wateringen (ZH),Eurasia,,,dutc1256,nld
+CallantsoogNH,Callantsoog (NH),Eurasia,,,dutc1256,nld
+SchagenNH,Schagen (NH),Eurasia,,,dutc1256,nld
+KoedijkNH,Koedijk (NH),Eurasia,,,dutc1256,nld
+AbbekerkNH,Abbekerk (NH),Eurasia,,,dutc1256,nld
+WorkumFr,Workum (Fr),Eurasia,,,dutc1256,nld
+OudeschootFr,Oudeschoot (Fr),Eurasia,,,dutc1256,nld
+SlotenFr,Sloten (Fr),Eurasia,,,dutc1256,nld
+NijeholtpadeFr,Nijeholtpade (Fr),Eurasia,,,dutc1256,nld
+SmildeDr,Smilde (Dr),Eurasia,,,dutc1256,nld
+MusselGn,Mussel (Gn),Eurasia,,,dutc1256,nld
+ValthermondDr,Valthermond (Dr),Eurasia,,,dutc1256,nld
+TerApelGn,Ter Apel (Gn),Eurasia,,,dutc1256,nld
+KnokkeBeWv,Knokke (BeWv),Eurasia,,,dutc1256,nld
+OostendeBeWv,Oostende (BeWv),Eurasia,,,dutc1256,nld
+KoekelareBeWv,Koekelare (BeWv),Eurasia,,,dutc1256,nld
+ZuydcooteFrVl,Zuydcoote (FrVl),Eurasia,,,dutc1256,nld
+BrielleZH,Brielle (ZH),Eurasia,,,dutc1256,nld
+PiershilZH,Piershil (ZH),Eurasia,,,dutc1256,nld
+HaamstedeZe,Haamstede (Ze),Eurasia,,,dutc1256,nld
+BrouwershavenZe,Brouwershaven (Ze),Eurasia,,,dutc1256,nld
+GouderakZH,Gouderak (ZH),Eurasia,,,dutc1256,nld
+AmeideZH,Ameide (ZH),Eurasia,,,dutc1256,nld
+BuurmalsenGl,Buurmalsen (Gl),Eurasia,,,dutc1256,nld
+AlmkerkNB,Almkerk (NB),Eurasia,,,dutc1256,nld
+IngenGl,Ingen (Gl),Eurasia,,,dutc1256,nld
+RenkumGl,Renkum (Gl),Eurasia,,,dutc1256,nld
+ZevenaarGl,Zevenaar (Gl),Eurasia,,,dutc1256,nld
+NijmegenGl,Nijmegen (Gl),Eurasia,,,dutc1256,nld
+VarsseveldGl,Varsseveld (Gl),Eurasia,,,dutc1256,nld
+SilvoldeGl,Silvolde (Gl),Eurasia,,,dutc1256,nld
+UlftGl,Ulft (Gl),Eurasia,,,dutc1256,nld
+PoperingeBeWv,Poperinge (BeWv),Eurasia,,,dutc1256,nld
+MoorsledeBeWv,Moorslede (BeWv),Eurasia,,,dutc1256,nld
+KortrijkBeWv,Kortrijk (BeWv),Eurasia,,,dutc1256,nld
+MouscronBe,Mouscron (Be),Eurasia,,,dutc1256,nld
+NazarethBeOv,Nazareth (BeOv),Eurasia,,,dutc1256,nld
+WaregemBeWv,Waregem (BeWv),Eurasia,,,dutc1256,nld
+OoikeBeOv,Ooike (BeOv),Eurasia,,,dutc1256,nld
+HumbeekBeBr,Humbeek (BeBr),Eurasia,,,dutc1256,nld
+MeerbeekBeBr,Meerbeek (BeBr),Eurasia,,,dutc1256,nld
+WalshoutemBeBr,Walshoutem (BeBr),Eurasia,,,dutc1256,nld
+ZutendaalBeLb,Zutendaal (BeLb),Eurasia,,,dutc1256,nld
+SchinnenLb,Schinnen (Lb),Eurasia,,,dutc1256,nld
+BilzenBeLb,Bilzen (BeLb),Eurasia,,,dutc1256,nld
+KerkradeLb,Kerkrade (Lb),Eurasia,,,dutc1256,nld
+BrouckerqueFrVl,Brouckerque (FrVl),Eurasia,,,dutc1256,nld
+BollezeeleFrVl,Bollezeele (FrVl),Eurasia,,,dutc1256,nld
+NieurletFrVl,Nieurlet (FrVl),Eurasia,,,dutc1256,nld
+AmericanEnglish,American English,,,,,
+CanadianEnglish,Canadian English,,,,,
+CentralGermanCologne,Central German (Cologne),,,,,
+CentralGermanHonigberg,Central German (Honigberg),,,,,
+CentralGermanLuxembourg,Central German (Luxembourg),,,,,
+CentralGermanMurrhardt,Central German (Murrhardt),,,,,
+Danish,Danish,,,,,
+DutchAntwerp,Dutch (Antwerp),,,,,
+BelgianDutch,Belgian Dutch,,,,,
+DutchLimburg,Dutch (Limburg),,,,,
+DutchOstend,Dutch (Ostend),,,,,
+Dutch,Dutch,,,,,
+NewZealandEnglishAuckland,New Zealand English (Auckland),,,,,
+EnglishBuckie,English (Buckie),,,,,
+IndianEnglishDelhi,Indian English (Delhi),,,,,
+NigerianEnglishIgbo,Nigerian English (Igbo),,,,,
+SouthAfricanEnglishJohannisburg,South African English (Johannisburg),,,,,
+EnglishLindisfarne,English (Lindisfarne),,,,,
+EnglishLiverpool,English (Liverpool,,,,,
+EnglishLondon,English (London,,,,,
+EnglishNorthCarolina,English (North Carolina),,,,,
+AustralianEnglishPerth,Australian English (Perth),,,,,
+EnglishSingapore,English (Singapore),,,,,
+English,English,,,,,
+EnglishTyrone,English (Tyrone),,,,,
+Faroese,Faroese,,,,,
+German,German,,,,,
+HighGermanNorthAlsace,High German (North Alsace),,,,,
+HighGermanBiel,High German (Biel),,,,,
+HighGermanBodensee,High German (Bodensee),,,,,
+HighGermanGraubuenden,High German (Graubuenden),,,,,
+HighGermanHerrlisheim,High German (Herrlisheim),,,,,
+HighGermanOrtisei,High German (Ortisei),,,,,
+HighGermanTuebingen,High German (Tuebingen),,,,,
+HighGermanWalser,High German (Walser),,,,,
+Icelandic,Icelandic,,,,,
+LowGermanAchterhoek,Low German (Achterhoek),,,,,
+LowGermanBargstedt,Low German (Bargstedt),,,,,
+NorwegianStavanger,Norwegian (Stavanger),,,,,
+Scottish,Scottish,,,,,
+SwedishSkane,Swedish (Skane),,,,,
+SwedishStockholm,Swedish (Stockholm),,,,,
+WestFrisianGrou,West Frisian (Grou),,,,,
+YiddishNewYork,Yiddish (New York),,,,,
+ProtoGermanic,Proto-Germanic,,,,,
+Miyako,Miyako,Eurasia,,,nucl1643,jpn
+Tokyo,Tokyo,Eurasia,,,nucl1643,jpn
+Amami,Amami,Eurasia,,,nucl1643,jpn
+Kyoto,Kyoto,Eurasia,,,nucl1643,jpn
+Hachijo,Hachijō,Eurasia,,,nucl1643,jpn
+Shuri,Shuri,Eurasia,,,nucl1643,jpn
+Kochi,Kōchi,Eurasia,,,nucl1643,jpn
+Sado,Sado,Eurasia,,,nucl1643,jpn
+Oki,Oki,Eurasia,,,nucl1643,jpn
+Kagoshima,Kagoshima,Eurasia,,,nucl1643,jpn
+Assery,Asserøy,Eurasia,,,norw1258,nor
+Bjrnevatn,Bjørnevatn,Eurasia,,,norw1258,nor
+Borre,Borre,Eurasia,,,norw1258,nor
+Brekke,Brekke,Eurasia,,,norw1258,nor
+Bryne,Bryne,Eurasia,,,norw1258,nor
+Brnnysund,Brønnøysund,Eurasia,,,norw1258,nor
+Bygstad,Bygstad,Eurasia,,,norw1258,nor
+B,Bø,Eurasia,,,norw1258,nor
+Dokka,Dokka,Eurasia,,,norw1258,nor
+Dovre,Dovre,Eurasia,,,norw1258,nor
+Eggesbneset,Eggesbøneset,Eurasia,,,norw1258,nor
+Elnesvagen,Elnesvågen,Eurasia,,,norw1258,nor
+Fagerhaug,Fagerhaug,Eurasia,,,norw1258,nor
+Flate,Flåte,Eurasia,,,norw1258,nor
+FoldvikBrunlanes,"Foldvik, Brunlanes",Eurasia,,,norw1258,nor
+Fyllingsdalen,Fyllingsdalen,Eurasia,,,norw1258,nor
+Fyresdal,Fyresdal,Eurasia,,,norw1258,nor
+Gjra,Gjøra,Eurasia,,,norw1258,nor
+Hafrsfjord,Hafrsfjord,Eurasia,,,norw1258,nor
+Halden,Halden,Eurasia,,,norw1258,nor
+Hisy,Hisøy,Eurasia,,,norw1258,nor
+Hundvag,Hundvåg,Eurasia,,,norw1258,nor
+Kaldfarnes,Kaldfarnes,Eurasia,,,norw1258,nor
+Kristiansand,Kristiansand,Eurasia,,,norw1258,nor
+KrogtoftBorge,"Krogtoft, Borge",Eurasia,,,norw1258,nor
+Russland,Russland,Eurasia,,,norw1258,nor
+Lillehammer,Lillehammer,Eurasia,,,norw1258,nor
+Lomnes,Lomnes,Eurasia,,,norw1258,nor
+Mandal,Mandal,Eurasia,,,norw1258,nor
+Molde,Molde,Eurasia,,,norw1258,nor
+Mrkved,Mørkved,Eurasia,,,norw1258,nor
+NaasEide,"Naas, Eide",Eurasia,,,norw1258,nor
+Nordstrand,Nordstrand,Eurasia,,,norw1258,nor
+Orkanger,Orkanger,Eurasia,,,norw1258,nor
+RaundalenFagnastl,"Raundalen, Fagnastøl",Eurasia,,,norw1258,nor
+Sandnessjen,Sandnessjøen,Eurasia,,,norw1258,nor
+Selfors,Selfors,Eurasia,,,norw1258,nor
+Sortland,Sortland,Eurasia,,,norw1258,nor
+Stange,Stange,Eurasia,,,norw1258,nor
+Stanghelle,Stanghelle,Eurasia,,,norw1258,nor
+Stjrdal,Stjørdal,Eurasia,,,norw1258,nor
+Stjrdalshalsen,Stjørdalshalsen,Eurasia,,,norw1258,nor
+Sta,Støa,Eurasia,,,norw1258,nor
+Stre,Sætre,Eurasia,,,norw1258,nor
+Srkjosen,Sørkjosen,Eurasia,,,norw1258,nor
+Tjtta,Tjøtta,Eurasia,,,norw1258,nor
+Troms,Tromsø,Eurasia,,,norw1258,nor
+Trondheim,Trondheim,Eurasia,,,norw1258,nor
+Tynsetsentrum,Tynset sentrum,Eurasia,,,norw1258,nor
+Undheim,Undheim,Eurasia,,,norw1258,nor
+ra,Øra,Eurasia,,,norw1258,nor
+NorthMansi,North Mansi,,,,,
+MiddleLozvaMansi,Middle Lozva Mansi,,,,,
+LowerLozvaMansi,Lower Lozva Mansi,,,,,
+KondaMansi,Konda Mansi,,,,,
+TavdaMansi,Tavda Mansi,,,,,
+UpperDemjankaKhanti,Upper Demjanka Khanti,,,,,
+KondaKhanti,Konda Khanti,,,,,
+NizjamKhanti,Nizjam Khanti,,,,,
+SherkaliKhanti,Sherkali Khanti,,,,,
+VakhKhanti,Vakh Khanti,,,,,
+VerkhneKalimskKhanti,Verkhne Kalimsk Khanti,,,,,
+VasjuganKhanti,Vasjugan Khanti,,,,,
+VartovskojeKhanti,Vartovskoje Khanti,,,,,
+LikrisovskojeKhanti,Likrisovskoje Khanti,,,,,
+MalyjJuganKhanti,Malyj Jugan Khanti,,,,,
+TremjuganKhanti,Tremjugan Khanti,,,,,
+JuganKhanti,Jugan Khanti,,,,,
+KazimKhanti,Kazim Khanti,,,,,
+SinjaKhanti,Sinja Khanti,,,,,
+ObdorskKhanti,Obdorsk Khanti,,,,,
+PelimkaMansi,Pelimka Mansi,,,,,
+Italian,Italian,,,,,
+French,French,,,,,
+Occitan,Occitan,,,,,
+Ligurian,Ligurian,,,,,
+LombardWest,Lombard (West),,,,,
+LombardEast,Lombard (East),,,,,
+Ladino,Ladino,,,,,
+Venetian,Venetian,,,,,
+Beijing,Běijīng,Eurasia,39.9385466,116.1172766,beij1234,
+Changsha,Chángshà,Eurasia,28.85032,112.943344,chan1326,
+Chengdu,Chéngdū,Eurasia,30.605768,103.970947,chen1267,
+Fuzhou,Fùzhōu,Eurasia,26.08904,119.294243,fuzh1239,
+Guangzhou,Guǎngzhōu,Eurasia,23.1253503,112.9476548,guan1279,
+Guiyang,Guìyáng,,26.71691,106.638336,guiy1235,
+Haikou,Hǎikǒu,Eurasia,45.846595,126.551056,haer1234,
+Hangzhou,Hángzhōu,Eurasia,20.043869,110.329399,hain1237,
+Harbin,Hǎrbīn,Eurasia,30.261316,120.0318057,hang1257,
+Hefei,Héfēi,Eurasia,31.873593,117.223663,hefe1234,
+Hohhot,Hohhot,Eurasia,40.855526,111.743889,huhe1234,
+Jianou,Jian'ou,Eurasia,27.04237,118.307419,jian1240,
+Jinan,Jìnán,Eurasia,36.690777,116.997299,jina1245,
+Kunming,Kùnmíng,Eurasia,25.049711,102.72274,kunm1234,
+Lanzhou,Lánzhōu,Eurasia,36.080515,103.838425,lanz1234,
+Meixian,Měixiàn,Eurasia,24.3522958,115.8903375,yuet1238,
+Nanchang,Nánchàng,Eurasia,28.706609,115.857468,nanc1254,
+Nanjing,Nánjīng,Eurasia,32.0989607,118.4575646,nanj1234,
+Nanning,Nánníng,Eurasia,22.848716,108.366165,nann1239,
+Pingyao,Pingyao,Eurasia,37.1390706,111.9656111,ping1247,
+Qingdao,Qingdao,Eurasia,36.089393,120.379715,qing1240,
+Shanghai,Shànghǎi,Eurasia,31.222902,121.475372,shan1293,
+Shantou,Shāntóu,Eurasia,23.3372419,116.6068173,shan1244,
+Shexian,Shèxiàn,Eurasia,30.589829,118.428268,shex1234,
+Suzhou,Sùzhōu,Eurasia,31.3280439,120.364116,suzh1234,
+Taibei,Táiběi,Eurasia,25.0853403,121.4231642,taib1242,
+Taiyuan,Tàiyuán,Eurasia,37.8632119,112.4024883,taiy1243,
+Taoyuan,Táoyuán,Eurasia,24.854549,120.9520006,taoy1234,
+Tianjin,Tiānjìn,Eurasia,39.186072,117.215424,tian1238,
+Tunxi,Tūnxī,Eurasia,29.7201616,118.2294365,tunx1234,
+Urumqi,Ürümqi,Eurasia,28.005496,120.701179,ouji1238,
+Wenzhou,Wénzhōu,Eurasia,30.624086,114.305649,wuha1234,
+Wuhan,Wǔhàn,Eurasia,43.8216271,87.4226688,wulu1243,
+Xiamen,Xiàmén,Eurasia,34.228154,108.960571,xian1253,
+Xian,Xi'an,Eurasia,24.49421,118.08918,xiam1236,
+Xianggang,Xiānggǎng,Eurasia,22.422645,114.098396,xian1255,
+Xiangtan,Xiāngtàn,Eurasia,27.8482649,112.7688127,xian1254,
+Xining,Xīníng,Eurasia,36.671283,101.776886,xini1234,
+Yinchuan,Yīnchuàn,Eurasia,38.546662,106.240082,yinc1239,
+Zhengzhou,Zhèngzhōu,Eurasia,34.807715,113.639374,zhen1241,
+Bulgarian,Bulgarian,Eurasia,,,bulg1262,bul
+Czech,Czech,Eurasia,,,czec1258,ces
+Russian,Russian,Eurasia,,,russ1263,rus
+Polish,Polish,Eurasia,,,poli1260,pol
+Serbian,Serbian,Eurasia,,,sout1528,hbs
+Arconciel,Arconciel,Eurasia,,,stan1290,fra
+Arnex,Arnex,Eurasia,,,stan1290,fra
+AvrysurMatran,Avry-sur-Matran,Eurasia,,,stan1290,fra
+Ayent,Ayent,Eurasia,,,stan1290,fra
+Boudry,Boudry,Eurasia,,,stan1290,fra
+Cerlatez,Cerlatez,Eurasia,,,stan1290,fra
+CerneuxPequignot,Cerneux-Péquignot,Eurasia,,,stan1290,fra
+Champery,Champéry,Eurasia,,,stan1290,fra
+Charnex,Charnex,Eurasia,,,stan1290,fra
+ChateaudOex,Château-d'Oex,Eurasia,,,stan1290,fra
+ChauxduMilieu,Chaux-du-Milieu,Eurasia,,,stan1290,fra
+Chevroux,Chevroux,Eurasia,,,stan1290,fra
+Collex,Collex,Eurasia,,,stan1290,fra
+Collombey,Collombey,Eurasia,,,stan1290,fra
+Commugny,Commugny,Eurasia,,,stan1290,fra
+Conthey,Conthey,Eurasia,,,stan1290,fra
+Corcelles,Corcelles,Eurasia,,,stan1290,fra
+CoteauxFees,Côte-aux-Fées,Eurasia,,,stan1290,fra
+Court,Court,Eurasia,,,stan1290,fra
+Courtedoux,Courtedoux,Eurasia,,,stan1290,fra
+Courtepin,Courtepin,Eurasia,,,stan1290,fra
+Develier,Develier,Eurasia,,,stan1290,fra
+Dompierre,Dompierre,Eurasia,,,stan1290,fra
+Evolene,Évolène,Eurasia,,,stan1290,fra
+Fully,Fully,Eurasia,,,stan1290,fra
+Grimentz,Grimentz,Eurasia,,,stan1290,fra
+Grone,Grône,Eurasia,,,stan1290,fra
+Hermance,Hermance,Eurasia,,,stan1290,fra
+Laconnex,Laconnex,Eurasia,,,stan1290,fra
+Lamboing,Lamboing,Eurasia,,,stan1290,fra
+Landeron,Landeron,Eurasia,,,stan1290,fra
+LAuberson,L'Auberson,Eurasia,,,stan1290,fra
+LeSentier,Le Sentier,Eurasia,,,stan1290,fra
+Longirod,Longirod,Eurasia,,,stan1290,fra
+Lourtier,Lourtier,Eurasia,,,stan1290,fra
+Martigny,Martigny,Eurasia,,,stan1290,fra
+Miege,Miège,Eurasia,,,stan1290,fra
+Montalchez,Montalchez,Eurasia,,,stan1290,fra
+Montbovon,Montbovon,Eurasia,,,stan1290,fra
+Montpreveyres,Montpreveyres,Eurasia,,,stan1290,fra
+Murist,Murist,Eurasia,,,stan1290,fra
+Nendaz,Nendaz,Eurasia,,,stan1290,fra
+Noiraigue,Noiraigue,Eurasia,,,stan1290,fra
+OrmontDessus,Ormont-Dessus,Eurasia,,,stan1290,fra
+Orsieres,Orsières,Eurasia,,,stan1290,fra
+Orvin,Orvin,Eurasia,,,stan1290,fra
+Plagne,Plagne,Eurasia,,,stan1290,fra
+Prahins,Prahins,Eurasia,,,stan1290,fra
+Roche,Roche,Eurasia,,,stan1290,fra
+Savagnier,Savagnier,Eurasia,,,stan1290,fra
+Saviese,Savièse,Eurasia,,,stan1290,fra
+Semsalves,Semsalves,Eurasia,,,stan1290,fra
+Sombeval,Sombeval,Eurasia,,,stan1290,fra
+StGingolph,St-Gingolph,Eurasia,,,stan1290,fra
+Sugiez,Sugiez,Eurasia,,,stan1290,fra
+Vallorbe,Vallorbe,Eurasia,,,stan1290,fra
+Vaugondry,Vaugondry,Eurasia,,,stan1290,fra
+Vermes,Vermes,Eurasia,,,stan1290,fra
+Vernier,Vernier,Eurasia,,,stan1290,fra
+Veyrier,Veyrier,Eurasia,,,stan1290,fra
+VillarsleTerroir,Villars-le-Terroir,Eurasia,,,stan1290,fra
+Vullierens,Vullierens,Eurasia,,,stan1290,fra
+ShuigenCentralSandong,Sandong,Eurasia,25.724479,107.92172,sand1270,
+ZhongheCentralSandong,Zhonghe,Eurasia,25.817612,107.904898,sand1270,
+TangzhouWesternSandong,Tangzhou,Eurasia,25.775037,107.87072,sand1270,
+TingpaiWesternSandong,Tingpai,Eurasia,25.3756,107.5416,sand1270,
+AntangWesternSandong,Antang,Eurasia,25.935942,108.113772,sand1270,
+DujiangEasternSandong,Dujiang,Eurasia,26.009139,108.260898,sand1270,
+SanjiangEasternSandong,Sanjiang,Eurasia,26.009139,108.260898,sand1270,
+RenliEasternSandong,Renli,Eurasia,26.116584,108.435839,sand1270,
+JiuqianSouthernSandong,Jiuqian,Eurasia,25.615405,108.030525,sand1270,
+ShuiyaoSouthernSandong,Shuiyao,Eurasia,25.413123,107.969761,sand1270,
+JiarongSouthernSandong,Jiarong,Eurasia,25.493343,108.183955,sand1270,
+ShuiweiSouthernSandong,Shuiwei,Eurasia,25.710491,108.211043,sand1270,
+Pandong,Pandong,Eurasia,26.06349,107.693696,pand1262,
+JiaoliPandong,Jiaoli,Eurasia,26.059013,107.8486,pand1262,
+TangnianYangAn,Tangnian,Eurasia,25.58369,107.801479,anya1244,
+BanliangYangAn,Banliang,Eurasia,25.776111,107.870727,anya1244,
+Duhumbi,Duhumbi,Eurasia,27.42,92.23,chug1252,cvg
+Jerigaon,Jerigaon,Eurasia,27.340629,92.486595,jeri1243,
+Khispi,Khispi,Eurasia,27.37,92.23,lish1235,lsh
+Khoina,Khoina,Eurasia,27.334981,92.52994,khoi1253,
+Khoitam,Khoitam,Eurasia,27.327487,92.439455,khoi1252,
+Rahung,Rahung,Eurasia,27.310778,92.395028,rahu1234,
+Rupa,Rupa,Eurasia,27.203065,92.398757,rupa1234,
+Shergaon,Shergaon,Eurasia,27.105018,92.272133,sher1261,
+Achang,Achang (Longchuan),Eurasia,24.466605,97.89503,acha1249,acn
+Anong,Anong,Eurasia,,,nung1282,nun
+Atsi,Atsi [Zaiwa],Eurasia,24.17,98.36,zaiw1241,atb
+BijiangBai,Bai (Bijiang),Eurasia,,,biji1251,
+DaliBai,Bai (Dali),Eurasia,,,dali1242,
+JianchuanBai,Bai (Jianchuan),Eurasia,,,jian1239,
+BokarLhoba,Bokar Lhoba,Eurasia,,,boka1249,
+RangoonBurmese,Burmese (Spoken Rangoon),Eurasia,16.867489,96.191442,mand1476,
+WrittenBurmese,Burmese (Written),Eurasia,,,nucl1310,mya
+Darang,Darang [Taraon],Eurasia,,,diga1241,mhu
+DanbaErgong,Ergong (Danba),Eurasia,,,horp1239,ero
+Ersu,Ersu,Eurasia,,,ersu1241,ers
+Guiqiong,Guiqiong,Eurasia,,,guiq1238,gqi
+CaiyuanHani,Hani (Caiyuan),Eurasia,,,biyo1243,byo
+DazhaiHani,Hani (Dazhai),Eurasia,,,dazh1234,
+ShuikuiHani,Hani (Shuikui),Eurasia,,,honi1244,how
+Idu,Idu,Eurasia,,,idum1241,clk
+Jingpho,Jingpho,Eurasia,,,kach1280,kac
+Jinuo,Jinuo,Eurasia,,,youl1235,jiu
+Kaman,Kaman [Miju],Eurasia,,,miju1243,mxj
+BlackLahu,Lahu (Black),Eurasia,,,naaa1244,
+Lisu,Lisu,Eurasia,,,lisu1250,lis
+Maru,Maru [Langsu],Eurasia,,,lawn1238,
+Muya,Muya [Minyak],Eurasia,,,muya1239,
+Namuyi,Namuyi,Eurasia,,,namu1246,nmy
+LijiangNaxi,Naxi (Lijiang),Eurasia,,,lich1241,
+YongningNaxi,Naxi (Yongning),Eurasia,,,yong1270,nru
+BijiangNusu,Nusu (Bijiang),Eurasia,,,nusu1239,nuf
+QinghuaPumi,Pumi (Qinghua),Eurasia,,,qing1238,
+TaobaPumi,Pumi (Taoba),Eurasia,,,taob1238,
+MawoQiang,Qiang (Mawo),Eurasia,,,nort2722,cng
+TaopingQiang,Qiang (Taoping),Eurasia,,,taop1238,
+YajiangQueyu,Queyu (Yajiang) [Zhaba],Eurasia,,,quey1238,qvy
+Sulong,Sulung [Puroik],Eurasia,,,bugu1245,
+AmdoTibetanBlabrang,Tibetan (Amdo:Bla-brang),,,,,
+AmdoTibetanZeku,Tibetan (Amdo:Zeku),,,,,
+KhamsTibetan,Tibetan (Khams:Dege),Eurasia,,,kham1282,khg
+LhasaTibetan,Tibetan (Lhasa),Eurasia,,,utsa1239,
+WrittenTibetan,Tibetan (Written),Eurasia,,,clas1254,xct
+Trung,Trung [Dulong],Eurasia,27.749017,98.691868,drun1238,duu
+MotuoTsangla,Tsangla (Motuo),Eurasia,,,tsha1245,tsj
+MamaTshona,Tshona (Mama),Eurasia,,,dzal1238,dzl
+Tujia,Tujia,,,,tuji1244,
+Xumi,Xumi,Eurasia,,,shix1238,sxg
+DafangYi,Yi (Dafang),Eurasia,,,dafa1241,
+MileYi,Yi (Mile),Eurasia,27.16,105.61,axiy1235,yix
+MojiangYi,Yi (Mojiang),Eurasia,24.41,103.43,sout2723,nsd
+NanhuaYi,Yi (Nanhua),Eurasia,23.43,101.69,nanh1240,
+NanjianYi,Yi (Nanjian),Eurasia,25.19,101.27,xish1235,ywt
+XideYi,Yi (Xide),Eurasia,25.04,100.51,yish1238,
+MaerkangrGyalrong,rGyalrong,Eurasia,28.33,102.42,maer1238,
+NyagrongMinyag,Nyagrong Minyag (Ganzi Xinlong),Eurasia,30.932449,100.326871,muya1239,
+GanziDanbarGyalrong,rGyalrong (Ganzi Danba Badi Munashan),Eurasia,31.060903,101.855001,situ1238,
+JinchuanErkairGyalrong,rGyalrong (Jinchuan Erkai),Eurasia,31.464691,101.341027,shan1274,jih
+JinchuanGuaninqiaorGyalrong,rGyalrong (Jinchuan Guaninqiao Wobzi),Eurasia,31.639053,101.445432,eree1240,
+LixianXuechengrGyalrong,rGyalrong (Lixian Xuecheng Jiamizhai),Eurasia,31.617273,103.276061,lixi1238,
+MaerkangBolarGyalrongA,rGyalrong (Maerkang Bola (A)),Eurasia,31.915985,102.212059,maer1238,
+MaerkangBolarGyalrongB,rGyalrong (Maerkang Bola (B)),Eurasia,31.915985,102.212059,maer1238,
+MaerkangCaodengrGyalrong,rGyalrong (Maerkang Caodeng (B)),Eurasia,32.209102,101.832718,tsho1240,
+MaerkangJaphugrGyalrong,rGyalrong (Maerkang Japhug Shaerzong (B)),Eurasia,32.159653,102.159643,gdon1234,
+MaerkangSomanrGyalrong,rGyalrong (Maerkang Soman),Eurasia,31.864114,102.484959,maer1238,
+ProtoLalo,Proto-Lalo,,,,,
+Qingyun,Qingyun,Eurasia,24.8709,100.711,xish1235,ywt
+Shuizhuping,Shuizhuping,Eurasia,24.73,98.9,west1506,ywl
+Diaocao,Diaocao,Eurasia,25.435,100.178,dong1286,yik
+Xuzhang,Xuzhang,Eurasia,25.344026,99.112244,xuzh1234,
+Mangdi,Mangdi,Eurasia,23.5,99.33,sout3210,
+Yijiacun,Yijiacun,Eurasia,23.475,99.865,ekaa1234,
+Yangliu,Yangliu,Eurasia,25.22482,99.046326,yang1304,

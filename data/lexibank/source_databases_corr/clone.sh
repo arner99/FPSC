@@ -1,0 +1,9 @@
+git clone https://github.com/lexibank/bdpa
+git clone https://github.com/lexibank/bodtkhobwa
+git clone https://github.com/lexibank/castrosui
+git clone https://github.com/lexibank/chenhmongmien
+git clone https://github.com/lexibank/lundgrenomagoa
+git clone https://github.com/lexibank/naganorgyalrongic
+git clone https://github.com/lexibank/northeuralex
+git clone https://github.com/lexibank/suntb
+git clone https://github.com/lexibank/yanglalo

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/birchallchapacuran" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/bowernpny" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/carvalhopurus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/chaconarawakan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/chaconbaniwa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/chaconcolumbian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/constenlachibchan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/crossandean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/davletshinaztecan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/dravlex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/dunnaslian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/felekesemitic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/galuciotupi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/gerarditupi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/grollemundbantu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/hsiuhmongmien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/leeainu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/leejaponic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/leekoreanic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/lionnetyotonahua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/liusinitic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/luangthongkumkaren" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/mannburmish" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/mcelhanonhuon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/meloniromance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/nagarajakhasian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/peirosaustroasiatic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/peirosst" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/pharaocoracholaztecan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/ratcliffearabic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/robinsonap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/saenkoromance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/sagartst" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/savelyevturkic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/sidwellbahnaric" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/sidwellvietic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/simsrma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/starostinhmongmien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/starostintujia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/syrjaenenuralic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/utoaztecan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/walworthpolynesian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/wichmannmixezoquean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_change/zhangrgyalrong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_corr/bdpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_corr/bodtkhobwa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_corr/chenhmongmien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_corr/naganorgyalrongic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_corr/suntb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/lexibank/source_databases_corr/yanglalo" vcs="Git" />
+  </component>
+</project>
