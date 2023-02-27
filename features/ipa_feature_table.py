@@ -51,9 +51,13 @@ class IPAFeatureTable:
         return self.get(item) is not None
 
     def get(self, symbol):
+        if not isinstance(symbol, str):
+            return None
+
         if self.is_polyphthong(symbol):
             reordered_polyphthong = self.handle_polyphthong(symbol)
             symbol = reordered_polyphthong
+
         return self.handle_diacritic(symbol)
 
     def is_polyphthong(self, symbol):

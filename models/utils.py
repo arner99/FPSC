@@ -42,11 +42,11 @@ def generate_corr_train_data(conf_score_threshold, fp_in="resources/models/corr/
                             continue
 
 
-def generate_change_train_data(transition_fp):
+def generate_change_train_data(transition_fp, compression_rate=10, exclude_symbols=None):
     df = pd.read_csv(transition_fp, sep="\t", header=0, index_col=0)
 
-    df = df.drop(columns=["Unnamed: 3", "+", "#"], index=["+", "#"])
-    df = df[df.index.notnull()]
+    if exclude_symbols:
+        df = df.drop(columns=exclude_symbols, index=exclude_symbols)
 
     matrix = df.to_numpy()
 
@@ -61,8 +61,8 @@ def generate_change_train_data(transition_fp):
     matrix = np.delete(matrix, illegal_sounds_indices, 0)
     matrix = np.delete(matrix, illegal_sounds_indices, 1)
 
-    # compress alphas by factor 10, round to next int, cast back to int
-    matrix = np.rint(matrix / 10)
+    # compress transition counts by chosen rate, round to next int, cast back to int
+    matrix = np.rint(matrix / compression_rate)
     matrix = matrix.astype(int)
 
     assert matrix.shape[0] == matrix.shape[1] == len(alphabet)
