@@ -82,7 +82,7 @@ def normalize_by_source(source_sounds, target_sounds, probs):
 
 
 if __name__ == "__main__":
-    model = load_change_model("data/")
+    model = load_change_model("resources/models/change/trained_models/change-model-0.hdf5")
 
     sources = ["p", "f", "x", "h", "ⁿpʰ", "ⁿpʰ", "m̥", "bʷ", "v", "pʰ", "b", "m"]
     # sources = ["ⁿpʰ", "ⁿpʰ", "m̥", "bʷ", "v", "pʰ", "b", "m", "p", "f"]

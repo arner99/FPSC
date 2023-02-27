@@ -7,7 +7,7 @@ import os
 ids = []
 first_line_processed = False
 
-with open("data/lexibank/merged_dataset_change/cldf/parameters.csv") as f:
+with open("resources/lexibank/merged_dataset_change/cldf/parameters.csv") as f:
     for line in f:
         line = line.strip()
         if line == "" or not first_line_processed:
@@ -15,11 +15,11 @@ with open("data/lexibank/merged_dataset_change/cldf/parameters.csv") as f:
             continue
         ids.append(line.split(",")[0])
 
-lexibank_source_dir = "data/lexibank/source_databases_change"
+lexibank_source_dir = "resources/lexibank/source_databases_change"
 databases = [name for name in os.listdir(lexibank_source_dir)
              if os.path.isdir(os.path.join(lexibank_source_dir, name))]
 
-with open("data/lexibank/merged_dataset_change/parameters_with_concepticon.csv", "w") as out_file:
+with open("resources/lexibank/merged_dataset_change/parameters_with_concepticon.csv", "w") as out_file:
     out_file.write("ID,Name,Concepticon_ID,Concepticon_Gloss\n")
     for db in databases:
         with open(lexibank_source_dir + "/" + db + "/cldf/parameters.csv") as f:

@@ -1,7 +1,7 @@
 class IPAFeatureTable:
-    def __init__(self, fp="data/features/base_ipa_symbols.csv",
-                 diac_fp="data/features/diacritic_rules.csv",
-                 vow_fp="data/features/vowel_dimensions.csv"):
+    def __init__(self, fp="resources/features/base_ipa_symbols.csv",
+                 diac_fp="resources/features/diacritic_rules.csv",
+                 vow_fp="resources/features/vowel_dimensions.csv"):
         self.feature_table = dict()
         self.modifier_table = dict()
         self.vowel_dimensions = dict()

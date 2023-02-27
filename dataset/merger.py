@@ -121,6 +121,12 @@ def filter_forms(forms, inventory, undesired_symbols=None, threshold_one_lang=10
 
 
 def filter_forms_for_etinen(forms):
+    """
+    Filter out forms that contain symbols that can not be processed as IPA symbols.
+    Resolve slash notation in Lexibank phonetic transcriptions by uniformly choosing the segmentation
+    that follows the slash, if possible; and sticking to the segmentation before the slash only if the other one
+    can not be processed (and this one can).
+    """
     occurrences_per_unknown_symbol = {}
     filtered_forms = []
 

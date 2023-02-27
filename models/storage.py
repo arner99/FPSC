@@ -1,12 +1,12 @@
 from keras.models import Sequential
 import os
 import numpy as np
-from utils import generate_model_layers
+from models.utils import generate_model_layers
 
 
 def load_model(fp, **kwargs):
     model = Sequential(generate_model_layers(**kwargs))
-    model.compile(loss="binary_crossentropy", optimizer="adam")
+    model.compile()
     model.load_weights(fp)
     return model
 
@@ -19,7 +19,7 @@ def load_corr_model(fp="data/models/corr/trained_models/corr-model.hdf5", **kwar
 
 def load_change_model(fp, **kwargs):
     if "input_dim" not in kwargs:
-        kwargs["input_dim"] = 34
+        kwargs["input_dim"] = 68
     return load_model(fp, **kwargs)
 
 

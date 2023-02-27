@@ -5,10 +5,10 @@ from features.ipa_feature_table import IPAFeatureTable
 from keras.layers import LeakyReLU, PReLU, Dense, Dropout
 
 
-def generate_corr_train_data(conf_score_threshold, fp_in="data/models/corr/input/pmi_scores.tsv",
-                             fp_out="data/models/corr/input/train-data.txt",
-                             fp_out_gap="data/models/corr/input/gap-train-data.txt",
-                             fp_conf="data/models/corr/input/confidence_scores.tsv"):
+def generate_corr_train_data(conf_score_threshold, fp_in="resources/models/corr/input/pmi_scores.tsv",
+                             fp_out="resources/models/corr/input/train-data.txt",
+                             fp_out_gap="resources/models/corr/input/gap-train-data.txt",
+                             fp_conf="resources/models/corr/input/confidence_scores.tsv"):
     relevant_pairs = []
     with open(fp_conf, "r") as f:
         for line in f:

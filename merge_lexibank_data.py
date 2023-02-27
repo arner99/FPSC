@@ -1,3 +1,3 @@
 from dataset.merger import merge_datasets
 
-merge_datasets("data/lexibank/source_databases_change", "data/lexibank/merged_dataset_change")
+merge_datasets("resources/lexibank/source_databases_change", "resources/lexibank/merged_dataset_change")

@@ -3,19 +3,19 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/abvdoceanic/.github" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/abvdoceanic/abvdoceanic_commands" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/abvdoceanic/cldf-structure" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/abvdoceanic/output" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/bodtkhobwa/.github" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/bodtkhobwa/cldf" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/bodtkhobwa/etc" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/yanglalo/.github" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/yanglalo/etc" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/yanglalo/raw" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_change/lundgrenomagoa" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_corr/lundgrenomagoa" />
-      <excludeFolder url="file://$MODULE_DIR$/data/lexibank/source_databases_corr/northeuralex-0.9" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/abvdoceanic/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/abvdoceanic/abvdoceanic_commands" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/abvdoceanic/cldf-structure" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/abvdoceanic/output" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/bodtkhobwa/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/bodtkhobwa/cldf" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/bodtkhobwa/etc" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/yanglalo/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/yanglalo/etc" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/yanglalo/raw" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_change/lundgrenomagoa" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_corr/lundgrenomagoa" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/lexibank/source_databases_corr/northeuralex-0.9" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8.10 WSL (Ubuntu-20.04): (/home/arne/PycharmProjects/FPSC/venv/bin/python3.8)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
